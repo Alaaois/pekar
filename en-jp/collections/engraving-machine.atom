@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>/en-jp/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/en-jp/collections/engraving-machine.atom"/>
+  <title>laserpecker.net</title>
+  <updated>2023-08-16T19:37:14+08:00</updated>
+  <author>
+    <name>laserpecker.net</name>
+  </author>
+  <entry>
+    <id>/en-jp/products/7062944022575</id>
+    <published>2023-08-16T19:37:14+08:00</published>
+    <updated>2023-08-16T19:37:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-3-metal-laser-engraver"/>
+    <title>LaserPecker LP3 - High Precision Metal &amp; Plastic Laser Engraver</title>
+    <s:type>machine</s:type>
+    <s:vendor>laserpecker-net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/LaserPecker-3-Basic-Metal-Plastic-Handheld-Laser-Engraver.jpg?v=1667977216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker-net<br>
+        <strong>Type: </strong>machine<br>
+        <strong>Price: </strong>
+            1199.99 - 1439.99
+            <a href="/en-jp/products/laserpecker-3-metal-laser-engraver">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="63492ba514a2cd00d0bd5a6e" data-shogun-platform-type="shopify" data-shogun-page-version-id="63492ba414a2cd00d0bd5712" data-shogun-page-id="62c6c02dc192aa00c9be7c1e" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-id="62c6c02dc192aa00c9be7c1e" class="shogun-root">
+<script defer src="https://lib.getshogun.com/lazysizes/2.0.0/shogun-lazysizes.js" type="text/javascript"></script>
+<div class="shg-c" id="s-a64eef8e-d3eb-409d-8b96-6f9ff537e4eb">
+<div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-size: 18px; font-family: 'Noto Sans';"><span style="font-weight: 600;">Metal Engraver:</span> LaserPecker 3 is an optical fiber engraving machine for metal, plastic, and leather. Using a 1064nm pulsed laser, non-destructive engraving, no damage to the material. Gold, silver, copper, plastic, leather, etc. can be engraved.</span><br><span style="font-size: 18px; font-family: 'Noto Sans';"><span style="font-weight: 600;">Ultra-High Precision:</span> 4k precision, perfect picture reproduction. 0,01MM spot, visible details, LaserPecker 3 can help you complete what you what.</span><br><span style="font-size: 18px; font-family: 'Noto Sans';"><span style="font-weight: 600;">Dual Red-Light focus:</span> Say goodbye to cumbersome measurement procedures and double light coincidence to determine the focal length. At the click of a button, you can automatically lift and descend and start carving in the easiest way possible.</span><br><span style="font-size: 18px; font-family: 'Noto Sans';"><span style="font-weight: 600;">Batch engraving:</span> Built-in batch engraving card slot, to achieve batch engraving is not a problem. Use the batch button to sculpt again with each click. Batch production of business cards and customized bookmarks is very convenient, you can open your own studio at home.</span><br><span style="font-size: 18px; font-family: 'Noto Sans';"><span style="font-weight: 600;">No restrictions:</span> unlimited time, place, and angle, just plug in and use. 360° rotation, no need to worry about the angle of engraving, bring a power bank, whether you are traveling or traveling, you can carry it with you.</span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Laser Engraver</s:tag>
+    <s:tag>laserpecker 3</s:tag>
+    <s:tag>LP</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Basic / US</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L3-Basic-US</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Basic / EU</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L3-Basic-EU</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Basic / UK</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L3-Basic-UK</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Basic / JP</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L3-Basic-JP</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Basic / AU</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L3-Basic-AU</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Basic / KR</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L3-Basic-KR</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Suit / US</title>
+      <s:price currency="USD">1359.99</s:price>
+      <s:sku>L3-Suit-US</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Suit / EU</title>
+      <s:price currency="USD">1359.99</s:price>
+      <s:sku>L3-Suit-EU</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Suit / UK</title>
+      <s:price currency="USD">1359.99</s:price>
+      <s:sku>L3-Suit-UK</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Suit / JP</title>
+      <s:price currency="USD">1359.99</s:price>
+      <s:sku>L3-Suit-JP</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Suit / AU</title>
+      <s:price currency="USD">1359.99</s:price>
+      <s:sku>L3-Suit-AU</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Suit / KR</title>
+      <s:price currency="USD">1359.99</s:price>
+      <s:sku>L3-Suit-KR</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Deluxe / US</title>
+      <s:price currency="USD">1439.99</s:price>
+      <s:sku>L3-Deluxe-US</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Deluxe / EU</title>
+      <s:price currency="USD">1439.99</s:price>
+      <s:sku>L3-Deluxe-EU</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Deluxe / UK</title>
+      <s:price currency="USD">1439.99</s:price>
+      <s:sku>L3-Deluxe-UK</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Deluxe / JP</title>
+      <s:price currency="USD">1439.99</s:price>
+      <s:sku>L3-Deluxe-JP</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Deluxe / AU</title>
+      <s:price currency="USD">1439.99</s:price>
+      <s:sku>L3-Deluxe-AU</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7062944022575</id>
+      <title>LP3 Deluxe / KR</title>
+      <s:price currency="USD">1439.99</s:price>
+      <s:sku>L3-Deluxe-KR</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/8385094975784</id>
+    <published>2023-07-18T21:39:21+08:00</published>
+    <updated>2023-07-18T21:39:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-4"/>
+    <title>Preorder-LaserPecker LP4 - The World&apos;s First Dual-laser Engraver for Most Materials</title>
+    <s:type>machine</s:type>
+    <s:vendor>laserpecker.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/files/SKU-_2_8c2969a8-eda1-444c-b1df-530eff8c6ea9.jpg?v=1691459508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker.net<br>
+        <strong>Type: </strong>machine<br>
+        <strong>Price: </strong>
+            1699.00 - 2158.00
+            <a href="/en-jp/products/laserpecker-4">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Free Standard Global shipping is available for the LP4 (except Korea, Hong Kong, China Mainland, &amp; India). <br> <strong>*Fast dispatch from EU, UK and US local warehouses.</strong><br><br><strong>Shipping Update:</strong><br>For United States and Europe customers: Orders placed from August 1st - the estimated shipping time is early September.<br>For customers outside of the United States and Europe: Orders placed from August 15th - the estimated shipping time is mid September.</p>
+<p><strong>Features:</strong><br></p>
+<ul>
+<li>The World's First Portable Dual-Laser For All Almost Materials!</li>
+<li>Unmatched Portability &amp; Functionality With A Larger Engraving Area!</li>
+<li>Easy To Use Multifunction, Smart LED Touch Screen!</li>
+<li>The Most Accurate, Powerful, &amp; Fastest LaserPecker EVER!</li>
+</ul>
+<ul class="iw-contextMenu iw-created iw-cm-menu" id="iw-contextMenu9355" menuid="29816"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Laser Engraver</s:tag>
+    <s:tag>LP</s:tag>
+    <s:tag>LP4</s:tag>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4 / US</title>
+      <s:price currency="USD">1699.00</s:price>
+      <s:sku>LP4 Basic-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4 / EU</title>
+      <s:price currency="USD">1699.00</s:price>
+      <s:sku>LP4 Basic-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4 / UK</title>
+      <s:price currency="USD">1699.00</s:price>
+      <s:sku>LP4 Basic-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4 / JP</title>
+      <s:price currency="USD">1699.00</s:price>
+      <s:sku>LP4 Basic-JP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4 / AU</title>
+      <s:price currency="USD">1699.00</s:price>
+      <s:sku>LP4 Basic-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Slide Extension / US</title>
+      <s:price currency="USD">1869.00</s:price>
+      <s:sku>LP4 Suit-S-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Slide Extension / EU</title>
+      <s:price currency="USD">1869.00</s:price>
+      <s:sku>LP4 Suit-S-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Slide Extension / UK</title>
+      <s:price currency="USD">1869.00</s:price>
+      <s:sku>LP4 Suit-S-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Slide Extension / JP</title>
+      <s:price currency="USD">1869.00</s:price>
+      <s:sku>LP4 Suit-S-JP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Slide Extension / AU</title>
+      <s:price currency="USD">1869.00</s:price>
+      <s:sku>LP4 Suit-S-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Rotary Extension / US</title>
+      <s:price currency="USD">1988.00</s:price>
+      <s:sku>LP4 Suit-R-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Rotary Extension / EU</title>
+      <s:price currency="USD">1988.00</s:price>
+      <s:sku>LP4 Suit-R-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Rotary Extension / UK</title>
+      <s:price currency="USD">1988.00</s:price>
+      <s:sku>LP4 Suit-R-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Rotary Extension / JP</title>
+      <s:price currency="USD">1988.00</s:price>
+      <s:sku>LP4 Suit-R-JP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Rotary Extension / AU</title>
+      <s:price currency="USD">1988.00</s:price>
+      <s:sku>LP4 Suit-R-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Rotary Extension+Slide Extension / US</title>
+      <s:price currency="USD">2158.00</s:price>
+      <s:sku>LP4 Deluxe-US</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Rotary Extension+Slide Extension / EU</title>
+      <s:price currency="USD">2158.00</s:price>
+      <s:sku>LP4 Deluxe-EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Rotary Extension+Slide Extension / UK</title>
+      <s:price currency="USD">2158.00</s:price>
+      <s:sku>LP4 Deluxe-UK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Rotary Extension+Slide Extension / JP</title>
+      <s:price currency="USD">2158.00</s:price>
+      <s:sku>LP4 Deluxe-JP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/8385094975784</id>
+      <title>LP4+Rotary Extension+Slide Extension / AU</title>
+      <s:price currency="USD">2158.00</s:price>
+      <s:sku>LP4 Deluxe-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7043276210223</id>
+    <published>2022-06-08T17:27:50+08:00</published>
+    <updated>2022-06-08T17:27:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-basic-super-fast-handheld-laser-engraver-cutter"/>
+    <title>LaserPecker LP2 - Portable and Handleable Laser Engraver</title>
+    <s:type>machine</s:type>
+    <s:vendor>LaserPecker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/files/LP2Basic.jpg?v=1685106424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LaserPecker<br>
+        <strong>Type: </strong>machine<br>
+        <strong>Price: </strong>
+            799.99 - 1199.99
+            <a href="/en-jp/products/laserpecker-2-basic-super-fast-handheld-laser-engraver-cutter">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="62a86423319aee00cf5e9c74" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="62a86423319aee00cf5e9c74" data-shogun-page-version-id="64ae271568b2a900cfa43aa0" data-shogun-platform-type="shopify" data-shogun-variant-id="64ae271d68b2a900cfa44837" data-region="main">
+  
+<div id="s-bfea567e-afee-43f6-a855-03ad08033bc6" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><span style="font-size: 16px; font-family: 'Noto Sans';"><span style="font-weight: 600;">Super Fast Engraving:</span> The LaserPecker 2 Laser Engraver with the dual lens galvanometer technology makes this tool run super faster. 600mm/s max engraving speed, frame/graphic preview speed up to 3750mm/s.</span></p>
+<p><span style="font-size: 16px; font-family: 'Noto Sans';"><span style="font-weight: 600;">Finer Details: </span>The compressed spot of the LaserPecker engraving machine is as tiny as 0.05 * 0.05mm, smaller laser spot and double lens focus create more details to make your artwork more lifelike.</span></p>
+<p><span style="font-size: 16px; font-family: 'Noto Sans';"><span style="font-weight: 600;">Functional: </span>LaserPecker engraving machine can engrave paper, cardboard, wood, leather, acrylic, anodized/coated aluminum, stainless steel, etc.</span></p>
+<p><span style="font-size: 16px; font-family: 'Noto Sans';"><span style="font-weight: 600;">Easier To Use:</span> No complicated assembly is required, allowing you to get started faster. Set up in seconds and start your handcraft projects. It works with Smartphone/PC connection.</span></p>
+<p><span style="font-size: 16px; font-family: 'Noto Sans';"><span style="font-weight: 600;">More Safely:<strong> With blue light filter protection cover and goggles, double protection reduces blue light damage to the eyes. LaserPecker grabadora laser automatically stops for vibration, tilting, and over temperature.</strong></span></span></p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>import_2022_05_31_063924</s:tag>
+    <s:tag>import_2022_06_08_092500</s:tag>
+    <s:tag>Laser Engraver</s:tag>
+    <s:tag>laserpecker 2</s:tag>
+    <s:tag>LP</s:tag>
+    <s:tag>product</s:tag>
+    <s:tag>validate-product-description</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Basic / US</title>
+      <s:price currency="USD">799.99</s:price>
+      <s:sku>L2-Basic-US</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Basic / UK</title>
+      <s:price currency="USD">799.99</s:price>
+      <s:sku>L2-Basic-UK</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Basic / EU</title>
+      <s:price currency="USD">799.99</s:price>
+      <s:sku>L2-Basic-EU</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Basic / JP</title>
+      <s:price currency="USD">799.99</s:price>
+      <s:sku>L2-Basic-JP</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Basic / AU</title>
+      <s:price currency="USD">799.99</s:price>
+      <s:sku>L2-Basic-AU</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Basic / KR</title>
+      <s:price currency="USD">799.99</s:price>
+      <s:sku>L2-Basic-KR</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Suit / US</title>
+      <s:price currency="USD">959.99</s:price>
+      <s:sku>L2-Suit-US</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Suit / UK</title>
+      <s:price currency="USD">959.99</s:price>
+      <s:sku>L2-Suit-UK</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Suit / EU</title>
+      <s:price currency="USD">959.99</s:price>
+      <s:sku>L2-Suit-EU</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Suit / JP</title>
+      <s:price currency="USD">959.99</s:price>
+      <s:sku>L2-Suit-JP</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Suit / AU</title>
+      <s:price currency="USD">959.99</s:price>
+      <s:sku>L2-Suit-AU</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Suit / KR</title>
+      <s:price currency="USD">959.99</s:price>
+      <s:sku>L2-Suit-KR</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Deluxe / US</title>
+      <s:price currency="USD">1079.99</s:price>
+      <s:sku>L2-Delux-US</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Deluxe / UK</title>
+      <s:price currency="USD">1079.99</s:price>
+      <s:sku>L2-Delux-UK</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Deluxe / EU</title>
+      <s:price currency="USD">1079.99</s:price>
+      <s:sku>L2-Delux-EU</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Deluxe / JP</title>
+      <s:price currency="USD">1079.99</s:price>
+      <s:sku>L2-Delux-JP</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Deluxe / AU</title>
+      <s:price currency="USD">1079.99</s:price>
+      <s:sku>L2-Delux-AU</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Deluxe / KR</title>
+      <s:price currency="USD">1079.99</s:price>
+      <s:sku>L2-Delux-KR</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Super / US</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L2-SUPER-US</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Super / UK</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L2-SUPER-UK</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Super / EU</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L2-SUPER-EU</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Super / JP</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L2-SUPER-JP</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Super / AU</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L2-SUPER-AU</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276210223</id>
+      <title>LP2 Super / KR</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>L2-SUPER-KR</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7043275948079</id>
+    <published>2022-06-08T17:27:48+08:00</published>
+    <updated>2022-06-08T17:27:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/l1-pro-basic-the-most-compact-safe-easy-to-use-laser-engraver"/>
+    <title>LaserPecker LP1 Pro -The Most User-friendly Entry-level Laser Engraver ( Not Ship to EU)</title>
+    <s:type>machine</s:type>
+    <s:vendor>LaserPecker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/LaserPecker-Pro-Basic-The-Most-Advanced-Portable-Laser-Engraver-Not-Ship-to-EU.jpg?v=1667976763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LaserPecker<br>
+        <strong>Type: </strong>machine<br>
+        <strong>Price: </strong>
+            279.99 - 482.99
+            <a href="/en-jp/products/l1-pro-basic-the-most-compact-safe-easy-to-use-laser-engraver">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="62ad43b796d9da00f187540d" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="62ad43b796d9da00f187540d" data-shogun-page-version-id="646ed7c7d4f4a400cccb6162" data-shogun-platform-type="shopify" data-shogun-variant-id="646ed7c8d4f4a400cccb682d" data-region="main">
+  
+<div id="s-c312f10d-9b17-441f-aa7c-6f8ba7eff6bc" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content"><p>【Wide Application】Engraves on a wide variety of materials, like Paper-board, Fabric, Wood, Leather, Felt, Plastic, Cloth, Fruit, Reflective Material, and more<br>【More Accurate Precision】LaserPecker Pro has a 0.15mm light spot and high quality 405nm blue-violet laser, making accurate precision engraving<br>【Easy APP】 In-App Editing Mode allows to create of any patterns and words, modify the pictures or photos to engrave, features many picture editing tools;<br>【Work on nearly any surface and tiny objects】This unique laser etcher can engrave on any surface or on tiny objects, a small light jobs like DIY Creation, Crafting, and Lightweight Project<br>【Safe and Guarantee】LaserPecker Pro has built-in protections to ensure safe use: overheat shutdown, password lock, motion detection, goggles; Safe Certification: CE, FCC, FDA, RoHS, CDRH,IEC 60825-1 (Laser Class1)， IEC 60825-1 (Laser Class 4); 30 days free replacement parts</p></div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>import_2022_05_31_063924</s:tag>
+    <s:tag>import_2022_06_08_092500</s:tag>
+    <s:tag>L1 Pro</s:tag>
+    <s:tag>Laser Engraver</s:tag>
+    <s:tag>LP</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Basic / US</title>
+      <s:price currency="USD">279.99</s:price>
+      <s:sku>L1-PRO-US</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Basic / EU</title>
+      <s:price currency="USD">279.99</s:price>
+      <s:sku>L1-PRO-EU</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Basic / UK</title>
+      <s:price currency="USD">279.99</s:price>
+      <s:sku>L1-PRO-UK</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Basic / JP</title>
+      <s:price currency="USD">279.99</s:price>
+      <s:sku>L1-PRO-JP</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Basic / AU</title>
+      <s:price currency="USD">279.99</s:price>
+      <s:sku>L1-PRO-AU</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Basic / KR</title>
+      <s:price currency="USD">279.99</s:price>
+      <s:sku>L1-PRO-KR</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Suit / US</title>
+      <s:price currency="USD">398.99</s:price>
+      <s:sku>L1-PRO-SUIT-US</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Suit / EU</title>
+      <s:price currency="USD">398.99</s:price>
+      <s:sku>L1-PRO-SUIT-EU</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Suit / UK</title>
+      <s:price currency="USD">398.99</s:price>
+      <s:sku>L1-PRO-SUIT-UK</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Suit / JP</title>
+      <s:price currency="USD">398.99</s:price>
+      <s:sku>L1-PRO-SUIT-JP</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Suit / AU</title>
+      <s:price currency="USD">398.99</s:price>
+      <s:sku>L1-PRO-SUIT-CN</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Deluxe / US</title>
+      <s:price currency="USD">440.99</s:price>
+      <s:sku>L1-PRO-SUIT-SHEILD-US</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Deluxe / EU</title>
+      <s:price currency="USD">440.99</s:price>
+      <s:sku>L1-PRO-SUIT-SHEILD-EU</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Deluxe / UK</title>
+      <s:price currency="USD">440.99</s:price>
+      <s:sku>L1-PRO-SUIT-SHEILD-UK</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Deluxe / JP</title>
+      <s:price currency="USD">440.99</s:price>
+      <s:sku>L1-PRO-SUIT-SHEILD-JP</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Deluxe / AU</title>
+      <s:price currency="USD">440.99</s:price>
+      <s:sku>L1-PRO-SUIT-SHEILD-CN</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Super / US</title>
+      <s:price currency="USD">482.99</s:price>
+      <s:sku>L1-PRO-SUPER-US</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Super / EU</title>
+      <s:price currency="USD">482.99</s:price>
+      <s:sku>L1-PRO-SUPER-EU</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Super / UK</title>
+      <s:price currency="USD">482.99</s:price>
+      <s:sku>L1-PRO-SUPER-UK</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Super / JP</title>
+      <s:price currency="USD">482.99</s:price>
+      <s:sku>L1-PRO-SUPER-JP</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275948079</id>
+      <title>LP1 Pro Super / AU</title>
+      <s:price currency="USD">482.99</s:price>
+      <s:sku>L1-PRO-SUPER-CN</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7043276505135</id>
+    <published>2022-06-08T17:27:44+08:00</published>
+    <updated>2022-06-08T17:27:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/l1-the-most-useful-mini-handheld-laser-engraver"/>
+    <title>LaserPecker LP1 - Pocket-size Mini Laser Engraver ( Not Ship to EU)</title>
+    <s:type>machine</s:type>
+    <s:vendor>LaserPecker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/1_eea72d98-5a3f-4698-9334-e48625993a99.jpg?v=1677570299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LaserPecker<br>
+        <strong>Type: </strong>machine<br>
+        <strong>Price: </strong>
+            209.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="62ad71ab48045500ce86677c" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="62ad71ab48045500ce86677c" data-shogun-page-version-id="641176b782a5ac00d098c1de" data-shogun-platform-type="shopify" data-shogun-variant-id="641176b782a5ac00d098c539" data-region="main">
+  
+<div id="s-56c26be6-be63-40a1-8c6f-41fb9c811292" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content"><p>【Multi-Engraving Machine】Wood, Kraft paper, Leather, Fruit, Felt etc.<br>【 Higher Accuracy】1.6W LaserPecker 1 with 0.3mm compressed spot results in detailed and vivid engraving images.<br>【Wide Compatibility &amp; Smart App】Support 4 engraving modes, import images, text, drawing or painting directly; Supported File Formats: JPG / BMP /PNG /G-code etc.<br>【Durable and Safe】 Laser etching machine with high quality laser head make durablity, better stability and long working time. <br>【Perfect DIY Tool】 Ideal for engraving personal mark and make special Christmas, birthday, wedding gifts for your friends or family.<br>【Protective Case 】Use easily without adjust the laser height by hand, ease to remove smoke and protect your eyes.</p></div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>import_2022_05_31_063924</s:tag>
+    <s:tag>import_2022_06_08_092500</s:tag>
+    <s:tag>Laser Engraver</s:tag>
+    <s:tag>laserpecker 1</s:tag>
+    <s:tag>LP</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7043276505135</id>
+      <title>US</title>
+      <s:price currency="USD">209.99</s:price>
+      <s:sku>L1-GOLD-US</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276505135</id>
+      <title>UK</title>
+      <s:price currency="USD">209.99</s:price>
+      <s:sku>L1-GOLD-Uk</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276505135</id>
+      <title>EU</title>
+      <s:price currency="USD">209.99</s:price>
+      <s:sku>L1-GOLD-EU</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276505135</id>
+      <title>AU</title>
+      <s:price currency="USD">209.99</s:price>
+      <s:sku>L1-GOLD-AU</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276505135</id>
+      <title>JP</title>
+      <s:price currency="USD">209.99</s:price>
+      <s:sku>L1-GOLD-JP</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276505135</id>
+      <title>CN</title>
+      <s:price currency="USD">209.99</s:price>
+      <s:sku>L1-GOLD-CN</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276505135</id>
+      <title>KR</title>
+      <s:price currency="USD">209.99</s:price>
+      <s:sku>L1-GOLD-KR</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

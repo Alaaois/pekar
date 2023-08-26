@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>/en-jp/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/en-jp/collections/lx-accessories.atom"/>
+  <title>laserpecker.net</title>
+  <updated>2023-04-12T10:47:00+08:00</updated>
+  <author>
+    <name>laserpecker.net</name>
+  </author>
+  <entry>
+    <id>/en-jp/products/8219833893160</id>
+    <published>2023-04-12T10:47:00+08:00</published>
+    <updated>2023-04-12T10:47:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/preorder-laserpecker-lx1-lx1-max-artist-module"/>
+    <title>LaserPecker LX1 &amp; LX1 Max Artist Module</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/04.png?v=1681267622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker.net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            97.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="64361bb7f8d90900cc5ff882" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="64361bb7f8d90900cc5ff882" data-shogun-page-version-id="64cb0d44b16efa00ceff34f7" data-shogun-platform-type="shopify" data-shogun-variant-id="64cb0d44b16efa00ceff3500" data-region="main">
+  
+<div id="s-15df7ef9-4222-410d-a64d-0def22e78830" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content"><p>Effortless Drawing<br>For creators of all ages<br>Use a Variety of Pens or Drawing Implements</p></div>
+</div>
+<div id="s-5af9ba98-a6f0-484f-a895-cba5ca1fa1a3" class="shg-c  ">
+  
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LX Accessories</s:tag>
+    <s:variant>
+      <id>/en-jp/products/8219833893160</id>
+      <title>Default Title</title>
+      <s:price currency="USD">97.99</s:price>
+      <s:sku>LX1-Artist</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/8205212778792</id>
+    <published>2023-03-31T21:08:52+08:00</published>
+    <updated>2023-03-31T21:08:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/lx1-max-laser-protection-cover"/>
+    <title>Preorder-LX1 Max Laser Protection Cover</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/Max_-01.webp?v=1681391782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker.net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            319.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="6426db8053f16400e68dc10a" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="6426db8053f16400e68dc10a" data-shogun-page-version-id="64cb0cacfbd78e00cb2769a7" data-shogun-platform-type="shopify" data-shogun-variant-id="64cb0cacfbd78e00cb2769b0" data-region="main">
+  
+<div id="s-309b490e-38c3-4245-a156-fda60e060d33" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><strong>Presale Shipping Time: October, 2023</strong></p>
+<p>LX1 Max Laser Protection Cover<br>Compatibility: LX1 Max<br>Size: 1040*632*320mm/40.94"*24.88"*12.6"<br>Material: Acrylic &amp; Aluminum Alloy &amp; Fireproof Fabric<br>Wavelength: 190nm-550nm, 800nm-1100nm，355nm, 450nm，532nm，1064nm</p>
+</div>
+</div>
+<div id="s-52ae35d0-e27c-4d08-a53a-ff45910fb7d4" class="shg-c  ">
+  
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LX Accessories</s:tag>
+    <s:variant>
+      <id>/en-jp/products/8205212778792</id>
+      <title>Default Title</title>
+      <s:price currency="USD">319.20</s:price>
+      <s:sku>LX1Max Protect Cover</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/8205209796904</id>
+    <published>2023-03-31T21:03:54+08:00</published>
+    <updated>2023-03-31T21:03:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/lx1-max-engraving-bed-cutting-plate"/>
+    <title>Preorder-LX1 Max Engraving Bed &amp; Cutting Plate</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/Max_-02_c24caf55-9810-448f-9f26-05542d0a871d.webp?v=1681391826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker.net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            223.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="6426da57200a31011d32e26b" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="6426da57200a31011d32e26b" data-shogun-page-version-id="64cb0c09b16efa00ef09a4ee" data-shogun-platform-type="shopify" data-shogun-variant-id="64cb0c09b16efa00ef09a4f7" data-region="main">
+  
+<div id="s-603518d9-b3d8-4ee4-9336-d2f0c459c050" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><strong>Presale Shipping Time: October, 2023</strong></p>
+<p>LX1 Max Engraving Bed &amp; Cutting Plate<br>Compatibility: LX1 Max<br>Size: 815*445*26mm/32.08''*17.51''*1.02''<br>Weight: 3.24kg<br>Material: Aluminium</p>
+</div>
+</div>
+<div id="s-7fb1cc37-094c-41d4-973d-1e4e8545045d" class="shg-c  ">
+  
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LX Accessories</s:tag>
+    <s:variant>
+      <id>/en-jp/products/8205209796904</id>
+      <title>Default Title</title>
+      <s:price currency="USD">223.20</s:price>
+      <s:sku>LX1Max Cutting Plate</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/8190708416808</id>
+    <published>2023-03-22T15:56:39+08:00</published>
+    <updated>2023-03-22T15:56:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laser-safety-cover"/>
+    <title>Preorder-LX1 Laser Protection Cover</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/02_39e2e0a2-f420-4f7b-a5e1-837df1095e61.webp?v=1679920532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker.net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            159.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="641ab4c313c4fa00cf8d264d" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="641ab4c313c4fa00cf8d264d" data-shogun-page-version-id="64cb0cf19aca3700dc7ccc1e" data-shogun-platform-type="shopify" data-shogun-variant-id="64cb0cf19aca3700dc7ccc27" data-region="main">
+  
+<div id="s-37c5b689-8333-4bca-9a08-6442e4817dbc" class="shg-c  ">
+  <audio controls="controls" style="display: none;"></audio>
+</div>
+<div id="s-71fcf982-d335-4579-9dbb-3c27b5447fde" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><strong>Presale Shipping Time: October, 2023</strong></p>
+<p>Fully enclosed design ensure optimal eye protection.</p>
+<p><strong>Size:</strong></p>
+<p>642mm x 632mm x 335mm(25.47'' x 24.88'' x 12.32'')</p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LX Accessories</s:tag>
+    <s:variant>
+      <id>/en-jp/products/8190708416808</id>
+      <title>Default Title</title>
+      <s:price currency="USD">159.20</s:price>
+      <s:sku>LX1 Protect Cover</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/8190705500456</id>
+    <published>2023-03-22T15:44:32+08:00</published>
+    <updated>2023-03-22T15:44:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/engraving-bed-cutting-plate"/>
+    <title>Preorder-LX1 Engraving Bed &amp; Cutting Plate</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/02_e2238728-f222-47d8-9dcd-50ac7aed3ce1.webp?v=1681391848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker.net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            127.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="641ab217f2afc700e9e1f6ae" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="641ab217f2afc700e9e1f6ae" data-shogun-page-version-id="64cb0c43b16efa00ff01ce38" data-shogun-platform-type="shopify" data-shogun-variant-id="64cb0c43b16efa00ff01ce41" data-region="main">
+  
+<div id="s-fb37a98f-b965-485d-9ffe-bf3c190aa92f" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><strong>Presale Shipping Time: October, 2023</strong></p>
+<p>Accurate material placement enabeling easy.<br>efficient and repeeatable work.</p>
+<p><strong>Size:</strong></p>
+<p>LX1 Engraving Bed &amp; Cutting Plate<br>Compatibility: LX1<br>Size: 429mm x 437mm(16.89'' x 17.2'')<br>Weight: 1.62kg<br>Material: Aluminum</p>
+</div>
+</div>
+<div id="s-666e0a74-51ac-4c1a-bc3f-736b0f19bbf3" class="shg-c  ">
+  
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LX Accessories</s:tag>
+    <s:variant>
+      <id>/en-jp/products/8190705500456</id>
+      <title>Default Title</title>
+      <s:price currency="USD">127.20</s:price>
+      <s:sku>LX1 Cutting Plate</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/8190703173928</id>
+    <published>2023-03-22T15:34:28+08:00</published>
+    <updated>2023-03-22T15:34:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/riser"/>
+    <title>LX1/LX1 Max Riser (4 Packs)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/01_79487c7d-67cb-4868-9187-22a26a374d18.webp?v=1691028338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker.net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            27.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="641ab02b13c4fa00e38d6b28" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="641ab02b13c4fa00e38d6b28" data-shogun-page-version-id="64cb0baac0563400e031d1fa" data-shogun-platform-type="shopify" data-shogun-variant-id="64cb0baac0563400e031d203" data-region="main">
+  
+<div id="s-1ea0977d-3369-4078-894d-54597e85467e" class="shg-c  ">
+  <audio controls="controls" style="display: none;"></audio>
+</div>
+<div id="s-7ed86cb9-1b3a-4ef9-8888-9d4235cc088a" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p>Facilitate raising LX1 and LX1 Max toengrave higher objects</p>
+<p><strong>Size:</strong></p>
+<p>70mm x 30mm x 60mm(2.75'' x 1.18'' x 2.36'')</p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LX Accessories</s:tag>
+    <s:variant>
+      <id>/en-jp/products/8190703173928</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.30</s:price>
+      <s:sku>Riser</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/8190696390952</id>
+    <published>2023-03-22T15:18:41+08:00</published>
+    <updated>2023-03-22T15:18:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/rotary-extension"/>
+    <title>Rotary Extension For LX1 &amp; LX1 Max/LP4</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/files/04.jpg?v=1690800928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker.net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            319.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="641aabf3ff4f7100f8c333cd" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="641aabf3ff4f7100f8c333cd" data-shogun-page-version-id="64cb86b5c0563400f8429a26" data-shogun-platform-type="shopify" data-shogun-variant-id="64cb86b5c0563400f8429a2f" data-region="main">
+  
+<div id="s-04aefdaf-261a-4cd4-bcfb-7ed19a34b580" class="shg-c  ">
+  <audio controls="controls" style="display: none;"></audio>
+</div>
+<div id="s-57c90ad2-6caa-495b-a1fe-8a08cfe3d890" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p><strong>Irregular &amp; Rounded Surfaces</strong></p>
+<p>Now you can customize an irregular cylinder! The Rotary Extension features three adjustable jaw attachments, which support engraving objects with a diameter of 3mm-200mm. Whether it is conical, sphere, cylindrical, or annular inner or outer walls.</p>
+<p><strong>Size:</strong></p>
+<p>308mm x 99mm x 108mm(12.12'' x 3.89'' x 13.19'')</p>
+<p>Compatibility: LP4, LX1 and LX1 Max</p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LX Accessories</s:tag>
+    <s:variant>
+      <id>/en-jp/products/8190696390952</id>
+      <title>Default Title</title>
+      <s:price currency="USD">319.20</s:price>
+      <s:sku>Rotary Extension</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

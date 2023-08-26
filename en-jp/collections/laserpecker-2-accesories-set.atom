@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>/en-jp/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="/en-jp/collections/laserpecker-2-accesories-set.atom"/>
+  <title>laserpecker.net</title>
+  <updated>2023-07-20T18:38:09+08:00</updated>
+  <author>
+    <name>laserpecker.net</name>
+  </author>
+  <entry>
+    <id>/en-jp/products/8411140358440</id>
+    <published>2023-07-20T18:38:09+08:00</published>
+    <updated>2023-07-20T18:38:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-3-laser-protection-cover"/>
+    <title>LaserPecker 2/3 Laser Protection Cover</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/files/LP2_3_1.jpg?v=1689849492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker.net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            125.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Safeguard Your Eyesight: The laser protective cover is specially designed for LaserPecker 2 &amp; 3. It can effectively filter both laser types of LP2 &amp; LP3, and provide the highest level of full protection for you and your companions.</li>
+<li>Hall Sensor System: A built-in Hall sensor automatically pauses the project work, once the door is opened, and resumes the work when the door is closed. So you can work safely and showcase your engraving with a peace of mind.</li>
+<li>Garantee A Healthy Workspace: With a built-in smoke exhaustion fan, the protective cover helps better extract the unpleasant smoke and smell generated during the laser engraving. Can also be used with LaserPecker Air Purifier for optimal results.</li>
+<li>Built to Last: Made of high-quality acrylic material,solid and durable enough to provide long-lasting reliable protection.</li>
+<li>Laser Filter Range: 190-550 nm (Violet / Blue Light), 800-1100nm (Infrared Light).</li>
+</ul>
+<span style="font-size: 0.875rem;">Dimensions:</span><br>
+<ul>
+<li>Protective Cover: 287 x 263 x 257 mm / 11.30" x 10.35" x 10.11" (L x W x H)</li>
+<li>Material: Acrylic, Plastic, Aluminium Alloy</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>LaserPecker 3 accesories set</s:tag>
+    <s:tag>LaserPecker 3 accessories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:variant>
+      <id>/en-jp/products/8411140358440</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.99</s:price>
+      <s:sku>LP2+3 Protection Cover</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7043276308527</id>
+    <published>2023-05-02T15:33:13+08:00</published>
+    <updated>2023-05-02T15:33:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/l2-laser-head"/>
+    <title>LaserPecker 2-Laser Head Engraving Accessories</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>LaserPecker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/L2machine.jpg?v=1669172923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LaserPecker<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            639.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Material: Aluminum alloy<br data-mce-fragment="1">Weight: 970.3g<br data-mce-fragment="1">Size: 162*60*121mm<br data-mce-fragment="1">Color: Gray<audio controls="controls" style="display: none;"></audio></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>import_2022_05_31_063924</s:tag>
+    <s:tag>import_2022_06_08_092500</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7043276308527</id>
+      <title>US</title>
+      <s:price currency="USD">639.99</s:price>
+      <s:sku>L2-laser head US</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276308527</id>
+      <title>UK</title>
+      <s:price currency="USD">639.99</s:price>
+      <s:sku>L2-laser head UK</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276308527</id>
+      <title>EU</title>
+      <s:price currency="USD">639.99</s:price>
+      <s:sku>L2-laser head EU</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276308527</id>
+      <title>JP</title>
+      <s:price currency="USD">639.99</s:price>
+      <s:sku>L2-laser head JP</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276308527</id>
+      <title>KR</title>
+      <s:price currency="USD">639.99</s:price>
+      <s:sku>L2-laser head KR</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276308527</id>
+      <title>CN</title>
+      <s:price currency="USD">639.99</s:price>
+      <s:sku>L2-laser head CN</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7057468096559</id>
+    <published>2023-03-07T18:50:19+08:00</published>
+    <updated>2023-03-07T18:50:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/l2-plug"/>
+    <title>LaserPecker 2/3-Plug</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>LaserPecker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/71Yx3D_tqPL.jpg?v=1675478405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LaserPecker<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>LaserPecker 3 accessories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7057468096559</id>
+      <title>US</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>LaserPecker 2-Plug-US</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7057468096559</id>
+      <title>EU</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>LaserPecker 2-Plug-EU</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7057468096559</id>
+      <title>UK</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>LaserPecker 2-Plug-UK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7057468096559</id>
+      <title>AU</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>LaserPecker 2-Plug-AU</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7057468096559</id>
+      <title>JP</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>LaserPecker 2-Plug-JP</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7057517772847</id>
+    <published>2023-02-03T11:48:09+08:00</published>
+    <updated>2023-02-03T11:48:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-third-axis-or-auxiliary-booster-accessories"/>
+    <title>LaserPecker 2 Versatile Electric Roller</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker-net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/e421b6905544bd29428dc94ade794da6_4c086b27-23cf-4feb-b526-34efd6e996b3.jpg?v=1676338322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker-net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            181.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="63dc825c8f3da600de1bc24e" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="63dc825c8f3da600de1bc24e" data-shogun-page-version-id="63ea27b63289cc00f02dc63c" data-shogun-platform-type="shopify" data-shogun-variant-id="63ea27b63289cc00f02dc773" data-region="main">
+  
+<div id="s-0449ac30-ff2c-4857-999f-97d3c90f4e5b" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p>Including: Electric Roller*1, Magnetic Sliders*2, C-shape Bracket *1 <br>Usage: Cylindrical Mode, Trolly Mode, Slab Mode</p>
+<p>360° Cylindrical Rotating Engraving &amp; Max 100*2000mm Engraving Area</p>
+<p>AKA: Versatile Electric Roller</p>
+<p>Size: 18.6cm*12.7cm*3.7cm<br>Color: Dark Gray</p>
+<p>Material: Anodised Aluminium</p>
+<p>Weight: 1.60kg </p>
+<p>Input Power: 5V/2A</p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7057517772847</id>
+      <title>LaserPecker 2 Versatile Electric Roller</title>
+      <s:price currency="USD">181.99</s:price>
+      <s:sku>L2-ThirdAxis*1</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/8057493848360</id>
+    <published>2022-12-29T16:13:40+08:00</published>
+    <updated>2022-12-29T16:13:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-base"/>
+    <title>LaserPecker 2 Base</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/base.png?v=1672301621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker.net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Material: Aluminum alloy<br data-mce-fragment="1">Weight: 234.5g<br data-mce-fragment="1">Size: 193*153*3mm<br data-mce-fragment="1">Color: Gray<audio controls="controls" style="display: none;"></audio></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#product</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:variant>
+      <id>/en-jp/products/8057493848360</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>L2-BASE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7984509255976</id>
+    <published>2022-11-07T11:11:36+08:00</published>
+    <updated>2022-11-07T11:11:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-cone-shaped-protector"/>
+    <title>LaserPecker 2 Cone Shaped Protector</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/796113f3975b1d14b97fae4e75405e8.jpg?v=1668412970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker.net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            32.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Material: Acrylic<br data-mce-fragment="1">Weight: 165.35g<br data-mce-fragment="1">Size: 127*126*113mm<br data-mce-fragment="1">Color: Orange<audio style="display: none;" controls="controls"></audio><audio controls="controls" style="display: none;"></audio></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7984509255976</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.19</s:price>
+      <s:sku>L2-Case</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7043276144687</id>
+    <published>2022-11-04T12:14:03+08:00</published>
+    <updated>2022-11-04T12:14:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-bluetooth-dongle"/>
+    <title>LaserPecker Bluetooth Dongle For LP2 &amp; LP3 &amp; LP4</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>LaserPecker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/Laserpecker-2-3-Bluetooth-Dongle-for-PC-Version-MacComputer-Engraving.jpg?v=1667976859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LaserPecker<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laserpecker bluetooth usb dongle for PC is a small tool similar to a USB flash drive, with a length of 4cm, a width of 2cm and a height of 0.5cm. The material is anodized aluminum<br data-mce-fragment="1"><br data-mce-fragment="1">Small and Easy to Carry: Laserpecker good bluetooth adapter for PC is small and light, easy to carry, you can hold it in your hand, put it in your pocket or purse<br data-mce-fragment="1"><br data-mce-fragment="1">Easy to Operate: just plug into the USB port of the computer, open the app and use it, the operation is simple<br data-mce-fragment="1"><br data-mce-fragment="1">Better Compatibility: our bluetooth dongle adapters for PC are compatible no matter you are windows or Mac system</p>
+<p>Material: Aluminum alloy and Glass<br data-mce-fragment="1">Weight: 15.75g<br data-mce-fragment="1">Size: 54*22*10mm<br data-mce-fragment="1">Color: Gray<audio controls="controls" style="display: none;"></audio></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>LaserPecker 3 accessories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:tag>product</s:tag>
+    <s:tag>validate-product-description</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7043276144687</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>L2-Dongle*1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7057513185327</id>
+    <published>2022-10-14T16:00:11+08:00</published>
+    <updated>2022-10-14T16:00:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-electric-supporting-track"/>
+    <title>LaserPecker 2 Electric Supporting Track Accessories</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker-net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/Laserpecker-2-Electric-Supporting-Track-Accessories.jpg?v=1667977200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker-net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Material: Acrylic<br data-mce-fragment="1">Weight: 782.7g<br data-mce-fragment="1">Size: 234*49*104mm<br data-mce-fragment="1">Color: Gray<audio controls="controls" style="display: none;"></audio></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7057513185327</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>L2-Stand</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7043275718703</id>
+    <published>2022-07-02T19:42:37+08:00</published>
+    <updated>2022-07-02T19:42:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/magnet-protective-shields-for-l1-l1pro-l2"/>
+    <title>Magnet Protective Shields for LaserPecker 1, Pro, 2</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpeckerus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/Magnet-Protective-Shields-for-LaserPecker-1-Pro-2.jpg?v=1667976655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpeckerus<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laserpecker Laser Safety Shield is made of 4 pieces of dark orange acrylic shields that protect human eyes by reflecting, filtering, and absorbing harmful lasers, while allowing users to see through them. <br data-mce-fragment="1"></p>
+<p>Laserpecker Laser Safety Shield is dismountable and easily storable. Each of these 4 pieces has two magnetic edges, enabling them to be assembled as a cubic laser protective case in no time.</p>
+<p>Material: Acrylic<br>Weight: 136.95g<br>Size: 190*170mm(<span data-mce-fragment="1">7.49in*6.69in</span>)<br>Color: Orange</p>
+<audio controls="controls" style="display: none;" data-mce-style="display: none;"></audio><audio controls="controls" style="display: none;"></audio></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>image-too-large</s:tag>
+    <s:tag>import_2022_05_31_063924</s:tag>
+    <s:tag>import_2022_06_08_092500</s:tag>
+    <s:tag>L1accesories set</s:tag>
+    <s:tag>LaserPecker 1  accesesories set</s:tag>
+    <s:tag>LaserPecker 1  pro accesesories set</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>laserpecker Pro accesories set</s:tag>
+    <s:tag>product</s:tag>
+    <s:tag>validate-product-description</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7043275718703</id>
+      <title>4</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>L1 Pro-Shields*4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7057508335663</id>
+    <published>2022-06-28T18:11:57+08:00</published>
+    <updated>2022-06-28T18:11:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-power-bank"/>
+    <title>Power Bank for LaserPecker LP1/1 Pro/2/3</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker-net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/Power-Bank-for-LaserPecker-1-LaserPecker-Pro-LaserPecker-2-LaserPecker-3.jpg?v=1667977196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker-net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            111.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LaserPecker machine engraves flexibly with the exclusive power bank at any time, anywhere.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>L1accesories set</s:tag>
+    <s:tag>LaserPecker 1  accesesories set</s:tag>
+    <s:tag>LaserPecker 1  pro accesesories set</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>laserpecker Pro accesories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7057508335663</id>
+      <title>Default Title</title>
+      <s:price currency="USD">111.99</s:price>
+      <s:sku>Powerbank</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7057483628591</id>
+    <published>2022-06-28T17:48:21+08:00</published>
+    <updated>2022-06-28T17:48:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-third-axis-carry-case"/>
+    <title>LaserPecker 2,3 Versatile Electric Roller Carry Case Storage Box</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker-net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/Laserpecker-2-Third-Axis-Carry-Case-Storage-Box.jpg?v=1667977132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker-net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This roller storage bag can help you store your rollers without taking up space and better organizing space.</p>
+<p>Material: Fabric and Plastic<br data-mce-fragment="1">Weight: 276.35g<br data-mce-fragment="1">Size: 277*154*60mm<br data-mce-fragment="1">Color: Gray<audio controls="controls" style="display: none;"></audio></p>
+<audio controls="controls" style="display: none;"></audio></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7057483628591</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>L2-TBags*1</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7057482252335</id>
+    <published>2022-06-28T17:48:21+08:00</published>
+    <updated>2022-06-28T17:48:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-big-bags-with-third-axis-carry-case"/>
+    <title>LaserPecker 2 Big Bags with Versatile Electric Roller Carry Case Storage Case</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker-net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/LaserPecker-2-Big-Bags-with-Third-Axis-Carry-Case-Storage-Case.jpg?v=1667977128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker-net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            111.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Big Bag: This big bag can completely accommodate the Laserpecker 2 machine, which is specially customized by laserpecker<br data-mce-fragment="1"><br data-mce-fragment="1">Third Axis or Auxiliary Booster Bag: This roller storage bag can help you store your rollers without taking up space and better organize space<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7057482252335</id>
+      <title>Default Title</title>
+      <s:price currency="USD">111.99</s:price>
+      <s:sku>L2-Bags &amp; TBags*1</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7057478975535</id>
+    <published>2022-06-28T17:48:20+08:00</published>
+    <updated>2022-06-28T17:48:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-third-axis-or-auxiliary-booster-with-third-axis-carry-case"/>
+    <title>LaserPecker 2,3 Versatile Electric Roller with Storage Case Box</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker-net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/LaserPecker-2-Third-Axis-or-Auxiliary-Booster-with-Storage-Case-Box.jpg?v=1667977124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker-net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            230.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Third Axis or Auxiliary Booster Bag: This roller storage bag can help you store your rollers without taking up space and better organize space.</p>
+<p>Material: Aluminum alloy<br data-mce-fragment="1">Weight: 1064.65g<br data-mce-fragment="1">Size: 180.6*112.8*32mm<br data-mce-fragment="1">Color: Gray<audio controls="controls" style="display: none;"></audio></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7057478975535</id>
+      <title>Default Title</title>
+      <s:price currency="USD">230.99</s:price>
+      <s:sku>L2-ThirdAxis &amp; Bag</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7057487527983</id>
+    <published>2022-06-28T17:48:04+08:00</published>
+    <updated>2022-06-28T17:48:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-big-bags-storage-box"/>
+    <title>Big Bag Storage Case for LaserPecker 2</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpecker-net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/Big-Bag-Storage-Case-for-LaserPecker-2.jpg?v=1667977137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpecker-net<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            97.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 18px;" data-mce-fragment="1" data-mce-style="font-size: 18px;">Big Bag: This big bag can completely accommodate the LaserPecker 2 machine, which is specially customized by laserpecker</span></p>
+<p>Material: Fabric and Plastic<br>Weight: 963.25g<br>Size: 290*280*165mm<br>Color: Gray</p>
+<audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7057487527983</id>
+      <title>Default Title</title>
+      <s:price currency="USD">97.99</s:price>
+      <s:sku>L2-Bags</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7043276177455</id>
+    <published>2022-06-08T17:27:50+08:00</published>
+    <updated>2022-06-08T17:27:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-smoke-exhaust-pipe"/>
+    <title>LaserPecker 2 Smoke Exhaust Pipe Engraving</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>LaserPecker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/Laserpecker-2-Smoke-Exhaust-Pipe-Engraving.jpg?v=1667976875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LaserPecker<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 16px;">The pipe can exhaust the air out, making the effect of engraving better and indoors clean.<br> </span></p>
+<p><span style="font-size: 16px;">Material: Tin<br>Weight: 191.9g<br>Size: 134*80*80mm<br>Color: Silver</span></p>
+<audio controls="controls" style="display: none;"></audio></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>import_2022_05_31_063924</s:tag>
+    <s:tag>import_2022_06_08_092500</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>laserpecker Pro accesories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:tag>product</s:tag>
+    <s:tag>validate-product-description</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7043276177455</id>
+      <title>1</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>L2-Pipe*1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7043276079151</id>
+    <published>2022-06-08T17:27:50+08:00</published>
+    <updated>2022-06-08T17:27:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-cutting-plate"/>
+    <title>Cutting Plate for LaserPecker 2, 3 Protective Stand Bottom Plate</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>LaserPecker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/files/12.jpg?v=1683360044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LaserPecker<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.39 - 25.19
+            <a href="/en-jp/products/laserpecker-2-cutting-plate">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Non-slip Protection: The corrugated design of the contact surface of the item can increase friction and avoid the sliding of the item. <br><br>Burn Protection: The cutting board plates made of aluminum alloys will not be scorched during the engraving process, It can protect the bottom plate of the electric supporting track from being damaged by improper operation.<br><br>Portability:  You can put cutting board plates in your bag anytime, anywhere, no matter in the office or at home. <br><br>Material: Acrylic<br data-mce-fragment="1">Weight: 157.4g<br data-mce-fragment="1">Size: 150*120*6mm<br data-mce-fragment="1">Color: Champagne<br><audio controls="controls" style="display: none;"></audio></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7043276079151</id>
+      <title>1</title>
+      <s:price currency="USD">15.39</s:price>
+      <s:sku>L2-Cut*1</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043276079151</id>
+      <title>2</title>
+      <s:price currency="USD">25.19</s:price>
+      <s:sku>L2-Cut*2</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7043276046383</id>
+    <published>2022-06-08T17:27:49+08:00</published>
+    <updated>2022-06-08T17:27:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-batch-button"/>
+    <title>Batch Engraving Button for LP2 &amp; LP3 &amp;LP4</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpeckerus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/products/Batch-Engraving-Button-for-LaserPecker-2-LaserPecker-3-2.jpg?v=1667976842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpeckerus<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="638ef97791564100d0ee3851" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="638ef97791564100d0ee3851" data-shogun-page-version-id="64103a32e4b37c00cd4d383c" data-shogun-platform-type="shopify" data-shogun-variant-id="64103a32e4b37c00cd4d3843" data-region="main">
+  
+<div id="s-62f1e69b-ab2e-40ce-b843-22d9dfb433d8" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p>Batch Engraving: This button is used to do batch engraving<br><br>Easy Setting: it engraves the same image on the same material, you don't have to set the same settings in APP repeatedly. <br><br>Easy Use: Just attach this Batch Engraving Button to the handle with a USB</p>
+<p> cable, with one press, it will do the work.</p>
+<p>Material: Aluminum alloy<br>Weight: 21g<br>Size: 41*21*10mm<br>Color: Gray</p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>import_2022_05_31_063924</s:tag>
+    <s:tag>import_2022_06_08_092500</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>LaserPecker 3 accessories set</s:tag>
+    <s:tag>product</s:tag>
+    <s:tag>validate-product-description</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7043276046383</id>
+      <title>1</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>L2-Button*1</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>/en-jp/products/7043275751471</id>
+    <published>2022-06-08T17:27:46+08:00</published>
+    <updated>2022-06-08T17:27:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-protective-goggles-safety-glasses"/>
+    <title>LaserPecker Protective Goggles / Safety Glasses For LaserPecker 1,Pro,2,3,4</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>laserpeckerus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/9465/1439/files/filterglasses1.jpg?v=1691740549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>laserpeckerus<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            34.99 - 90.99
+            <a href="/en-jp/products/laserpecker-protective-goggles-safety-glasses">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="643d29a658832700f94af30d" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="643d29a658832700f94af30d" data-shogun-page-version-id="64748c8dea69be00d210bb12" data-shogun-platform-type="shopify" data-shogun-variant-id="64748c8dea69be00d210bc09" data-region="main">
+  
+<div id="s-487ebaf7-4474-4e7c-a5c4-06fe8532fbfc" class="shg-c  ">
+  <div class="shg-rich-text shg-theme-text-content">
+<p align="left" data-mce-fragment="1">Material: Acrylic<br>Weight: 39g<br>Size: 164*22mm<br>Color: Orange</p>
+<p align="left" data-mce-fragment="1">Wavelengths: 190nm-550nm, 800-1100nm  OD 4+</p>
+<p align="left" data-mce-fragment="1">Specially made for LaserPecker 1 &amp; LaserPecker 1 Pro &amp; LaserPecker 2 &amp; LaserPecker 3</p>
+</div>
+</div>
+  
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesories</s:tag>
+    <s:tag>LaserPecker 1  pro accesesories set</s:tag>
+    <s:tag>LaserPecker 1 Accesesories set</s:tag>
+    <s:tag>LaserPecker 2 accessories set</s:tag>
+    <s:tag>LaserPecker 3 accessories set</s:tag>
+    <s:tag>laserpecker-2-accesories-set</s:tag>
+    <s:tag>product</s:tag>
+    <s:variant>
+      <id>/en-jp/products/7043275751471</id>
+      <title>1</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>oglass*1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275751471</id>
+      <title>5</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>oglass*5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>/en-jp/products/7043275751471</id>
+      <title>10</title>
+      <s:price currency="USD">90.99</s:price>
+      <s:sku>oglass*10</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
