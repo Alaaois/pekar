@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/lx-accessories.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/lx-accessories.atom"/>
   <title>laserpecker.net</title>
   <updated>2023-04-12T10:47:00+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/8219833893160</id>
     <published>2023-04-12T10:47:00+08:00</published>
     <updated>2023-04-12T10:47:00+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/preorder-laserpecker-lx1-lx1-max-artist-module"/>
+    <link rel="alternate" type="text/html" href="//products/preorder-laserpecker-lx1-lx1-max-artist-module"/>
     <title>LaserPecker LX1 &amp; LX1 Max Artist Module</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -60,7 +60,7 @@
     <id>/en-jp/products/8205212778792</id>
     <published>2023-03-31T21:08:52+08:00</published>
     <updated>2023-03-31T21:08:52+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/lx1-max-laser-protection-cover"/>
+    <link rel="alternate" type="text/html" href="//products/lx1-max-laser-protection-cover"/>
     <title>Preorder-LX1 Max Laser Protection Cover</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -111,7 +111,7 @@
     <id>/en-jp/products/8205209796904</id>
     <published>2023-03-31T21:03:54+08:00</published>
     <updated>2023-03-31T21:03:54+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/lx1-max-engraving-bed-cutting-plate"/>
+    <link rel="alternate" type="text/html" href="//products/lx1-max-engraving-bed-cutting-plate"/>
     <title>Preorder-LX1 Max Engraving Bed &amp; Cutting Plate</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -162,7 +162,7 @@
     <id>/en-jp/products/8190708416808</id>
     <published>2023-03-22T15:56:39+08:00</published>
     <updated>2023-03-22T15:56:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laser-safety-cover"/>
+    <link rel="alternate" type="text/html" href="//products/laser-safety-cover"/>
     <title>Preorder-LX1 Laser Protection Cover</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -215,7 +215,7 @@
     <id>/en-jp/products/8190705500456</id>
     <published>2023-03-22T15:44:32+08:00</published>
     <updated>2023-03-22T15:44:32+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/engraving-bed-cutting-plate"/>
+    <link rel="alternate" type="text/html" href="//products/engraving-bed-cutting-plate"/>
     <title>Preorder-LX1 Engraving Bed &amp; Cutting Plate</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -268,7 +268,7 @@
     <id>/en-jp/products/8190703173928</id>
     <published>2023-03-22T15:34:28+08:00</published>
     <updated>2023-03-22T15:34:28+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/riser"/>
+    <link rel="alternate" type="text/html" href="//products/riser"/>
     <title>LX1/LX1 Max Riser (4 Packs)</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -320,7 +320,7 @@
     <id>/en-jp/products/8190696390952</id>
     <published>2023-03-22T15:18:41+08:00</published>
     <updated>2023-03-22T15:18:41+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/rotary-extension"/>
+    <link rel="alternate" type="text/html" href="//products/rotary-extension"/>
     <title>Rotary Extension For LX1 &amp; LX1 Max/LP4</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>

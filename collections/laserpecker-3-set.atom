@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/laserpecker-3-set.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/laserpecker-3-set.atom"/>
   <title>laserpecker.net</title>
   <updated>2023-07-20T18:38:09+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/8411140358440</id>
     <published>2023-07-20T18:38:09+08:00</published>
     <updated>2023-07-20T18:38:09+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-3-laser-protection-cover"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-3-laser-protection-cover"/>
     <title>LaserPecker 2/3 Laser Protection Cover</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -64,7 +64,7 @@
     <id>/en-jp/products/7057468096559</id>
     <published>2023-03-07T18:50:19+08:00</published>
     <updated>2023-03-07T18:50:19+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/l2-plug"/>
+    <link rel="alternate" type="text/html" href="//products/l2-plug"/>
     <title>LaserPecker 2/3-Plug</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -134,7 +134,7 @@
     <id>/en-jp/products/8111838331176</id>
     <published>2023-02-14T14:32:21+08:00</published>
     <updated>2023-02-14T14:32:21+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-laser-head-engraving-accessories"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-laser-head-engraving-accessories"/>
     <title>LaserPecker 3-Laser Head Engraving Accessories</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -209,7 +209,7 @@
     <id>/en-jp/products/8098260812072</id>
     <published>2023-02-03T14:06:08+08:00</published>
     <updated>2023-02-03T14:06:08+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-3-versatile-electric-roller-accessories"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-3-versatile-electric-roller-accessories"/>
     <title>LaserPecker 3 Versatile Electric Roller</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -263,7 +263,7 @@
     <id>/en-jp/products/8098109620520</id>
     <published>2023-02-03T12:26:21+08:00</published>
     <updated>2023-02-03T12:26:21+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/magnetic-sliders-2-pcs-for-versatile-electric-roller"/>
+    <link rel="alternate" type="text/html" href="//products/magnetic-sliders-2-pcs-for-versatile-electric-roller"/>
     <title>Magnetic Sliders (2 pcs) for LP3 Versatile Electric Roller</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -311,7 +311,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
     <id>/en-jp/products/8013488062760</id>
     <published>2022-11-18T11:57:41+08:00</published>
     <updated>2022-11-18T11:57:41+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-3-adjustable-positioning-fixture"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-3-adjustable-positioning-fixture"/>
     <title>Adjustable Positioning Base Plate</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -351,7 +351,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
     <id>/en-jp/products/7043276144687</id>
     <published>2022-11-04T12:14:03+08:00</published>
     <updated>2022-11-04T12:14:03+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-bluetooth-dongle"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-bluetooth-dongle"/>
     <title>LaserPecker Bluetooth Dongle For LP2 &amp; LP3 &amp; LP4</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -394,7 +394,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
     <id>/en-jp/products/7145993240623</id>
     <published>2022-09-23T17:32:52+08:00</published>
     <updated>2022-09-23T17:32:52+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/accessories-laserpecker-3-carrying-case-storage-case-big-bag"/>
+    <link rel="alternate" type="text/html" href="//products/accessories-laserpecker-3-carrying-case-storage-case-big-bag"/>
     <title>LaserPecker 3 Carrying Case/Storage Case/Big Bag</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -445,7 +445,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
     <id>/en-jp/products/7043276046383</id>
     <published>2022-06-08T17:27:49+08:00</published>
     <updated>2022-06-08T17:27:49+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-batch-button"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-batch-button"/>
     <title>Batch Engraving Button for LP2 &amp; LP3 &amp;LP4</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpeckerus</s:vendor>
@@ -499,7 +499,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
     <id>/en-jp/products/7043275751471</id>
     <published>2022-06-08T17:27:46+08:00</published>
     <updated>2022-06-08T17:27:46+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-protective-goggles-safety-glasses"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-protective-goggles-safety-glasses"/>
     <title>LaserPecker Protective Goggles / Safety Glasses For LaserPecker 1,Pro,2,3,4</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpeckerus</s:vendor>
@@ -514,7 +514,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
         <strong>Type: </strong>Accessories<br>
         <strong>Price: </strong>
             34.99 - 90.99
-            <a href="/en-jp/products/laserpecker-protective-goggles-safety-glasses">(3 variants)</a>
+            <a href="//products/laserpecker-protective-goggles-safety-glasses">(3 variants)</a>
       </p>
     </td>
   </tr>

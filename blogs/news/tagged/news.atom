@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/blogs/news.atom</id>
-  <link rel="alternate" type="text/html" href="/en-jp/blogs/news"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/blogs/news/tagged/news.atom"/>
+  <link rel="alternate" type="text/html" href="//blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="//blogs/news/tagged/news.atom"/>
   <title>laserpecker.net - News</title>
   <updated>2023-06-30T14:16:46+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/blogs/news/top-10-thoughtful-gift-ideas-for-dads</id>
     <published>2023-06-15T14:45:38+08:00</published>
     <updated>2023-06-15T14:48:25+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/top-10-thoughtful-gift-ideas-for-dads"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/top-10-thoughtful-gift-ideas-for-dads"/>
     <title>Top 10 Thoughtful Gift Ideas for Dads</title>
     <author>
       <name>LaserPecker Team</name>
@@ -214,7 +214,7 @@
     <id>/en-jp/blogs/news/laserpecker-4</id>
     <published>2022-12-05T18:04:50+08:00</published>
     <updated>2023-03-27T14:45:08+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/laserpecker-4"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/laserpecker-4"/>
     <title>LaserPecker 4：Dual-Laser Engraver for Almost All Material</title>
     <author>
       <name>laserpecker</name>
@@ -523,13 +523,13 @@
     <id>/en-jp/blogs/news/meet-laserpecker-at-ces-2023</id>
     <published>2022-12-04T01:04:03+08:00</published>
     <updated>2023-03-27T14:43:53+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/meet-laserpecker-at-ces-2023"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/meet-laserpecker-at-ces-2023"/>
     <title>Meet LaserPecker at CES 2023!</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[We are thrilled to kick off 2023 at CES in Las Vegas! Meet us at Booth NO. 51471, Accessories, The Venetian Expo, and try all the LaserPecker‍ lasers on the spot.<p><a class="read-more" href="/en-jp/blogs/news/meet-laserpecker-at-ces-2023">More</a></p>]]>
+      <![CDATA[We are thrilled to kick off 2023 at CES in Las Vegas! Meet us at Booth NO. 51471, Accessories, The Venetian Expo, and try all the LaserPecker‍ lasers on the spot.<p><a class="read-more" href="//blogs/news/meet-laserpecker-at-ces-2023">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div class="shogun-root" data-shogun-id="638b79f3a386d800cb0d3d75" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="638b79f3a386d800cb0d3d75" data-shogun-page-version-id="63b77e7516fd9200d505d4bb" data-shogun-platform-type="shopify" data-shogun-variant-id="63b77e7516fd9200d505d4d2" data-region="main"> 
@@ -560,7 +560,7 @@
     <id>/en-jp/blogs/news/scam-alert</id>
     <published>2022-11-17T19:59:36+08:00</published>
     <updated>2023-03-27T14:43:40+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/scam-alert"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/scam-alert"/>
     <title>Scam Alert</title>
     <author>
       <name>laserpecker</name>
@@ -587,13 +587,13 @@
     <id>/en-jp/blogs/news/laserpecker-has-a-new-logo-and-slogan</id>
     <published>2022-11-01T20:21:25+08:00</published>
     <updated>2023-03-27T14:46:35+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/laserpecker-has-a-new-logo-and-slogan"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/laserpecker-has-a-new-logo-and-slogan"/>
     <title>LaserPecker Has a New Logo and Slogan!</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<span>LaserPecker is starting a new journey with its brand-new look. We hope you continue to let your creativity fly with LaserPecker!<br></span><p><a class="read-more" href="/en-jp/blogs/news/laserpecker-has-a-new-logo-and-slogan">More</a></p>]]>
+      <![CDATA[<span>LaserPecker is starting a new journey with its brand-new look. We hope you continue to let your creativity fly with LaserPecker!<br></span><p><a class="read-more" href="//blogs/news/laserpecker-has-a-new-logo-and-slogan">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<p><span class="JsGRdQ">Dear LP Users,</span><span class="JsGRdQ white-space-prewrap"> </span><br> <br><span class="JsGRdQ">As most of you know, the LaserPecker brand was inspired by and named after a small, fast, and productive bird; the mighty WOODPECKER. We are excited to announce that the upgraded LP website (www.laserpecker.net) will take flight on November 1st at 0:00 (PDT), and prior to the launch we wanted to share a sneak peek of our new logo and tagline with you, our loyal community of dedicated users.</span><span class="JsGRdQ white-space-prewrap"> </span><br><br></p>

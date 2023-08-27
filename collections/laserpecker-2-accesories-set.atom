@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/laserpecker-2-accesories-set.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/laserpecker-2-accesories-set.atom"/>
   <title>laserpecker.net</title>
   <updated>2023-07-20T18:38:09+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/8411140358440</id>
     <published>2023-07-20T18:38:09+08:00</published>
     <updated>2023-07-20T18:38:09+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-3-laser-protection-cover"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-3-laser-protection-cover"/>
     <title>LaserPecker 2/3 Laser Protection Cover</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -64,7 +64,7 @@
     <id>/en-jp/products/7043276308527</id>
     <published>2023-05-02T15:33:13+08:00</published>
     <updated>2023-05-02T15:33:13+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/l2-laser-head"/>
+    <link rel="alternate" type="text/html" href="//products/l2-laser-head"/>
     <title>LaserPecker 2-Laser Head Engraving Accessories</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -141,7 +141,7 @@
     <id>/en-jp/products/7057468096559</id>
     <published>2023-03-07T18:50:19+08:00</published>
     <updated>2023-03-07T18:50:19+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/l2-plug"/>
+    <link rel="alternate" type="text/html" href="//products/l2-plug"/>
     <title>LaserPecker 2/3-Plug</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -211,7 +211,7 @@
     <id>/en-jp/products/7057517772847</id>
     <published>2023-02-03T11:48:09+08:00</published>
     <updated>2023-02-03T11:48:09+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-third-axis-or-auxiliary-booster-accessories"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-third-axis-or-auxiliary-booster-accessories"/>
     <title>LaserPecker 2 Versatile Electric Roller</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -266,7 +266,7 @@
     <id>/en-jp/products/8057493848360</id>
     <published>2022-12-29T16:13:40+08:00</published>
     <updated>2022-12-29T16:13:40+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-base"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-base"/>
     <title>LaserPecker 2 Base</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -304,7 +304,7 @@
     <id>/en-jp/products/7984509255976</id>
     <published>2022-11-07T11:11:36+08:00</published>
     <updated>2022-11-07T11:11:36+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-cone-shaped-protector"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-cone-shaped-protector"/>
     <title>LaserPecker 2 Cone Shaped Protector</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -344,7 +344,7 @@
     <id>/en-jp/products/7043276144687</id>
     <published>2022-11-04T12:14:03+08:00</published>
     <updated>2022-11-04T12:14:03+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-bluetooth-dongle"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-bluetooth-dongle"/>
     <title>LaserPecker Bluetooth Dongle For LP2 &amp; LP3 &amp; LP4</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -387,7 +387,7 @@
     <id>/en-jp/products/7057513185327</id>
     <published>2022-10-14T16:00:11+08:00</published>
     <updated>2022-10-14T16:00:11+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-electric-supporting-track"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-electric-supporting-track"/>
     <title>LaserPecker 2 Electric Supporting Track Accessories</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -426,7 +426,7 @@
     <id>/en-jp/products/7043275718703</id>
     <published>2022-07-02T19:42:37+08:00</published>
     <updated>2022-07-02T19:42:37+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/magnet-protective-shields-for-l1-l1pro-l2"/>
+    <link rel="alternate" type="text/html" href="//products/magnet-protective-shields-for-l1-l1pro-l2"/>
     <title>Magnet Protective Shields for LaserPecker 1, Pro, 2</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpeckerus</s:vendor>
@@ -476,7 +476,7 @@
     <id>/en-jp/products/7057508335663</id>
     <published>2022-06-28T18:11:57+08:00</published>
     <updated>2022-06-28T18:11:57+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-power-bank"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-power-bank"/>
     <title>Power Bank for LaserPecker LP1/1 Pro/2/3</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -520,7 +520,7 @@
     <id>/en-jp/products/7057483628591</id>
     <published>2022-06-28T17:48:21+08:00</published>
     <updated>2022-06-28T17:48:21+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-third-axis-carry-case"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-third-axis-carry-case"/>
     <title>LaserPecker 2,3 Versatile Electric Roller Carry Case Storage Box</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -562,7 +562,7 @@
     <id>/en-jp/products/7057482252335</id>
     <published>2022-06-28T17:48:21+08:00</published>
     <updated>2022-06-28T17:48:21+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-big-bags-with-third-axis-carry-case"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-big-bags-with-third-axis-carry-case"/>
     <title>LaserPecker 2 Big Bags with Versatile Electric Roller Carry Case Storage Case</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -602,7 +602,7 @@
     <id>/en-jp/products/7057478975535</id>
     <published>2022-06-28T17:48:20+08:00</published>
     <updated>2022-06-28T17:48:20+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-third-axis-or-auxiliary-booster-with-third-axis-carry-case"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-third-axis-or-auxiliary-booster-with-third-axis-carry-case"/>
     <title>LaserPecker 2,3 Versatile Electric Roller with Storage Case Box</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -643,7 +643,7 @@
     <id>/en-jp/products/7057487527983</id>
     <published>2022-06-28T17:48:04+08:00</published>
     <updated>2022-06-28T17:48:04+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-big-bags-storage-box"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-big-bags-storage-box"/>
     <title>Big Bag Storage Case for LaserPecker 2</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -684,7 +684,7 @@
     <id>/en-jp/products/7043276177455</id>
     <published>2022-06-08T17:27:50+08:00</published>
     <updated>2022-06-08T17:27:50+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-smoke-exhaust-pipe"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-smoke-exhaust-pipe"/>
     <title>LaserPecker 2 Smoke Exhaust Pipe Engraving</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -730,7 +730,7 @@
     <id>/en-jp/products/7043276079151</id>
     <published>2022-06-08T17:27:50+08:00</published>
     <updated>2022-06-08T17:27:50+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-cutting-plate"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-cutting-plate"/>
     <title>Cutting Plate for LaserPecker 2, 3 Protective Stand Bottom Plate</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -745,7 +745,7 @@
         <strong>Type: </strong>Accessories<br>
         <strong>Price: </strong>
             15.39 - 25.19
-            <a href="/en-jp/products/laserpecker-2-cutting-plate">(2 variants)</a>
+            <a href="//products/laserpecker-2-cutting-plate">(2 variants)</a>
       </p>
     </td>
   </tr>
@@ -777,7 +777,7 @@
     <id>/en-jp/products/7043276046383</id>
     <published>2022-06-08T17:27:49+08:00</published>
     <updated>2022-06-08T17:27:49+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-batch-button"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-batch-button"/>
     <title>Batch Engraving Button for LP2 &amp; LP3 &amp;LP4</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpeckerus</s:vendor>
@@ -831,7 +831,7 @@
     <id>/en-jp/products/7043275751471</id>
     <published>2022-06-08T17:27:46+08:00</published>
     <updated>2022-06-08T17:27:46+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-protective-goggles-safety-glasses"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-protective-goggles-safety-glasses"/>
     <title>LaserPecker Protective Goggles / Safety Glasses For LaserPecker 1,Pro,2,3,4</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpeckerus</s:vendor>
@@ -846,7 +846,7 @@
         <strong>Type: </strong>Accessories<br>
         <strong>Price: </strong>
             34.99 - 90.99
-            <a href="/en-jp/products/laserpecker-protective-goggles-safety-glasses">(3 variants)</a>
+            <a href="//products/laserpecker-protective-goggles-safety-glasses">(3 variants)</a>
       </p>
     </td>
   </tr>

@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/paper.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/paper.atom"/>
   <title>laserpecker.net</title>
   <updated>2022-06-08T17:27:48+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/7043275915311</id>
     <published>2022-06-08T17:27:48+08:00</published>
     <updated>2022-06-08T17:27:48+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-engraving-paper-for-l1-l1pro-l2"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-engraving-paper-for-l1-l1pro-l2"/>
     <title>Engraving Paper for LaserPecker 1 &amp; Pro &amp; 2(50 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpeckerus</s:vendor>

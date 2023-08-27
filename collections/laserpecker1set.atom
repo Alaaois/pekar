@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/laserpecker1set.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/laserpecker1set.atom"/>
   <title>laserpecker.net</title>
   <updated>2022-11-04T14:53:27+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/7982228308264</id>
     <published>2022-11-04T14:53:27+08:00</published>
     <updated>2022-11-04T14:53:27+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/alignment-pad-for-l1-l1pro-l2-l3-engraving"/>
+    <link rel="alternate" type="text/html" href="//products/alignment-pad-for-l1-l1pro-l2-l3-engraving"/>
     <title>Alignment Pad for L1 L1Pro L2 L3 engraving</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -56,7 +56,7 @@
     <id>/en-jp/products/7043275718703</id>
     <published>2022-07-02T19:42:37+08:00</published>
     <updated>2022-07-02T19:42:37+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/magnet-protective-shields-for-l1-l1pro-l2"/>
+    <link rel="alternate" type="text/html" href="//products/magnet-protective-shields-for-l1-l1pro-l2"/>
     <title>Magnet Protective Shields for LaserPecker 1, Pro, 2</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpeckerus</s:vendor>
@@ -106,7 +106,7 @@
     <id>/en-jp/products/7057508335663</id>
     <published>2022-06-28T18:11:57+08:00</published>
     <updated>2022-06-28T18:11:57+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-power-bank"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-power-bank"/>
     <title>Power Bank for LaserPecker LP1/1 Pro/2/3</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -150,7 +150,7 @@
     <id>/en-jp/products/7043275751471</id>
     <published>2022-06-08T17:27:46+08:00</published>
     <updated>2022-06-08T17:27:46+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-protective-goggles-safety-glasses"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-protective-goggles-safety-glasses"/>
     <title>LaserPecker Protective Goggles / Safety Glasses For LaserPecker 1,Pro,2,3,4</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpeckerus</s:vendor>
@@ -165,7 +165,7 @@
         <strong>Type: </strong>Accessories<br>
         <strong>Price: </strong>
             34.99 - 90.99
-            <a href="/en-jp/products/laserpecker-protective-goggles-safety-glasses">(3 variants)</a>
+            <a href="//products/laserpecker-protective-goggles-safety-glasses">(3 variants)</a>
       </p>
     </td>
   </tr>

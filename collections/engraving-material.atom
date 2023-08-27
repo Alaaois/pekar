@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/engraving-material.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/engraving-material.atom"/>
   <title>laserpecker.net</title>
   <updated>2023-08-18T14:23:39+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/8507927429416</id>
     <published>2023-08-18T14:23:39+08:00</published>
     <updated>2023-08-18T14:23:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-lp4-basic-material-package121-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-lp4-basic-material-package121-pcs"/>
     <title>LaserPecker LP4 Basic Material Package(121 PCS)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -57,7 +57,7 @@
     <id>/en-jp/products/8447108284712</id>
     <published>2023-08-04T11:35:45+08:00</published>
     <updated>2023-08-04T11:35:45+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/leather-heart-bookmark8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/leather-heart-bookmark8-pcs"/>
     <title>Leather Heart Bookmark(8 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -96,7 +96,7 @@
     <id>/en-jp/products/8447088066856</id>
     <published>2023-08-04T11:24:05+08:00</published>
     <updated>2023-08-04T11:24:05+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-book-page-marker-with-pendants3-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-book-page-marker-with-pendants3-pcs"/>
     <title>Stainless Steel Book Page Marker with Pendants(3 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -135,7 +135,7 @@
     <id>/en-jp/products/8336486400296</id>
     <published>2023-06-17T11:35:53+08:00</published>
     <updated>2023-06-17T11:35:53+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/pu-leather-metal-keychain4-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/pu-leather-metal-keychain4-pcs"/>
     <title>Pu Leather Metal Keychain(4 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -174,7 +174,7 @@
     <id>/en-jp/products/8336462053672</id>
     <published>2023-06-17T11:24:05+08:00</published>
     <updated>2023-06-17T11:24:05+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-shield-keychain-blanks5-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-shield-keychain-blanks5-pcs"/>
     <title>Wooden Shield Keychain Blanks(5 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -212,7 +212,7 @@
     <id>/en-jp/products/8336441409832</id>
     <published>2023-06-17T11:15:25+08:00</published>
     <updated>2023-06-17T11:15:25+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/cork-wooden-label-stickers160-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/cork-wooden-label-stickers160-pcs"/>
     <title>Cork Wooden Label Stickers(160 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -257,7 +257,7 @@
     <id>/en-jp/products/8336401105192</id>
     <published>2023-06-17T10:56:51+08:00</published>
     <updated>2023-06-17T10:56:51+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/pu-leather-labels-leather-blank-tag10-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/pu-leather-labels-leather-blank-tag10-pcs"/>
     <title>Pu Leather Labels Leather Blank Tag(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -316,7 +316,7 @@
     <id>/en-jp/products/8280065147176</id>
     <published>2023-06-14T15:05:08+08:00</published>
     <updated>2023-06-14T15:05:08+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/titanium-steel-cross-necklace8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/titanium-steel-cross-necklace8-pcs"/>
     <title>Titanium Steel Cross Necklace(8 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -354,7 +354,7 @@
     <id>/en-jp/products/8280097784104</id>
     <published>2023-06-14T15:03:35+08:00</published>
     <updated>2023-06-14T15:03:35+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-dimensional-bar-necklace8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-dimensional-bar-necklace8-pcs"/>
     <title>Stainless Steel Dimensional Bar Necklace(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -392,7 +392,7 @@
     <id>/en-jp/products/8319455166760</id>
     <published>2023-06-08T10:14:27+08:00</published>
     <updated>2023-06-08T10:14:27+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-braided-wrap-leather-bracelet"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-braided-wrap-leather-bracelet"/>
     <title>Stainless Steel Braided Wrap Leather Bracelet(2 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -430,7 +430,7 @@
     <id>/en-jp/products/8306034114856</id>
     <published>2023-06-02T19:00:43+08:00</published>
     <updated>2023-06-02T19:00:43+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-tumbler-kit20-oz"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-tumbler-kit20-oz"/>
     <title>Stainless Steel Tumbler kit(20 oz)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -482,7 +482,7 @@
     <id>/en-jp/products/8306023137576</id>
     <published>2023-06-02T18:40:26+08:00</published>
     <updated>2023-06-02T18:40:26+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/anti-lost-leather-case-for-airtag"/>
+    <link rel="alternate" type="text/html" href="//products/anti-lost-leather-case-for-airtag"/>
     <title>Anti-Lost Leather Case for AirTag(2 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -534,7 +534,7 @@
     <id>/en-jp/products/8306003345704</id>
     <published>2023-06-02T18:21:26+08:00</published>
     <updated>2023-06-02T18:21:26+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/leather-phone-magnetic-card-holder-for-iphone"/>
+    <link rel="alternate" type="text/html" href="//products/leather-phone-magnetic-card-holder-for-iphone"/>
     <title>Leather Phone Magnetic Card Holder For iPhone(2 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -586,7 +586,7 @@
     <id>/en-jp/products/8303877816616</id>
     <published>2023-06-01T14:43:43+08:00</published>
     <updated>2023-06-01T14:43:43+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-sunglasses"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-sunglasses"/>
     <title>Wooden Sunglasses</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -631,7 +631,7 @@
     <id>/en-jp/products/8291735535912</id>
     <published>2023-05-26T14:30:38+08:00</published>
     <updated>2023-05-26T14:30:38+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-wooden-materials-diy-kit-190pcs"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-wooden-materials-diy-kit-190pcs"/>
     <title>LaserPecker LP2 Wooden Materials DIY Kit(190pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -687,7 +687,7 @@
     <id>/en-jp/products/8291614654760</id>
     <published>2023-05-26T12:15:20+08:00</published>
     <updated>2023-05-26T12:15:20+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/cherry-wood-circular-keychain5-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/cherry-wood-circular-keychain5-pcs"/>
     <title>Cherry Wood Circular Keychain(5 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -725,7 +725,7 @@
     <id>/en-jp/products/8291607937320</id>
     <published>2023-05-26T12:09:24+08:00</published>
     <updated>2023-05-26T12:09:24+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/heart-shaped-wood-keychain5-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/heart-shaped-wood-keychain5-pcs"/>
     <title>Heart-shaped Wood Keychain(5 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -763,7 +763,7 @@
     <id>/en-jp/products/8291591848232</id>
     <published>2023-05-26T11:57:16+08:00</published>
     <updated>2023-05-26T11:57:16+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/walnut-rectangular-keychain-5-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/walnut-rectangular-keychain-5-pcs"/>
     <title>Walnut rectangular keychain(5 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -801,7 +801,7 @@
     <id>/en-jp/products/8280157028648</id>
     <published>2023-05-19T15:23:57+08:00</published>
     <updated>2023-05-19T15:23:57+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/6-oz-portable-stainless-steel-flask-with-two-cups"/>
+    <link rel="alternate" type="text/html" href="//products/6-oz-portable-stainless-steel-flask-with-two-cups"/>
     <title>Portable Stainless Steel Flask With Two Cups(6oz)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -839,7 +839,7 @@
     <id>/en-jp/products/8280120721704</id>
     <published>2023-05-19T15:09:19+08:00</published>
     <updated>2023-05-19T15:09:19+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/titanium-steel-rectangular-keychain10-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/titanium-steel-rectangular-keychain10-pcs"/>
     <title>Titanium Steel Rectangular Keychain(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -877,7 +877,7 @@
     <id>/en-jp/products/8280091656488</id>
     <published>2023-05-19T14:59:29+08:00</published>
     <updated>2023-05-19T14:59:29+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/titanium-steel-military-dog-tag-pendant8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/titanium-steel-military-dog-tag-pendant8-pcs"/>
     <title>Titanium Steel Military Dog Tag Pendant(8 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -916,7 +916,7 @@
     <id>/en-jp/products/8272593912104</id>
     <published>2023-05-16T18:10:53+08:00</published>
     <updated>2023-05-16T18:10:53+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-open-bracelet8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-open-bracelet8-pcs"/>
     <title>Stainless Steel Open Bracelet(8 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -954,7 +954,7 @@
     <id>/en-jp/products/8266305995048</id>
     <published>2023-05-12T11:16:54+08:00</published>
     <updated>2023-05-12T11:16:54+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-coaster4-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-coaster4-pcs"/>
     <title>Wooden Coaster(4 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -992,7 +992,7 @@
     <id>/en-jp/products/8266303406376</id>
     <published>2023-05-12T11:08:18+08:00</published>
     <updated>2023-05-12T11:08:18+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-peach-heart120-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-peach-heart120-pcs"/>
     <title>Wooden Peach Heart(120 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -1030,7 +1030,7 @@
     <id>/en-jp/products/8266298655016</id>
     <published>2023-05-12T10:58:42+08:00</published>
     <updated>2023-05-12T10:58:42+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-road-sign10-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-road-sign10-pcs"/>
     <title>Wooden Road Sign(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>

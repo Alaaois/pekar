@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/blogs/news.atom</id>
-  <link rel="alternate" type="text/html" href="/en-jp/blogs/news"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/blogs/news/tagged/buyer-guide.atom"/>
+  <link rel="alternate" type="text/html" href="//blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="//blogs/news/tagged/buyer-guide.atom"/>
   <title>laserpecker.net - News</title>
   <updated>2023-06-30T14:16:46+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/blogs/news/exploring-batch-engraving-with-excellent-accessories</id>
     <published>2023-06-30T14:16:46+08:00</published>
     <updated>2023-06-30T14:29:33+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/exploring-batch-engraving-with-excellent-accessories"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/exploring-batch-engraving-with-excellent-accessories"/>
     <title>Exploring Batch Engraving with Excellent Accessories</title>
     <author>
       <name>LaserPecker</name>
@@ -133,7 +133,7 @@
     <id>/en-jp/blogs/news/understanding-the-versatile-electric-roller</id>
     <published>2023-06-30T12:12:52+08:00</published>
     <updated>2023-07-12T11:07:56+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/understanding-the-versatile-electric-roller"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/understanding-the-versatile-electric-roller"/>
     <title>Understanding the Versatile Electric Roller</title>
     <author>
       <name>LaserPecker</name>
@@ -361,7 +361,7 @@
     <id>/en-jp/blogs/news/discover-the-laserpecker-4-the-powerful-dual-laser-engraver-and-cutter</id>
     <published>2023-06-25T19:23:59+08:00</published>
     <updated>2023-08-02T16:25:20+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/discover-the-laserpecker-4-the-powerful-dual-laser-engraver-and-cutter"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/discover-the-laserpecker-4-the-powerful-dual-laser-engraver-and-cutter"/>
     <title>Discover the LaserPecker 4: The  Powerful Dual-Laser Engraver and Cutter</title>
     <author>
       <name>LaserPecker</name>
@@ -492,7 +492,7 @@
     <id>/en-jp/blogs/news/guide-to-purchasing-compact-laser-engraver-cutter</id>
     <published>2023-06-03T10:57:38+08:00</published>
     <updated>2023-06-03T17:51:58+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/guide-to-purchasing-compact-laser-engraver-cutter"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/guide-to-purchasing-compact-laser-engraver-cutter"/>
     <title>Guide to Purchasing Compact Laser Engraver &amp; Cutter</title>
     <author>
       <name>LaserPecker Team</name>
@@ -733,7 +733,7 @@
     <id>/en-jp/blogs/news/ceramics-laser-engraving-a-step-by-step-guide</id>
     <published>2023-05-19T10:19:25+08:00</published>
     <updated>2023-06-03T17:53:20+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/ceramics-laser-engraving-a-step-by-step-guide"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/ceramics-laser-engraving-a-step-by-step-guide"/>
     <title>Ceramics Laser Engraving: A Step by Step Guide</title>
     <author>
       <name>LaserPecker Team</name>
@@ -1447,7 +1447,7 @@
     <id>/en-jp/blogs/news/the-best-laser-engraver-for-metal</id>
     <published>2023-04-18T19:40:04+08:00</published>
     <updated>2023-04-18T19:46:46+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/the-best-laser-engraver-for-metal"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/the-best-laser-engraver-for-metal"/>
     <title>The Best Laser Engraver for Metal In 2023</title>
     <author>
       <name>LaserPecker Team</name>
@@ -1851,7 +1851,7 @@
     <id>/en-jp/blogs/news/how-to-improve-accuracy-of-your-laser-cutting</id>
     <published>2023-04-14T16:22:38+08:00</published>
     <updated>2023-04-23T17:30:14+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/how-to-improve-accuracy-of-your-laser-cutting"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/how-to-improve-accuracy-of-your-laser-cutting"/>
     <title>How to improve accuracy of your laser cutting?</title>
     <author>
       <name>laserpecker</name>
@@ -2201,13 +2201,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/a-micro-laser-engraving-machine-that-ordinary-people-can-use</id>
     <published>2022-09-14T15:29:04+08:00</published>
     <updated>2023-03-27T14:46:48+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/a-micro-laser-engraving-machine-that-ordinary-people-can-use"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/a-micro-laser-engraving-machine-that-ordinary-people-can-use"/>
     <title>A Micro Laser Engraving Machine That Ordinary People Can Use</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<meta charset="utf-8"><span>When it comes to lasers, there is an instant feeling of "high-end" and black technology. Yes, lasers are a cutting-edge technology, whether in the medical field, the military field, or the industrial field.</span><p><a class="read-more" href="/en-jp/blogs/news/a-micro-laser-engraving-machine-that-ordinary-people-can-use">More</a></p>]]>
+      <![CDATA[<meta charset="utf-8"><span>When it comes to lasers, there is an instant feeling of "high-end" and black technology. Yes, lasers are a cutting-edge technology, whether in the medical field, the military field, or the industrial field.</span><p><a class="read-more" href="//blogs/news/a-micro-laser-engraving-machine-that-ordinary-people-can-use">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<p>When it comes to lasers, there is an instant feeling of "high-end" and black technology. Yes, lasers are a cutting-edge technology, whether in the medical field, the military field, or the industrial field. For ordinary people, it is difficult to directly touch it on a daily basis. However, with the continuous development of modern technology, laser technology is also rapidly advancing in the direction of being portable and intelligent.</p>
@@ -2235,13 +2235,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/laser-and-engraving-machine-to-discipline-bear-children-super-artifact</id>
     <published>2022-09-14T15:28:53+08:00</published>
     <updated>2023-03-27T14:46:09+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/laser-and-engraving-machine-to-discipline-bear-children-super-artifact"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/laser-and-engraving-machine-to-discipline-bear-children-super-artifact"/>
     <title>Laser and Engraving Machine to Discipline Bear Children  super Artifact</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<meta charset="utf-8"><span>How difficult is it to manage a bear child? A child, although she can't let you do anything, but he can let you do nothing. That might sound funny. But it's also a funny way to tell the hardships of being a parent. </span><p><a class="read-more" href="/en-jp/blogs/news/laser-and-engraving-machine-to-discipline-bear-children-super-artifact">More</a></p>]]>
+      <![CDATA[<meta charset="utf-8"><span>How difficult is it to manage a bear child? A child, although she can't let you do anything, but he can let you do nothing. That might sound funny. But it's also a funny way to tell the hardships of being a parent. </span><p><a class="read-more" href="//blogs/news/laser-and-engraving-machine-to-discipline-bear-children-super-artifact">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<h2>1. Laser engraving machine to accompany children</h2>
@@ -2265,13 +2265,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/i-know-the-laser-engraving-machine-a-laser-engraving-machine-is-a-subtractive-manufacturing-method-that-alters-the-surface-of-an-object-by-using-a-laser-generally-speaking-laser-engraving-machines-are-used-in-a-wider-range-with-higher-engraving-prec</id>
     <published>2022-09-14T15:28:41+08:00</published>
     <updated>2023-03-27T14:45:18+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/i-know-the-laser-engraving-machine-a-laser-engraving-machine-is-a-subtractive-manufacturing-method-that-alters-the-surface-of-an-object-by-using-a-laser-generally-speaking-laser-engraving-machines-are-used-in-a-wider-range-with-higher-engraving-prec"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/i-know-the-laser-engraving-machine-a-laser-engraving-machine-is-a-subtractive-manufacturing-method-that-alters-the-surface-of-an-object-by-using-a-laser-generally-speaking-laser-engraving-machines-are-used-in-a-wider-range-with-higher-engraving-prec"/>
     <title>What Are the Classification of Laser Engraving Machine Light Source?</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<meta charset="utf-8"><span>In the traditional concept of engraving, we understand engraving as imaginary workers hand-held carving knives or power tools to chisel exquisite patterns. Then the so-called laser engraving is the use of laser technology to engrave. The principle is to use the burning of laser heat or chemical changes on the engraved surface to produce engraving marks.</span><p><a class="read-more" href="/en-jp/blogs/news/i-know-the-laser-engraving-machine-a-laser-engraving-machine-is-a-subtractive-manufacturing-method-that-alters-the-surface-of-an-object-by-using-a-laser-generally-speaking-laser-engraving-machines-are-used-in-a-wider-range-with-higher-engraving-prec">More</a></p>]]>
+      <![CDATA[<meta charset="utf-8"><span>In the traditional concept of engraving, we understand engraving as imaginary workers hand-held carving knives or power tools to chisel exquisite patterns. Then the so-called laser engraving is the use of laser technology to engrave. The principle is to use the burning of laser heat or chemical changes on the engraved surface to produce engraving marks.</span><p><a class="read-more" href="//blogs/news/i-know-the-laser-engraving-machine-a-laser-engraving-machine-is-a-subtractive-manufacturing-method-that-alters-the-surface-of-an-object-by-using-a-laser-generally-speaking-laser-engraving-machines-are-used-in-a-wider-range-with-higher-engraving-prec">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<p> </p>
@@ -2293,13 +2293,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/what-are-the-characteristics-of-laser-engraving-machine</id>
     <published>2022-09-14T15:28:28+08:00</published>
     <updated>2023-03-27T14:45:57+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/what-are-the-characteristics-of-laser-engraving-machine"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/what-are-the-characteristics-of-laser-engraving-machine"/>
     <title>What Are the Characteristics of Laser Engraving Machine?</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<meta charset="utf-8"><span>A laser engraving machine is a subtractive manufacturing method that alters the surface of an object by using a laser. Generally speaking, laser engraving machines are used in a wider range, with higher engraving precision and faster engraving speed. </span><p><a class="read-more" href="/en-jp/blogs/news/what-are-the-characteristics-of-laser-engraving-machine">More</a></p>]]>
+      <![CDATA[<meta charset="utf-8"><span>A laser engraving machine is a subtractive manufacturing method that alters the surface of an object by using a laser. Generally speaking, laser engraving machines are used in a wider range, with higher engraving precision and faster engraving speed. </span><p><a class="read-more" href="//blogs/news/what-are-the-characteristics-of-laser-engraving-machine">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<h2>I. know the laser engraving machine</h2>
@@ -2324,13 +2324,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/laser-engraver-applications-and-main-functions</id>
     <published>2022-07-02T15:42:12+08:00</published>
     <updated>2023-03-27T14:46:21+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/laser-engraver-applications-and-main-functions"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/laser-engraver-applications-and-main-functions"/>
     <title>Laser Engraver Applications and Main Functions</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<meta charset="utf-8"><meta charset="utf-8"><span>Using a laser engraver is very simple, just like using a computer and a printer to print on paper. You can use a variety of graphics processing software to design, and scanned graphics, vectorized graphics and a variety of CAD files can be easily "printed" to the engraving machine.</span><p><a class="read-more" href="/en-jp/blogs/news/laser-engraver-applications-and-main-functions">More</a></p>]]>
+      <![CDATA[<meta charset="utf-8"><meta charset="utf-8"><span>Using a laser engraver is very simple, just like using a computer and a printer to print on paper. You can use a variety of graphics processing software to design, and scanned graphics, vectorized graphics and a variety of CAD files can be easily "printed" to the engraving machine.</span><p><a class="read-more" href="//blogs/news/laser-engraver-applications-and-main-functions">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div class="article_content">
@@ -2383,13 +2383,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/commonly-used-materials-of-laser-engraver-and-engraving-technology-methods</id>
     <published>2022-07-02T15:35:44+08:00</published>
     <updated>2023-03-27T14:45:46+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/commonly-used-materials-of-laser-engraver-and-engraving-technology-methods"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/commonly-used-materials-of-laser-engraver-and-engraving-technology-methods"/>
     <title>Commonly Used Materials of Laser Engraver and Engraving Technology Methods</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<meta charset="utf-8"><span>Ordinary mechanical engraving can't engrave points of different thickness in an economical way, so it does not have a grayscale expression. The laser engraver realizes the engraving by dotting, which has a natural advantage in grayscale performance.</span><p><a class="read-more" href="/en-jp/blogs/news/commonly-used-materials-of-laser-engraver-and-engraving-technology-methods">More</a></p>]]>
+      <![CDATA[<meta charset="utf-8"><span>Ordinary mechanical engraving can't engrave points of different thickness in an economical way, so it does not have a grayscale expression. The laser engraver realizes the engraving by dotting, which has a natural advantage in grayscale performance.</span><p><a class="read-more" href="//blogs/news/commonly-used-materials-of-laser-engraver-and-engraving-technology-methods">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div class="article_content">

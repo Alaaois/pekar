@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/blogs/news.atom</id>
-  <link rel="alternate" type="text/html" href="/en-jp/blogs/news"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/blogs/news/tagged/user-story.atom"/>
+  <link rel="alternate" type="text/html" href="//blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="//blogs/news/tagged/user-story.atom"/>
   <title>laserpecker.net - News</title>
   <updated>2023-06-30T14:16:46+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-elodie-designer</id>
     <published>2023-06-15T15:03:01+08:00</published>
     <updated>2023-06-15T15:03:01+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/my-laserpecker-story-meet-elodie-designer"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-elodie-designer"/>
     <title>My LaserPecker Story- Meet Elodie | Designer</title>
     <author>
       <name>LaserPecker Team</name>
@@ -42,7 +42,7 @@
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-alessandro-c-business-owner-artist</id>
     <published>2023-05-22T15:14:52+08:00</published>
     <updated>2023-06-03T17:53:07+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/my-laserpecker-story-meet-alessandro-c-business-owner-artist"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-alessandro-c-business-owner-artist"/>
     <title>My LaserPecker Story- Meet Alessandro C | Business Owner &amp; Artist</title>
     <author>
       <name>LaserPecker Team</name>
@@ -250,13 +250,13 @@
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-alessio-conte-real-estate-broker-laser-side-hustle-1</id>
     <published>2023-02-11T18:32:36+08:00</published>
     <updated>2023-03-27T14:39:54+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/my-laserpecker-story-meet-alessio-conte-real-estate-broker-laser-side-hustle-1"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-alessio-conte-real-estate-broker-laser-side-hustle-1"/>
     <title>My LaserPecker Story- Meet Alessio Conte | Real Estate Broker &amp; Laser Side Hustle</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[As a real estate broker, Alessio started laser business as his side hustle and the sale reaches 30,000 USD after 6 months! We're happy for him and get to know how he runs this and asked for more tips and secrets.<p><a class="read-more" href="/en-jp/blogs/news/my-laserpecker-story-meet-alessio-conte-real-estate-broker-laser-side-hustle-1">More</a></p>]]>
+      <![CDATA[As a real estate broker, Alessio started laser business as his side hustle and the sale reaches 30,000 USD after 6 months! We're happy for him and get to know how he runs this and asked for more tips and secrets.<p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-alessio-conte-real-estate-broker-laser-side-hustle-1">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div class="shogun-root" data-shogun-id="63e76c09914c6800d4b9e13b" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="63e76c09914c6800d4b9e13b" data-shogun-page-version-id="63e7ac256d116d00d4832f01" data-shogun-platform-type="shopify" data-shogun-variant-id="63e7ac256d116d00d4832f6c" data-region="main">
@@ -322,13 +322,13 @@
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-kim-chinn-mom-software-engineer-1</id>
     <published>2023-02-11T18:32:28+08:00</published>
     <updated>2023-03-27T14:40:18+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/my-laserpecker-story-meet-kim-chinn-mom-software-engineer-1"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-kim-chinn-mom-software-engineer-1"/>
     <title>My LaserPecker Story -Meet Kim Chinn |  Mom &amp; Software Engineer</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[As a mom &amp; software engineer, how did Kim get to love to create? And what's her story with her kids with LaserPecker? Is laser engraver a good tool or toy for kids or for education? Let's read today's blog!<p><a class="read-more" href="/en-jp/blogs/news/my-laserpecker-story-meet-kim-chinn-mom-software-engineer-1">More</a></p>]]>
+      <![CDATA[As a mom &amp; software engineer, how did Kim get to love to create? And what's her story with her kids with LaserPecker? Is laser engraver a good tool or toy for kids or for education? Let's read today's blog!<p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-kim-chinn-mom-software-engineer-1">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div class="shogun-root" data-shogun-id="63e7605b6d116d00f1827280" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="63e7605b6d116d00f1827280" data-shogun-page-version-id="63e76ad1914c6800efb9de5e" data-shogun-platform-type="shopify" data-shogun-variant-id="63e76ad1914c6800efb9def7" data-region="main">
@@ -437,13 +437,13 @@
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-rianna-calvin-business-owner</id>
     <published>2023-01-06T12:11:55+08:00</published>
     <updated>2023-03-27T14:40:28+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/my-laserpecker-story-meet-rianna-calvin-business-owner"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-rianna-calvin-business-owner"/>
     <title>My LaserPecker Story- Meet Rianna &amp; Calvin | Business Owner</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<span>If you want to start a laser business or make money from side hustle, our interview with Rianna &amp; Calvin from Spain might give you some answers.</span><p><a class="read-more" href="/en-jp/blogs/news/my-laserpecker-story-meet-rianna-calvin-business-owner">More</a></p>]]>
+      <![CDATA[<span>If you want to start a laser business or make money from side hustle, our interview with Rianna &amp; Calvin from Spain might give you some answers.</span><p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-rianna-calvin-business-owner">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<p>If you want to start a laser business or make money from side hustle, our interview with Rianna &amp; Calvin from Spain might give you some answers.</p>
@@ -483,13 +483,13 @@
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-kristen-etsy-store-owner</id>
     <published>2023-01-05T18:47:23+08:00</published>
     <updated>2023-03-27T14:44:06+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/my-laserpecker-story-meet-kristen-etsy-store-owner"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-kristen-etsy-store-owner"/>
     <title>My LaserPecker Story-Meet Kristen | Etsy Store Owner</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[Is laser engraving project a good Etsy business? How should you run a business like this? Hope you could learn something from our today's blog post. Kristen Terrell, owner of LaserPecker 1 and 2 who are based in US and run an Etsy store. This blog post features our interview with her.<p><a class="read-more" href="/en-jp/blogs/news/my-laserpecker-story-meet-kristen-etsy-store-owner">More</a></p>]]>
+      <![CDATA[Is laser engraving project a good Etsy business? How should you run a business like this? Hope you could learn something from our today's blog post. Kristen Terrell, owner of LaserPecker 1 and 2 who are based in US and run an Etsy store. This blog post features our interview with her.<p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-kristen-etsy-store-owner">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<p>Is laser engraving project a good Etsy business? How should you run a business like this? Hope you could learn something from our today's blog post.</p>
@@ -528,13 +528,13 @@
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-michael-photographer-business-owner</id>
     <published>2023-01-05T17:14:25+08:00</published>
     <updated>2023-03-27T14:40:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/my-laserpecker-story-meet-michael-photographer-business-owner"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-michael-photographer-business-owner"/>
     <title>My LaserPecker Story- Meet Michael | Photographer + Business Owner</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<span>Today we're having Michael Atkinson for My LaserPecker Story. He's a professional fashion photographer and started his business after getting LaserPecker 1 pro. Let's see what he says. </span><p><a class="read-more" href="/en-jp/blogs/news/my-laserpecker-story-meet-michael-photographer-business-owner">More</a></p>]]>
+      <![CDATA[<span>Today we're having Michael Atkinson for My LaserPecker Story. He's a professional fashion photographer and started his business after getting LaserPecker 1 pro. Let's see what he says. </span><p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-michael-photographer-business-owner">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div>Today we're having Michael Atkinson from UK for My LaserPecker Story. He's a professional fashion photographer and started his business(wemakeart.uk) after getting <a href="https://bit.ly/3HTgoym" target="_blank" title="LaserPecker 1 pro" rel="noopener noreferrer">LaserPecker 1 pro</a>. Let's see what he says.</div>
@@ -581,13 +581,13 @@
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-bryan-charity-organizer</id>
     <published>2022-12-27T15:57:18+08:00</published>
     <updated>2023-03-27T14:41:03+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/my-laserpecker-story-meet-bryan-charity-organizer"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-bryan-charity-organizer"/>
     <title>My LaserPecker Story- Meet Bryan| Charity Organizer</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<span>In the blog post, My LaserPecker Story, we'll invite users from all walks of life. Today we're interviewing Bryan Kantor, owner of LaserPecker 1 pro, a charity organizer based in Canada. </span><p><a class="read-more" href="/en-jp/blogs/news/my-laserpecker-story-meet-bryan-charity-organizer">More</a></p>]]>
+      <![CDATA[<span>In the blog post, My LaserPecker Story, we'll invite users from all walks of life. Today we're interviewing Bryan Kantor, owner of LaserPecker 1 pro, a charity organizer based in Canada. </span><p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-bryan-charity-organizer">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<p>In the blog post, My LaserPecker Story, we'll invite users from all walks of life. Today we're interviewing Bryan Kantor, owner of <a href="http://bit.ly/3HTgoym" target="_blank" title="LaserPecker 1 pro" rel="noopener noreferrer">LaserPecker 1 pro</a>, a charity organizer based in Canada. </p>
@@ -621,14 +621,14 @@
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-denholm-designer-business-owner</id>
     <published>2022-12-27T15:18:01+08:00</published>
     <updated>2023-03-27T14:40:53+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/my-laserpecker-story-meet-denholm-designer-business-owner"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-denholm-designer-business-owner"/>
     <title>My LaserPecker Story-Meet Denholm | Designer + Business Owner</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
       <![CDATA[<p><span>Today we're launching a new blog post column called My LaserPecker Story. Let's meet LaserPecker owners in our community and see what they make possible with LaserPecker. These stories may inspire you.</span></p>
-<p><span>Denholm, owner of LaserPecker 2, is a visual artist based in UK. He creates LGBTQ+ clothing from his home studio using laser etching and other methods.</span></p><p><a class="read-more" href="/en-jp/blogs/news/my-laserpecker-story-meet-denholm-designer-business-owner">More</a></p>]]>
+<p><span>Denholm, owner of LaserPecker 2, is a visual artist based in UK. He creates LGBTQ+ clothing from his home studio using laser etching and other methods.</span></p><p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-denholm-designer-business-owner">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<meta charset="utf-8">

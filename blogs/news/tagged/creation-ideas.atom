@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/blogs/news.atom</id>
-  <link rel="alternate" type="text/html" href="/en-jp/blogs/news"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/blogs/news/tagged/creation-ideas.atom"/>
+  <link rel="alternate" type="text/html" href="//blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="//blogs/news/tagged/creation-ideas.atom"/>
   <title>laserpecker.net - News</title>
   <updated>2023-06-30T14:16:46+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/blogs/news/top-10-thoughtful-gift-ideas-for-dads</id>
     <published>2023-06-15T14:45:38+08:00</published>
     <updated>2023-06-15T14:48:25+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/top-10-thoughtful-gift-ideas-for-dads"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/top-10-thoughtful-gift-ideas-for-dads"/>
     <title>Top 10 Thoughtful Gift Ideas for Dads</title>
     <author>
       <name>LaserPecker Team</name>
@@ -214,7 +214,7 @@
     <id>/en-jp/blogs/news/diy-mothers-day-gifts-with-laser-engraving-7-unique-ideas-and-step-by-step-guide</id>
     <published>2023-04-26T12:20:17+08:00</published>
     <updated>2023-06-03T17:53:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/diy-mothers-day-gifts-with-laser-engraving-7-unique-ideas-and-step-by-step-guide"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/diy-mothers-day-gifts-with-laser-engraving-7-unique-ideas-and-step-by-step-guide"/>
     <title>DIY Mother&apos;s Day Gifts with Laser Engraving: 7 Unique Ideas and Step-by-Step Guide</title>
     <author>
       <name>LaserPecker Team</name>
@@ -692,7 +692,7 @@
     <id>/en-jp/blogs/news/10-laser-engraved-valentine-s-day-gift-ideas</id>
     <published>2023-01-30T15:11:05+08:00</published>
     <updated>2023-03-27T14:41:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/10-laser-engraved-valentine-s-day-gift-ideas"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/10-laser-engraved-valentine-s-day-gift-ideas"/>
     <title>10 Laser Engraved Valentine&apos;s Day Gift Ideas</title>
     <author>
       <name>laserpecker</name>
@@ -1122,13 +1122,13 @@
     <id>/en-jp/blogs/news/two-lp-christmas-engrave-cut-projects</id>
     <published>2022-12-09T13:42:48+08:00</published>
     <updated>2023-03-27T14:44:33+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/two-lp-christmas-engrave-cut-projects"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/two-lp-christmas-engrave-cut-projects"/>
     <title>Two LP Christmas Engrave &amp; Cut Projects</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[Here is a Christmas Bauble Cube project and a Christmas 3 Layered Bauble project for everyone. Hope you enjoy it!<p><a class="read-more" href="/en-jp/blogs/news/two-lp-christmas-engrave-cut-projects">More</a></p>]]>
+      <![CDATA[Here is a Christmas Bauble Cube project and a Christmas 3 Layered Bauble project for everyone. Hope you enjoy it!<p><a class="read-more" href="//blogs/news/two-lp-christmas-engrave-cut-projects">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div class="shogun-root" data-shogun-id="6392c429de8b5600d83d927b" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="6392c429de8b5600d83d927b" data-shogun-page-version-id="6392cc5c61a3ad00e394233c" data-shogun-platform-type="shopify" data-shogun-variant-id="6392cc5c61a3ad00e394258a" data-region="main">
@@ -1469,7 +1469,7 @@
     <id>/en-jp/blogs/news/the-christmas-ornaments-copy</id>
     <published>2022-12-08T10:02:51+08:00</published>
     <updated>2023-03-27T14:44:54+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/blogs/news/the-christmas-ornaments-copy"/>
+    <link rel="alternate" type="text/html" href="//blogs/news/the-christmas-ornaments-copy"/>
     <title>10 Laser Engraved Christmas Ornaments Ideas</title>
     <author>
       <name>laserpecker</name>

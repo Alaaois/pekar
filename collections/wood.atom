@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/wood.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/wood.atom"/>
   <title>laserpecker.net</title>
   <updated>2023-06-17T11:24:05+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/8336462053672</id>
     <published>2023-06-17T11:24:05+08:00</published>
     <updated>2023-06-17T11:24:05+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-shield-keychain-blanks5-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-shield-keychain-blanks5-pcs"/>
     <title>Wooden Shield Keychain Blanks(5 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -50,7 +50,7 @@
     <id>/en-jp/products/8336441409832</id>
     <published>2023-06-17T11:15:25+08:00</published>
     <updated>2023-06-17T11:15:25+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/cork-wooden-label-stickers160-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/cork-wooden-label-stickers160-pcs"/>
     <title>Cork Wooden Label Stickers(160 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -95,7 +95,7 @@
     <id>/en-jp/products/8303877816616</id>
     <published>2023-06-01T14:43:43+08:00</published>
     <updated>2023-06-01T14:43:43+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-sunglasses"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-sunglasses"/>
     <title>Wooden Sunglasses</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -140,7 +140,7 @@
     <id>/en-jp/products/8291735535912</id>
     <published>2023-05-26T14:30:38+08:00</published>
     <updated>2023-05-26T14:30:38+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-wooden-materials-diy-kit-190pcs"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-wooden-materials-diy-kit-190pcs"/>
     <title>LaserPecker LP2 Wooden Materials DIY Kit(190pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -196,7 +196,7 @@
     <id>/en-jp/products/8291614654760</id>
     <published>2023-05-26T12:15:20+08:00</published>
     <updated>2023-05-26T12:15:20+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/cherry-wood-circular-keychain5-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/cherry-wood-circular-keychain5-pcs"/>
     <title>Cherry Wood Circular Keychain(5 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -234,7 +234,7 @@
     <id>/en-jp/products/8291607937320</id>
     <published>2023-05-26T12:09:24+08:00</published>
     <updated>2023-05-26T12:09:24+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/heart-shaped-wood-keychain5-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/heart-shaped-wood-keychain5-pcs"/>
     <title>Heart-shaped Wood Keychain(5 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -272,7 +272,7 @@
     <id>/en-jp/products/8291591848232</id>
     <published>2023-05-26T11:57:16+08:00</published>
     <updated>2023-05-26T11:57:16+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/walnut-rectangular-keychain-5-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/walnut-rectangular-keychain-5-pcs"/>
     <title>Walnut rectangular keychain(5 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -310,7 +310,7 @@
     <id>/en-jp/products/8266305995048</id>
     <published>2023-05-12T11:16:54+08:00</published>
     <updated>2023-05-12T11:16:54+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-coaster4-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-coaster4-pcs"/>
     <title>Wooden Coaster(4 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -348,7 +348,7 @@
     <id>/en-jp/products/8266303406376</id>
     <published>2023-05-12T11:08:18+08:00</published>
     <updated>2023-05-12T11:08:18+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-peach-heart120-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-peach-heart120-pcs"/>
     <title>Wooden Peach Heart(120 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -386,7 +386,7 @@
     <id>/en-jp/products/8266298655016</id>
     <published>2023-05-12T10:58:42+08:00</published>
     <updated>2023-05-12T10:58:42+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-road-sign10-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-road-sign10-pcs"/>
     <title>Wooden Road Sign(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -424,7 +424,7 @@
     <id>/en-jp/products/8266293903656</id>
     <published>2023-05-12T10:49:41+08:00</published>
     <updated>2023-05-12T10:49:41+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-chips8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-chips8-pcs"/>
     <title>Wooden Chips(8 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -462,7 +462,7 @@
     <id>/en-jp/products/8266283188520</id>
     <published>2023-05-12T10:17:39+08:00</published>
     <updated>2023-05-12T10:17:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-sign48-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-sign48-pcs"/>
     <title>Wooden Sign(48 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -500,7 +500,7 @@
     <id>/en-jp/products/8266254647592</id>
     <published>2023-05-12T10:04:21+08:00</published>
     <updated>2023-05-12T10:04:21+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-door-sign10-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-door-sign10-pcs"/>
     <title>Wooden Door Sign(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -538,7 +538,7 @@
     <id>/en-jp/products/8265101705512</id>
     <published>2023-05-11T17:22:50+08:00</published>
     <updated>2023-05-11T17:22:50+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-plant-label20-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-plant-label20-pcs"/>
     <title>Wooden Plant Label(50 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -576,7 +576,7 @@
     <id>/en-jp/products/8260645617960</id>
     <published>2023-05-09T14:48:46+08:00</published>
     <updated>2023-05-09T14:48:46+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wooden-gel-ink-pen5-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/wooden-gel-ink-pen5-pcs"/>
     <title>Wooden Gel Ink Pen(5 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -614,7 +614,7 @@
     <id>/en-jp/products/7145396830255</id>
     <published>2022-11-14T15:38:33+08:00</published>
     <updated>2022-11-14T15:38:33+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-cork-creative-concave-insulation-placemat-shock-absorbing-coaster-for-office-or-family-30-sets"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-cork-creative-concave-insulation-placemat-shock-absorbing-coaster-for-office-or-family-30-sets"/>
     <title>LaserPecker Cork Creative Concave Insulation Placemat Shock-Absorbing Coaster For Office or Family(30 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -655,7 +655,7 @@
     <id>/en-jp/products/7145391849519</id>
     <published>2022-09-22T20:09:05+08:00</published>
     <updated>2022-09-22T20:09:05+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/wood-keychain-blanks-for-diy-crafts-rectangles"/>
+    <link rel="alternate" type="text/html" href="//products/wood-keychain-blanks-for-diy-crafts-rectangles"/>
     <title>Wood Keychain Blanks for DIY Crafts, Rectangles(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -694,7 +694,7 @@
     <id>/en-jp/products/7057429168175</id>
     <published>2022-06-28T17:11:42+08:00</published>
     <updated>2022-06-28T17:11:42+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/natural-wooden-blank-keychain-round-square-heart-oval-shield-engraving-material1-pack-8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/natural-wooden-blank-keychain-round-square-heart-oval-shield-engraving-material1-pack-8-pcs"/>
     <title>Natural Wooden Blank Keychain Wood - Random Shipping for Round, Square, Heart, Oval(8 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -736,7 +736,7 @@
     <id>/en-jp/products/7043276439599</id>
     <published>2022-06-08T17:27:54+08:00</published>
     <updated>2022-06-08T17:27:54+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/balsawood-sheets-for-crafts-perfect-for-architectural-models-drawing-painting-wood-engraving-wood-burning-laser-scroll-sawing"/>
+    <link rel="alternate" type="text/html" href="//products/balsawood-sheets-for-crafts-perfect-for-architectural-models-drawing-painting-wood-engraving-wood-burning-laser-scroll-sawing"/>
     <title>Engraving Materials: Wood Crafts Sheets for LaserPecker 1,Pro,2(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker-net</s:vendor>

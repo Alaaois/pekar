@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/engraving-accessories.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/engraving-accessories.atom"/>
   <title>laserpecker.net</title>
   <updated>2023-08-25T16:37:34+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/8542928732456</id>
     <published>2023-08-25T16:37:34+08:00</published>
     <updated>2023-08-25T16:37:34+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-4-base"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-4-base"/>
     <title>LaserPecker LP4 Base</title>
     <s:type></s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -51,7 +51,7 @@
     <id>/en-jp/products/8484285612328</id>
     <published>2023-08-12T10:31:32+08:00</published>
     <updated>2023-08-12T10:31:32+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-lp4-carrying-case-storage-case-big-bag"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-lp4-carrying-case-storage-case-big-bag"/>
     <title>LaserPecker LP4 Carrying Case/Storage Case/Big Bag</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -89,7 +89,7 @@
     <id>/en-jp/products/8461873905960</id>
     <published>2023-08-08T19:21:47+08:00</published>
     <updated>2023-08-08T19:21:47+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-4-cone-shaped-protector"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-4-cone-shaped-protector"/>
     <title>LaserPecker 4 Cone Shaped Protector</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -126,7 +126,7 @@
     <id>/en-jp/products/8411140358440</id>
     <published>2023-07-20T18:38:09+08:00</published>
     <updated>2023-07-20T18:38:09+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-3-laser-protection-cover"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-3-laser-protection-cover"/>
     <title>LaserPecker 2/3 Laser Protection Cover</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -178,7 +178,7 @@
     <id>/en-jp/products/8404091568424</id>
     <published>2023-07-18T22:04:38+08:00</published>
     <updated>2023-07-18T22:04:38+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/preorder-laserpecker-4-slide-extension"/>
+    <link rel="alternate" type="text/html" href="//products/preorder-laserpecker-4-slide-extension"/>
     <title>LaserPecker LP4 Slide Extension</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -342,7 +342,7 @@
     <id>/en-jp/products/8404048937256</id>
     <published>2023-07-18T22:04:29+08:00</published>
     <updated>2023-07-18T22:04:29+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/preorder-laserpecker-4-laser-protection-cover"/>
+    <link rel="alternate" type="text/html" href="//products/preorder-laserpecker-4-laser-protection-cover"/>
     <title>Preorder-LaserPecker LP4 Laser Protection Cover</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -518,7 +518,7 @@
     <id>/en-jp/products/8404833304872</id>
     <published>2023-07-18T21:54:47+08:00</published>
     <updated>2023-07-18T21:54:47+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/preorder-laserpecker-4-cutting-plate"/>
+    <link rel="alternate" type="text/html" href="//products/preorder-laserpecker-4-cutting-plate"/>
     <title>LaserPecker LP4 Cutting Plate</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -689,7 +689,7 @@
     <id>/en-jp/products/7043276308527</id>
     <published>2023-05-02T15:33:13+08:00</published>
     <updated>2023-05-02T15:33:13+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/l2-laser-head"/>
+    <link rel="alternate" type="text/html" href="//products/l2-laser-head"/>
     <title>LaserPecker 2-Laser Head Engraving Accessories</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -766,7 +766,7 @@
     <id>/en-jp/products/8219833893160</id>
     <published>2023-04-12T10:47:00+08:00</published>
     <updated>2023-04-12T10:47:00+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/preorder-laserpecker-lx1-lx1-max-artist-module"/>
+    <link rel="alternate" type="text/html" href="//products/preorder-laserpecker-lx1-lx1-max-artist-module"/>
     <title>LaserPecker LX1 &amp; LX1 Max Artist Module</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -814,7 +814,7 @@
     <id>/en-jp/products/8205212778792</id>
     <published>2023-03-31T21:08:52+08:00</published>
     <updated>2023-03-31T21:08:52+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/lx1-max-laser-protection-cover"/>
+    <link rel="alternate" type="text/html" href="//products/lx1-max-laser-protection-cover"/>
     <title>Preorder-LX1 Max Laser Protection Cover</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -865,7 +865,7 @@
     <id>/en-jp/products/8205209796904</id>
     <published>2023-03-31T21:03:54+08:00</published>
     <updated>2023-03-31T21:03:54+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/lx1-max-engraving-bed-cutting-plate"/>
+    <link rel="alternate" type="text/html" href="//products/lx1-max-engraving-bed-cutting-plate"/>
     <title>Preorder-LX1 Max Engraving Bed &amp; Cutting Plate</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -916,7 +916,7 @@
     <id>/en-jp/products/8190708416808</id>
     <published>2023-03-22T15:56:39+08:00</published>
     <updated>2023-03-22T15:56:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laser-safety-cover"/>
+    <link rel="alternate" type="text/html" href="//products/laser-safety-cover"/>
     <title>Preorder-LX1 Laser Protection Cover</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -969,7 +969,7 @@
     <id>/en-jp/products/8190705500456</id>
     <published>2023-03-22T15:44:32+08:00</published>
     <updated>2023-03-22T15:44:32+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/engraving-bed-cutting-plate"/>
+    <link rel="alternate" type="text/html" href="//products/engraving-bed-cutting-plate"/>
     <title>Preorder-LX1 Engraving Bed &amp; Cutting Plate</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -1022,7 +1022,7 @@
     <id>/en-jp/products/8190703173928</id>
     <published>2023-03-22T15:34:28+08:00</published>
     <updated>2023-03-22T15:34:28+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/riser"/>
+    <link rel="alternate" type="text/html" href="//products/riser"/>
     <title>LX1/LX1 Max Riser (4 Packs)</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -1074,7 +1074,7 @@
     <id>/en-jp/products/8190696390952</id>
     <published>2023-03-22T15:18:41+08:00</published>
     <updated>2023-03-22T15:18:41+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/rotary-extension"/>
+    <link rel="alternate" type="text/html" href="//products/rotary-extension"/>
     <title>Rotary Extension For LX1 &amp; LX1 Max/LP4</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -1128,7 +1128,7 @@
     <id>/en-jp/products/7057468096559</id>
     <published>2023-03-07T18:50:19+08:00</published>
     <updated>2023-03-07T18:50:19+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/l2-plug"/>
+    <link rel="alternate" type="text/html" href="//products/l2-plug"/>
     <title>LaserPecker 2/3-Plug</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -1198,7 +1198,7 @@
     <id>/en-jp/products/8111838331176</id>
     <published>2023-02-14T14:32:21+08:00</published>
     <updated>2023-02-14T14:32:21+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-laser-head-engraving-accessories"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-laser-head-engraving-accessories"/>
     <title>LaserPecker 3-Laser Head Engraving Accessories</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -1273,7 +1273,7 @@
     <id>/en-jp/products/8098260812072</id>
     <published>2023-02-03T14:06:08+08:00</published>
     <updated>2023-02-03T14:06:08+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-3-versatile-electric-roller-accessories"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-3-versatile-electric-roller-accessories"/>
     <title>LaserPecker 3 Versatile Electric Roller</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -1327,7 +1327,7 @@
     <id>/en-jp/products/8098109620520</id>
     <published>2023-02-03T12:26:21+08:00</published>
     <updated>2023-02-03T12:26:21+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/magnetic-sliders-2-pcs-for-versatile-electric-roller"/>
+    <link rel="alternate" type="text/html" href="//products/magnetic-sliders-2-pcs-for-versatile-electric-roller"/>
     <title>Magnetic Sliders (2 pcs) for LP3 Versatile Electric Roller</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -1375,7 +1375,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
     <id>/en-jp/products/7057517772847</id>
     <published>2023-02-03T11:48:09+08:00</published>
     <updated>2023-02-03T11:48:09+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-third-axis-or-auxiliary-booster-accessories"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-third-axis-or-auxiliary-booster-accessories"/>
     <title>LaserPecker 2 Versatile Electric Roller</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -1430,7 +1430,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
     <id>/en-jp/products/8013488062760</id>
     <published>2022-11-18T11:57:41+08:00</published>
     <updated>2022-11-18T11:57:41+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-3-adjustable-positioning-fixture"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-3-adjustable-positioning-fixture"/>
     <title>Adjustable Positioning Base Plate</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -1470,7 +1470,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
     <id>/en-jp/products/7984509255976</id>
     <published>2022-11-07T11:11:36+08:00</published>
     <updated>2022-11-07T11:11:36+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-cone-shaped-protector"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-cone-shaped-protector"/>
     <title>LaserPecker 2 Cone Shaped Protector</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -1510,7 +1510,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
     <id>/en-jp/products/7982228308264</id>
     <published>2022-11-04T14:53:27+08:00</published>
     <updated>2022-11-04T14:53:27+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/alignment-pad-for-l1-l1pro-l2-l3-engraving"/>
+    <link rel="alternate" type="text/html" href="//products/alignment-pad-for-l1-l1pro-l2-l3-engraving"/>
     <title>Alignment Pad for L1 L1Pro L2 L3 engraving</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -1554,7 +1554,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
     <id>/en-jp/products/7043276144687</id>
     <published>2022-11-04T12:14:03+08:00</published>
     <updated>2022-11-04T12:14:03+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-bluetooth-dongle"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-bluetooth-dongle"/>
     <title>LaserPecker Bluetooth Dongle For LP2 &amp; LP3 &amp; LP4</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -1597,7 +1597,7 @@ Magnetic Sliders (2 pcs) for Versatile Electric Roller
     <id>/en-jp/products/7057513185327</id>
     <published>2022-10-14T16:00:11+08:00</published>
     <updated>2022-10-14T16:00:11+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-electric-supporting-track"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-electric-supporting-track"/>
     <title>LaserPecker 2 Electric Supporting Track Accessories</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker-net</s:vendor>

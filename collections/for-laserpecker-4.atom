@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/for-laserpecker-4.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/for-laserpecker-4.atom"/>
   <title>laserpecker.net</title>
   <updated>2023-08-25T16:37:34+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/8542928732456</id>
     <published>2023-08-25T16:37:34+08:00</published>
     <updated>2023-08-25T16:37:34+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-4-base"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-4-base"/>
     <title>LaserPecker LP4 Base</title>
     <s:type></s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -51,7 +51,7 @@
     <id>/en-jp/products/8484285612328</id>
     <published>2023-08-12T10:31:32+08:00</published>
     <updated>2023-08-12T10:31:32+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-lp4-carrying-case-storage-case-big-bag"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-lp4-carrying-case-storage-case-big-bag"/>
     <title>LaserPecker LP4 Carrying Case/Storage Case/Big Bag</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -89,7 +89,7 @@
     <id>/en-jp/products/8461873905960</id>
     <published>2023-08-08T19:21:47+08:00</published>
     <updated>2023-08-08T19:21:47+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-4-cone-shaped-protector"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-4-cone-shaped-protector"/>
     <title>LaserPecker 4 Cone Shaped Protector</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -126,7 +126,7 @@
     <id>/en-jp/products/8404091568424</id>
     <published>2023-07-18T22:04:38+08:00</published>
     <updated>2023-07-18T22:04:38+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/preorder-laserpecker-4-slide-extension"/>
+    <link rel="alternate" type="text/html" href="//products/preorder-laserpecker-4-slide-extension"/>
     <title>LaserPecker LP4 Slide Extension</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -290,7 +290,7 @@
     <id>/en-jp/products/8404048937256</id>
     <published>2023-07-18T22:04:29+08:00</published>
     <updated>2023-07-18T22:04:29+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/preorder-laserpecker-4-laser-protection-cover"/>
+    <link rel="alternate" type="text/html" href="//products/preorder-laserpecker-4-laser-protection-cover"/>
     <title>Preorder-LaserPecker LP4 Laser Protection Cover</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -466,7 +466,7 @@
     <id>/en-jp/products/8404833304872</id>
     <published>2023-07-18T21:54:47+08:00</published>
     <updated>2023-07-18T21:54:47+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/preorder-laserpecker-4-cutting-plate"/>
+    <link rel="alternate" type="text/html" href="//products/preorder-laserpecker-4-cutting-plate"/>
     <title>LaserPecker LP4 Cutting Plate</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -637,7 +637,7 @@
     <id>/en-jp/products/8190696390952</id>
     <published>2023-03-22T15:18:41+08:00</published>
     <updated>2023-03-22T15:18:41+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/rotary-extension"/>
+    <link rel="alternate" type="text/html" href="//products/rotary-extension"/>
     <title>Rotary Extension For LX1 &amp; LX1 Max/LP4</title>
     <s:type>Accessories</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -691,7 +691,7 @@
     <id>/en-jp/products/7043276144687</id>
     <published>2022-11-04T12:14:03+08:00</published>
     <updated>2022-11-04T12:14:03+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-bluetooth-dongle"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-bluetooth-dongle"/>
     <title>LaserPecker Bluetooth Dongle For LP2 &amp; LP3 &amp; LP4</title>
     <s:type>Accessories</s:type>
     <s:vendor>LaserPecker</s:vendor>

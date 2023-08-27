@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/engraving-machine.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/engraving-machine.atom"/>
   <title>laserpecker.net</title>
   <updated>2023-08-16T19:37:14+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/7062944022575</id>
     <published>2023-08-16T19:37:14+08:00</published>
     <updated>2023-08-16T19:37:14+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-3-metal-laser-engraver"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-3-metal-laser-engraver"/>
     <title>LaserPecker LP3 - High Precision Metal &amp; Plastic Laser Engraver</title>
     <s:type>machine</s:type>
     <s:vendor>laserpecker-net</s:vendor>
@@ -27,7 +27,7 @@
         <strong>Type: </strong>machine<br>
         <strong>Price: </strong>
             1199.99 - 1439.99
-            <a href="/en-jp/products/laserpecker-3-metal-laser-engraver">(18 variants)</a>
+            <a href="//products/laserpecker-3-metal-laser-engraver">(18 variants)</a>
       </p>
     </td>
   </tr>
@@ -179,7 +179,7 @@
     <id>/en-jp/products/8385094975784</id>
     <published>2023-07-18T21:39:21+08:00</published>
     <updated>2023-07-18T21:39:21+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-4"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-4"/>
     <title>Preorder-LaserPecker LP4 - The World&apos;s First Dual-laser Engraver for Most Materials</title>
     <s:type>machine</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -194,7 +194,7 @@
         <strong>Type: </strong>machine<br>
         <strong>Price: </strong>
             1699.00 - 2158.00
-            <a href="/en-jp/products/laserpecker-4">(20 variants)</a>
+            <a href="//products/laserpecker-4">(20 variants)</a>
       </p>
     </td>
   </tr>
@@ -360,7 +360,7 @@
     <id>/en-jp/products/7043276210223</id>
     <published>2022-06-08T17:27:50+08:00</published>
     <updated>2022-06-08T17:27:50+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-basic-super-fast-handheld-laser-engraver-cutter"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-basic-super-fast-handheld-laser-engraver-cutter"/>
     <title>LaserPecker LP2 - Portable and Handleable Laser Engraver</title>
     <s:type>machine</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -375,7 +375,7 @@
         <strong>Type: </strong>machine<br>
         <strong>Price: </strong>
             799.99 - 1199.99
-            <a href="/en-jp/products/laserpecker-2-basic-super-fast-handheld-laser-engraver-cutter">(24 variants)</a>
+            <a href="//products/laserpecker-2-basic-super-fast-handheld-laser-engraver-cutter">(24 variants)</a>
       </p>
     </td>
   </tr>
@@ -578,7 +578,7 @@
     <id>/en-jp/products/7043275948079</id>
     <published>2022-06-08T17:27:48+08:00</published>
     <updated>2022-06-08T17:27:48+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/l1-pro-basic-the-most-compact-safe-easy-to-use-laser-engraver"/>
+    <link rel="alternate" type="text/html" href="//products/l1-pro-basic-the-most-compact-safe-easy-to-use-laser-engraver"/>
     <title>LaserPecker LP1 Pro -The Most User-friendly Entry-level Laser Engraver ( Not Ship to EU)</title>
     <s:type>machine</s:type>
     <s:vendor>LaserPecker</s:vendor>
@@ -593,7 +593,7 @@
         <strong>Type: </strong>machine<br>
         <strong>Price: </strong>
             279.99 - 482.99
-            <a href="/en-jp/products/l1-pro-basic-the-most-compact-safe-easy-to-use-laser-engraver">(21 variants)</a>
+            <a href="//products/l1-pro-basic-the-most-compact-safe-easy-to-use-laser-engraver">(21 variants)</a>
       </p>
     </td>
   </tr>
@@ -768,7 +768,7 @@
     <id>/en-jp/products/7043276505135</id>
     <published>2022-06-08T17:27:44+08:00</published>
     <updated>2022-06-08T17:27:44+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/l1-the-most-useful-mini-handheld-laser-engraver"/>
+    <link rel="alternate" type="text/html" href="//products/l1-the-most-useful-mini-handheld-laser-engraver"/>
     <title>LaserPecker LP1 - Pocket-size Mini Laser Engraver ( Not Ship to EU)</title>
     <s:type>machine</s:type>
     <s:vendor>LaserPecker</s:vendor>

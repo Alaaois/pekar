@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/new-material-package.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/new-material-package.atom"/>
   <title>laserpecker.net</title>
   <updated>2023-08-18T14:23:39+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/8507927429416</id>
     <published>2023-08-18T14:23:39+08:00</published>
     <updated>2023-08-18T14:23:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-lp4-basic-material-package121-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-lp4-basic-material-package121-pcs"/>
     <title>LaserPecker LP4 Basic Material Package(121 PCS)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -57,7 +57,7 @@
     <id>/en-jp/products/8291735535912</id>
     <published>2023-05-26T14:30:38+08:00</published>
     <updated>2023-05-26T14:30:38+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-wooden-materials-diy-kit-190pcs"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-wooden-materials-diy-kit-190pcs"/>
     <title>LaserPecker LP2 Wooden Materials DIY Kit(190pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -113,7 +113,7 @@
     <id>/en-jp/products/8236862603560</id>
     <published>2023-04-23T14:23:03+08:00</published>
     <updated>2023-04-23T14:23:03+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-3-premium-material-box-40pcs"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-3-premium-material-box-40pcs"/>
     <title>LaserPecker 3 Premium Material Package(40pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -169,7 +169,7 @@
     <id>/en-jp/products/7982263730472</id>
     <published>2022-11-04T15:19:33+08:00</published>
     <updated>2022-11-04T15:19:33+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-2-materials"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-2-materials"/>
     <title>LaserPecker LP2 Materials(44 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>

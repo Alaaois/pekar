@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/mental.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/mental.atom"/>
   <title>laserpecker.net</title>
   <updated>2023-08-04T11:24:05+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/8447088066856</id>
     <published>2023-08-04T11:24:05+08:00</published>
     <updated>2023-08-04T11:24:05+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-book-page-marker-with-pendants3-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-book-page-marker-with-pendants3-pcs"/>
     <title>Stainless Steel Book Page Marker with Pendants(3 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -51,7 +51,7 @@
     <id>/en-jp/products/8336486400296</id>
     <published>2023-06-17T11:35:53+08:00</published>
     <updated>2023-06-17T11:35:53+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/pu-leather-metal-keychain4-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/pu-leather-metal-keychain4-pcs"/>
     <title>Pu Leather Metal Keychain(4 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -90,7 +90,7 @@
     <id>/en-jp/products/8280065147176</id>
     <published>2023-06-14T15:05:08+08:00</published>
     <updated>2023-06-14T15:05:08+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/titanium-steel-cross-necklace8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/titanium-steel-cross-necklace8-pcs"/>
     <title>Titanium Steel Cross Necklace(8 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -128,7 +128,7 @@
     <id>/en-jp/products/8280097784104</id>
     <published>2023-06-14T15:03:35+08:00</published>
     <updated>2023-06-14T15:03:35+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-dimensional-bar-necklace8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-dimensional-bar-necklace8-pcs"/>
     <title>Stainless Steel Dimensional Bar Necklace(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -166,7 +166,7 @@
     <id>/en-jp/products/8319455166760</id>
     <published>2023-06-08T10:14:27+08:00</published>
     <updated>2023-06-08T10:14:27+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-braided-wrap-leather-bracelet"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-braided-wrap-leather-bracelet"/>
     <title>Stainless Steel Braided Wrap Leather Bracelet(2 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -204,7 +204,7 @@
     <id>/en-jp/products/8306034114856</id>
     <published>2023-06-02T19:00:43+08:00</published>
     <updated>2023-06-02T19:00:43+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-tumbler-kit20-oz"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-tumbler-kit20-oz"/>
     <title>Stainless Steel Tumbler kit(20 oz)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -256,7 +256,7 @@
     <id>/en-jp/products/8280157028648</id>
     <published>2023-05-19T15:23:57+08:00</published>
     <updated>2023-05-19T15:23:57+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/6-oz-portable-stainless-steel-flask-with-two-cups"/>
+    <link rel="alternate" type="text/html" href="//products/6-oz-portable-stainless-steel-flask-with-two-cups"/>
     <title>Portable Stainless Steel Flask With Two Cups(6oz)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -294,7 +294,7 @@
     <id>/en-jp/products/8280120721704</id>
     <published>2023-05-19T15:09:19+08:00</published>
     <updated>2023-05-19T15:09:19+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/titanium-steel-rectangular-keychain10-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/titanium-steel-rectangular-keychain10-pcs"/>
     <title>Titanium Steel Rectangular Keychain(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -332,7 +332,7 @@
     <id>/en-jp/products/8280091656488</id>
     <published>2023-05-19T14:59:29+08:00</published>
     <updated>2023-05-19T14:59:29+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/titanium-steel-military-dog-tag-pendant8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/titanium-steel-military-dog-tag-pendant8-pcs"/>
     <title>Titanium Steel Military Dog Tag Pendant(8 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -371,7 +371,7 @@
     <id>/en-jp/products/8272593912104</id>
     <published>2023-05-16T18:10:53+08:00</published>
     <updated>2023-05-16T18:10:53+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-open-bracelet8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-open-bracelet8-pcs"/>
     <title>Stainless Steel Open Bracelet(8 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -409,7 +409,7 @@
     <id>/en-jp/products/8254181900584</id>
     <published>2023-05-05T17:07:10+08:00</published>
     <updated>2023-05-05T17:07:10+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/adjustable-polished-stainless-steel-bracelet10-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/adjustable-polished-stainless-steel-bracelet10-pcs"/>
     <title>Adjustable Polished Stainless Steel Bracelet(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -447,7 +447,7 @@
     <id>/en-jp/products/8254177640744</id>
     <published>2023-05-05T17:04:45+08:00</published>
     <updated>2023-05-05T17:04:45+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/adjustable-stainless-steel-bracelet6-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/adjustable-stainless-steel-bracelet6-pcs"/>
     <title>Adjustable Stainless Steel Bracelet(6 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -485,7 +485,7 @@
     <id>/en-jp/products/8254172070184</id>
     <published>2023-05-05T17:01:43+08:00</published>
     <updated>2023-05-05T17:01:43+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/braided-stainless-steel-bracelet8-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/braided-stainless-steel-bracelet8-pcs"/>
     <title>Braided Stainless Steel Bracelet(8 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -523,7 +523,7 @@
     <id>/en-jp/products/8254167744808</id>
     <published>2023-05-05T16:59:36+08:00</published>
     <updated>2023-05-05T16:59:36+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-heart-shaped-pendant6-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-heart-shaped-pendant6-pcs"/>
     <title>Stainless Steel Heart-Shaped Pendant(6 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -561,7 +561,7 @@
     <id>/en-jp/products/8254131175720</id>
     <published>2023-05-05T16:39:26+08:00</published>
     <updated>2023-05-05T16:39:26+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/stainless-steel-necklace10-pcs"/>
+    <link rel="alternate" type="text/html" href="//products/stainless-steel-necklace10-pcs"/>
     <title>Stainless Steel Necklace(10 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -599,7 +599,7 @@
     <id>/en-jp/products/8236862603560</id>
     <published>2023-04-23T14:23:03+08:00</published>
     <updated>2023-04-23T14:23:03+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-3-premium-material-box-40pcs"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-3-premium-material-box-40pcs"/>
     <title>LaserPecker 3 Premium Material Package(40pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -655,7 +655,7 @@
     <id>/en-jp/products/7057442045999</id>
     <published>2022-06-28T17:19:34+08:00</published>
     <updated>2022-06-28T17:19:34+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/aluminum-alloy-metal-business-cards"/>
+    <link rel="alternate" type="text/html" href="//products/aluminum-alloy-metal-business-cards"/>
     <title>LaserPecker Engraving Materials : Aluminum Alloy Metal Business Cards for LaserPecker LP2/LP3/LP4(100 Pcs)</title>
     <s:type>Materials</s:type>
     <s:vendor>laserpecker-net</s:vendor>

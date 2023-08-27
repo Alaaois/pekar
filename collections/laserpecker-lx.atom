@@ -2,7 +2,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="/en-jp/collections/laserpecker-lx.atom"/>
+  <link rel="self" type="application/atom+xml" href="//collections/laserpecker-lx.atom"/>
   <title>laserpecker.net</title>
   <updated>2023-03-22T12:04:00+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/products/8188673720616</id>
     <published>2023-03-22T12:04:00+08:00</published>
     <updated>2023-03-22T12:04:00+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-lx1-max"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-lx1-max"/>
     <title>Preorder-LaserPecker LX1 Max</title>
     <s:type>machine</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -27,7 +27,7 @@
         <strong>Type: </strong>machine<br>
         <strong>Price: </strong>
             886.44 - 1898.21
-            <a href="/en-jp/products/laserpecker-lx1-max">(15 variants)</a>
+            <a href="//products/laserpecker-lx1-max">(15 variants)</a>
       </p>
     </td>
   </tr>
@@ -177,7 +177,7 @@
     <id>/en-jp/products/8148213924136</id>
     <published>2023-03-21T19:02:11+08:00</published>
     <updated>2023-03-21T19:02:11+08:00</updated>
-    <link rel="alternate" type="text/html" href="/en-jp/products/laserpecker-lx1"/>
+    <link rel="alternate" type="text/html" href="//products/laserpecker-lx1"/>
     <title>Preorder-LaserPecker LX1</title>
     <s:type>machine</s:type>
     <s:vendor>laserpecker.net</s:vendor>
@@ -192,7 +192,7 @@
         <strong>Type: </strong>machine<br>
         <strong>Price: </strong>
             746.17 - 1757.94
-            <a href="/en-jp/products/laserpecker-lx1">(15 variants)</a>
+            <a href="//products/laserpecker-lx1">(15 variants)</a>
       </p>
     </td>
   </tr>
