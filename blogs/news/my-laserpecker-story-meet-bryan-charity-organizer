@@ -2446,7 +2446,7 @@ for (var attr in meta) {
 </div>
       <div id="shopify-section-footer" class="shopify-section section-footer">
 <div data-section-type="footer">
-  <div class="klaviyo_container">
+  <div class="">
     <div class="klaviyo-form-WTHBJA"></div>
   </div>
   
