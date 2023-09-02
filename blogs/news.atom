@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/blogs/news.atom</id>
-  <link rel="alternate" type="text/html" href="//blogs/news"/>
-  <link rel="self" type="application/atom+xml" href="//blogs/news.atom"/>
+  <link rel="alternate" type="text/html" href="/blogs/news.html"/>
+  <link rel="self" type="application/atom+xml" href="/blogs/news.html.atom"/>
   <title>laserpecker.net - News</title>
   <updated>2023-06-30T14:16:46+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/blogs/news/exploring-batch-engraving-with-excellent-accessories</id>
     <published>2023-06-30T14:16:46+08:00</published>
     <updated>2023-06-30T14:29:33+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/exploring-batch-engraving-with-excellent-accessories"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/exploring-batch-engraving-with-excellent-accessories"/>
     <title>Exploring Batch Engraving with Excellent Accessories</title>
     <author>
       <name>LaserPecker</name>
@@ -133,7 +133,7 @@
     <id>/en-jp/blogs/news/understanding-the-versatile-electric-roller</id>
     <published>2023-06-30T12:12:52+08:00</published>
     <updated>2023-07-12T11:07:56+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/understanding-the-versatile-electric-roller"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/understanding-the-versatile-electric-roller"/>
     <title>Understanding the Versatile Electric Roller</title>
     <author>
       <name>LaserPecker</name>
@@ -361,7 +361,7 @@
     <id>/en-jp/blogs/news/discover-the-laserpecker-4-the-powerful-dual-laser-engraver-and-cutter</id>
     <published>2023-06-25T19:23:59+08:00</published>
     <updated>2023-08-02T16:25:20+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/discover-the-laserpecker-4-the-powerful-dual-laser-engraver-and-cutter"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/discover-the-laserpecker-4-the-powerful-dual-laser-engraver-and-cutter"/>
     <title>Discover the LaserPecker 4: The  Powerful Dual-Laser Engraver and Cutter</title>
     <author>
       <name>LaserPecker</name>
@@ -492,7 +492,7 @@
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-elodie-designer</id>
     <published>2023-06-15T15:03:01+08:00</published>
     <updated>2023-06-15T15:03:01+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-elodie-designer"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/my-laserpecker-story-meet-elodie-designer"/>
     <title>My LaserPecker Story- Meet Elodie | Designer</title>
     <author>
       <name>LaserPecker Team</name>
@@ -522,7 +522,7 @@
     <id>/en-jp/blogs/news/top-10-thoughtful-gift-ideas-for-dads</id>
     <published>2023-06-15T14:45:38+08:00</published>
     <updated>2023-06-15T14:48:25+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/top-10-thoughtful-gift-ideas-for-dads"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/top-10-thoughtful-gift-ideas-for-dads"/>
     <title>Top 10 Thoughtful Gift Ideas for Dads</title>
     <author>
       <name>LaserPecker Team</name>
@@ -724,7 +724,7 @@
     <id>/en-jp/blogs/news/laserpecker-2-vs-laserpecker-3-what-s-the-difference</id>
     <published>2023-06-03T10:58:04+08:00</published>
     <updated>2023-06-03T17:52:45+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/laserpecker-2-vs-laserpecker-3-what-s-the-difference"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/laserpecker-2-vs-laserpecker-3-what-s-the-difference"/>
     <title>LaserPecker 2 vs LaserPecker 3: What’s the Difference?</title>
     <author>
       <name>LaserPecker Team</name>
@@ -989,7 +989,7 @@
     <id>/en-jp/blogs/news/guide-to-purchasing-compact-laser-engraver-cutter</id>
     <published>2023-06-03T10:57:38+08:00</published>
     <updated>2023-06-03T17:51:58+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/guide-to-purchasing-compact-laser-engraver-cutter"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/guide-to-purchasing-compact-laser-engraver-cutter"/>
     <title>Guide to Purchasing Compact Laser Engraver &amp; Cutter</title>
     <author>
       <name>LaserPecker Team</name>
@@ -1230,7 +1230,7 @@
     <id>/en-jp/blogs/news/diode-co2-fiber-blue-and-infrared-lasers-whats-the-difference</id>
     <published>2023-05-29T14:54:14+08:00</published>
     <updated>2023-06-03T17:52:58+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/diode-co2-fiber-blue-and-infrared-lasers-whats-the-difference"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/diode-co2-fiber-blue-and-infrared-lasers-whats-the-difference"/>
     <title>Diode, CO2, Fiber, Blue and Infrared Lasers. What are the differences?</title>
     <author>
       <name>LaserPecker Team</name>
@@ -1644,7 +1644,7 @@
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-alessandro-c-business-owner-artist</id>
     <published>2023-05-22T15:14:52+08:00</published>
     <updated>2023-06-03T17:53:07+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-alessandro-c-business-owner-artist"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/my-laserpecker-story-meet-alessandro-c-business-owner-artist"/>
     <title>My LaserPecker Story- Meet Alessandro C | Business Owner &amp; Artist</title>
     <author>
       <name>LaserPecker Team</name>
@@ -1852,7 +1852,7 @@
     <id>/en-jp/blogs/news/ceramics-laser-engraving-a-step-by-step-guide</id>
     <published>2023-05-19T10:19:25+08:00</published>
     <updated>2023-06-03T17:53:20+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/ceramics-laser-engraving-a-step-by-step-guide"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/ceramics-laser-engraving-a-step-by-step-guide"/>
     <title>Ceramics Laser Engraving: A Step by Step Guide</title>
     <author>
       <name>LaserPecker Team</name>
@@ -2566,7 +2566,7 @@
     <id>/en-jp/blogs/news/how-about-this-title-laser-engraving-and-cutting-acrylic-a-beginner-s-guide</id>
     <published>2023-05-12T18:26:48+08:00</published>
     <updated>2023-06-03T17:53:29+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/how-about-this-title-laser-engraving-and-cutting-acrylic-a-beginner-s-guide"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/how-about-this-title-laser-engraving-and-cutting-acrylic-a-beginner-s-guide"/>
     <title>Laser Engraving and Cutting Acrylic: A beginner’s guide</title>
     <author>
       <name>LaserPecker Team</name>
@@ -2904,7 +2904,7 @@
     <id>/en-jp/blogs/news/diy-mothers-day-gifts-with-laser-engraving-7-unique-ideas-and-step-by-step-guide</id>
     <published>2023-04-26T12:20:17+08:00</published>
     <updated>2023-06-03T17:53:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/diy-mothers-day-gifts-with-laser-engraving-7-unique-ideas-and-step-by-step-guide"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/diy-mothers-day-gifts-with-laser-engraving-7-unique-ideas-and-step-by-step-guide"/>
     <title>DIY Mother&apos;s Day Gifts with Laser Engraving: 7 Unique Ideas and Step-by-Step Guide</title>
     <author>
       <name>LaserPecker Team</name>
@@ -3382,7 +3382,7 @@
     <id>/en-jp/blogs/news/the-best-laser-engraver-for-metal</id>
     <published>2023-04-18T19:40:04+08:00</published>
     <updated>2023-04-18T19:46:46+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/the-best-laser-engraver-for-metal"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/the-best-laser-engraver-for-metal"/>
     <title>The Best Laser Engraver for Metal In 2023</title>
     <author>
       <name>LaserPecker Team</name>
@@ -3786,7 +3786,7 @@
     <id>/en-jp/blogs/news/how-to-improve-accuracy-of-your-laser-cutting</id>
     <published>2023-04-14T16:22:38+08:00</published>
     <updated>2023-04-23T17:30:14+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/how-to-improve-accuracy-of-your-laser-cutting"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/how-to-improve-accuracy-of-your-laser-cutting"/>
     <title>How to improve accuracy of your laser cutting?</title>
     <author>
       <name>laserpecker</name>
@@ -4136,7 +4136,7 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/top-7-easter-diy-projects-and-home-decor-inspirations</id>
     <published>2023-04-07T10:28:37+08:00</published>
     <updated>2023-04-26T12:19:43+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/top-7-easter-diy-projects-and-home-decor-inspirations"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/top-7-easter-diy-projects-and-home-decor-inspirations"/>
     <title>Top 7 Easter DIY Projects and Home Decor inspirations</title>
     <author>
       <name>LaserPecker Team</name>
@@ -4469,7 +4469,7 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/keith-creates-wooden-work-with-laserpecker-for-fun-and-his-cutting-board-business</id>
     <published>2023-04-06T09:53:38+08:00</published>
     <updated>2023-04-06T15:37:24+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/keith-creates-wooden-work-with-laserpecker-for-fun-and-his-cutting-board-business"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/keith-creates-wooden-work-with-laserpecker-for-fun-and-his-cutting-board-business"/>
     <title>My LaserPecker Story-meet Keith Benner | Illustrative artist/ Wood craftsman</title>
     <author>
       <name>laserpecker</name>
@@ -4648,7 +4648,7 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/introducing-the-laserpecker-lx1</id>
     <published>2023-03-06T18:46:21+08:00</published>
     <updated>2023-04-06T14:23:29+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/introducing-the-laserpecker-lx1"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/introducing-the-laserpecker-lx1"/>
     <title>Introducing the LaserPecker LX1</title>
     <author>
       <name>laserpecker</name>
@@ -5375,13 +5375,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-alessio-conte-real-estate-broker-laser-side-hustle-1</id>
     <published>2023-02-11T18:32:36+08:00</published>
     <updated>2023-03-27T14:39:54+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-alessio-conte-real-estate-broker-laser-side-hustle-1"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/my-laserpecker-story-meet-alessio-conte-real-estate-broker-laser-side-hustle-1"/>
     <title>My LaserPecker Story- Meet Alessio Conte | Real Estate Broker &amp; Laser Side Hustle</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[As a real estate broker, Alessio started laser business as his side hustle and the sale reaches 30,000 USD after 6 months! We're happy for him and get to know how he runs this and asked for more tips and secrets.<p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-alessio-conte-real-estate-broker-laser-side-hustle-1">More</a></p>]]>
+      <![CDATA[As a real estate broker, Alessio started laser business as his side hustle and the sale reaches 30,000 USD after 6 months! We're happy for him and get to know how he runs this and asked for more tips and secrets.<p><a class="read-more" href="/blogs/news.html/my-laserpecker-story-meet-alessio-conte-real-estate-broker-laser-side-hustle-1">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div class="shogun-root" data-shogun-id="63e76c09914c6800d4b9e13b" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="63e76c09914c6800d4b9e13b" data-shogun-page-version-id="63e7ac256d116d00d4832f01" data-shogun-platform-type="shopify" data-shogun-variant-id="63e7ac256d116d00d4832f6c" data-region="main">
@@ -5447,13 +5447,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-kim-chinn-mom-software-engineer-1</id>
     <published>2023-02-11T18:32:28+08:00</published>
     <updated>2023-03-27T14:40:18+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-kim-chinn-mom-software-engineer-1"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/my-laserpecker-story-meet-kim-chinn-mom-software-engineer-1"/>
     <title>My LaserPecker Story -Meet Kim Chinn |  Mom &amp; Software Engineer</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[As a mom &amp; software engineer, how did Kim get to love to create? And what's her story with her kids with LaserPecker? Is laser engraver a good tool or toy for kids or for education? Let's read today's blog!<p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-kim-chinn-mom-software-engineer-1">More</a></p>]]>
+      <![CDATA[As a mom &amp; software engineer, how did Kim get to love to create? And what's her story with her kids with LaserPecker? Is laser engraver a good tool or toy for kids or for education? Let's read today's blog!<p><a class="read-more" href="/blogs/news.html/my-laserpecker-story-meet-kim-chinn-mom-software-engineer-1">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div class="shogun-root" data-shogun-id="63e7605b6d116d00f1827280" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="63e7605b6d116d00f1827280" data-shogun-page-version-id="63e76ad1914c6800efb9de5e" data-shogun-platform-type="shopify" data-shogun-variant-id="63e76ad1914c6800efb9def7" data-region="main">
@@ -5562,7 +5562,7 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/10-laser-engraved-valentine-s-day-gift-ideas</id>
     <published>2023-01-30T15:11:05+08:00</published>
     <updated>2023-03-27T14:41:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/10-laser-engraved-valentine-s-day-gift-ideas"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/10-laser-engraved-valentine-s-day-gift-ideas"/>
     <title>10 Laser Engraved Valentine&apos;s Day Gift Ideas</title>
     <author>
       <name>laserpecker</name>
@@ -5992,13 +5992,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-rianna-calvin-business-owner</id>
     <published>2023-01-06T12:11:55+08:00</published>
     <updated>2023-03-27T14:40:28+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-rianna-calvin-business-owner"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/my-laserpecker-story-meet-rianna-calvin-business-owner"/>
     <title>My LaserPecker Story- Meet Rianna &amp; Calvin | Business Owner</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<span>If you want to start a laser business or make money from side hustle, our interview with Rianna &amp; Calvin from Spain might give you some answers.</span><p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-rianna-calvin-business-owner">More</a></p>]]>
+      <![CDATA[<span>If you want to start a laser business or make money from side hustle, our interview with Rianna &amp; Calvin from Spain might give you some answers.</span><p><a class="read-more" href="/blogs/news.html/my-laserpecker-story-meet-rianna-calvin-business-owner">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<p>If you want to start a laser business or make money from side hustle, our interview with Rianna &amp; Calvin from Spain might give you some answers.</p>
@@ -6038,13 +6038,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-kristen-etsy-store-owner</id>
     <published>2023-01-05T18:47:23+08:00</published>
     <updated>2023-03-27T14:44:06+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-kristen-etsy-store-owner"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/my-laserpecker-story-meet-kristen-etsy-store-owner"/>
     <title>My LaserPecker Story-Meet Kristen | Etsy Store Owner</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[Is laser engraving project a good Etsy business? How should you run a business like this? Hope you could learn something from our today's blog post. Kristen Terrell, owner of LaserPecker 1 and 2 who are based in US and run an Etsy store. This blog post features our interview with her.<p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-kristen-etsy-store-owner">More</a></p>]]>
+      <![CDATA[Is laser engraving project a good Etsy business? How should you run a business like this? Hope you could learn something from our today's blog post. Kristen Terrell, owner of LaserPecker 1 and 2 who are based in US and run an Etsy store. This blog post features our interview with her.<p><a class="read-more" href="/blogs/news.html/my-laserpecker-story-meet-kristen-etsy-store-owner">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<p>Is laser engraving project a good Etsy business? How should you run a business like this? Hope you could learn something from our today's blog post.</p>
@@ -6083,13 +6083,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-michael-photographer-business-owner</id>
     <published>2023-01-05T17:14:25+08:00</published>
     <updated>2023-03-27T14:40:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-michael-photographer-business-owner"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/my-laserpecker-story-meet-michael-photographer-business-owner"/>
     <title>My LaserPecker Story- Meet Michael | Photographer + Business Owner</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<span>Today we're having Michael Atkinson for My LaserPecker Story. He's a professional fashion photographer and started his business after getting LaserPecker 1 pro. Let's see what he says. </span><p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-michael-photographer-business-owner">More</a></p>]]>
+      <![CDATA[<span>Today we're having Michael Atkinson for My LaserPecker Story. He's a professional fashion photographer and started his business after getting LaserPecker 1 pro. Let's see what he says. </span><p><a class="read-more" href="/blogs/news.html/my-laserpecker-story-meet-michael-photographer-business-owner">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div>Today we're having Michael Atkinson from UK for My LaserPecker Story. He's a professional fashion photographer and started his business(wemakeart.uk) after getting <a href="https://bit.ly/3HTgoym" target="_blank" title="LaserPecker 1 pro" rel="noopener noreferrer">LaserPecker 1 pro</a>. Let's see what he says.</div>
@@ -6136,13 +6136,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-bryan-charity-organizer</id>
     <published>2022-12-27T15:57:18+08:00</published>
     <updated>2023-03-27T14:41:03+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-bryan-charity-organizer"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/my-laserpecker-story-meet-bryan-charity-organizer"/>
     <title>My LaserPecker Story- Meet Bryan| Charity Organizer</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[<span>In the blog post, My LaserPecker Story, we'll invite users from all walks of life. Today we're interviewing Bryan Kantor, owner of LaserPecker 1 pro, a charity organizer based in Canada. </span><p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-bryan-charity-organizer">More</a></p>]]>
+      <![CDATA[<span>In the blog post, My LaserPecker Story, we'll invite users from all walks of life. Today we're interviewing Bryan Kantor, owner of LaserPecker 1 pro, a charity organizer based in Canada. </span><p><a class="read-more" href="/blogs/news.html/my-laserpecker-story-meet-bryan-charity-organizer">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<p>In the blog post, My LaserPecker Story, we'll invite users from all walks of life. Today we're interviewing Bryan Kantor, owner of <a href="http://bit.ly/3HTgoym" target="_blank" title="LaserPecker 1 pro" rel="noopener noreferrer">LaserPecker 1 pro</a>, a charity organizer based in Canada. </p>
@@ -6176,14 +6176,14 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/my-laserpecker-story-meet-denholm-designer-business-owner</id>
     <published>2022-12-27T15:18:01+08:00</published>
     <updated>2023-03-27T14:40:53+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/my-laserpecker-story-meet-denholm-designer-business-owner"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/my-laserpecker-story-meet-denholm-designer-business-owner"/>
     <title>My LaserPecker Story-Meet Denholm | Designer + Business Owner</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
       <![CDATA[<p><span>Today we're launching a new blog post column called My LaserPecker Story. Let's meet LaserPecker owners in our community and see what they make possible with LaserPecker. These stories may inspire you.</span></p>
-<p><span>Denholm, owner of LaserPecker 2, is a visual artist based in UK. He creates LGBTQ+ clothing from his home studio using laser etching and other methods.</span></p><p><a class="read-more" href="//blogs/news/my-laserpecker-story-meet-denholm-designer-business-owner">More</a></p>]]>
+<p><span>Denholm, owner of LaserPecker 2, is a visual artist based in UK. He creates LGBTQ+ clothing from his home studio using laser etching and other methods.</span></p><p><a class="read-more" href="/blogs/news.html/my-laserpecker-story-meet-denholm-designer-business-owner">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<meta charset="utf-8">
@@ -6348,13 +6348,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/two-lp-christmas-engrave-cut-projects</id>
     <published>2022-12-09T13:42:48+08:00</published>
     <updated>2023-03-27T14:44:33+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/two-lp-christmas-engrave-cut-projects"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/two-lp-christmas-engrave-cut-projects"/>
     <title>Two LP Christmas Engrave &amp; Cut Projects</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[Here is a Christmas Bauble Cube project and a Christmas 3 Layered Bauble project for everyone. Hope you enjoy it!<p><a class="read-more" href="//blogs/news/two-lp-christmas-engrave-cut-projects">More</a></p>]]>
+      <![CDATA[Here is a Christmas Bauble Cube project and a Christmas 3 Layered Bauble project for everyone. Hope you enjoy it!<p><a class="read-more" href="/blogs/news.html/two-lp-christmas-engrave-cut-projects">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div class="shogun-root" data-shogun-id="6392c429de8b5600d83d927b" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="6392c429de8b5600d83d927b" data-shogun-page-version-id="6392cc5c61a3ad00e394233c" data-shogun-platform-type="shopify" data-shogun-variant-id="6392cc5c61a3ad00e394258a" data-region="main">
@@ -6695,7 +6695,7 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/the-christmas-ornaments-copy</id>
     <published>2022-12-08T10:02:51+08:00</published>
     <updated>2023-03-27T14:44:54+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/the-christmas-ornaments-copy"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/the-christmas-ornaments-copy"/>
     <title>10 Laser Engraved Christmas Ornaments Ideas</title>
     <author>
       <name>laserpecker</name>
@@ -7108,7 +7108,7 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/laserpecker-4</id>
     <published>2022-12-05T18:04:50+08:00</published>
     <updated>2023-03-27T14:45:08+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/laserpecker-4"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/laserpecker-4"/>
     <title>LaserPecker 4：Dual-Laser Engraver for Almost All Material</title>
     <author>
       <name>laserpecker</name>
@@ -7417,13 +7417,13 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/meet-laserpecker-at-ces-2023</id>
     <published>2022-12-04T01:04:03+08:00</published>
     <updated>2023-03-27T14:43:53+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/meet-laserpecker-at-ces-2023"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/meet-laserpecker-at-ces-2023"/>
     <title>Meet LaserPecker at CES 2023!</title>
     <author>
       <name>laserpecker</name>
     </author>
     <summary type="html">
-      <![CDATA[We are thrilled to kick off 2023 at CES in Las Vegas! Meet us at Booth NO. 51471, Accessories, The Venetian Expo, and try all the LaserPecker‍ lasers on the spot.<p><a class="read-more" href="//blogs/news/meet-laserpecker-at-ces-2023">More</a></p>]]>
+      <![CDATA[We are thrilled to kick off 2023 at CES in Las Vegas! Meet us at Booth NO. 51471, Accessories, The Venetian Expo, and try all the LaserPecker‍ lasers on the spot.<p><a class="read-more" href="/blogs/news.html/meet-laserpecker-at-ces-2023">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<div class="shogun-root" data-shogun-id="638b79f3a386d800cb0d3d75" data-shogun-site-id="f223214c-5a4a-4f23-9d0b-726b9b8745e6" data-shogun-page-id="638b79f3a386d800cb0d3d75" data-shogun-page-version-id="63b77e7516fd9200d505d4bb" data-shogun-platform-type="shopify" data-shogun-variant-id="63b77e7516fd9200d505d4d2" data-region="main"> 
@@ -7454,7 +7454,7 @@ window.SHOGUN_IMAGE_V2_ELEMENTS = window.SHOGUN_IMAGE_V2_ELEMENTS || new Array()
     <id>/en-jp/blogs/news/scam-alert</id>
     <published>2022-11-17T19:59:36+08:00</published>
     <updated>2023-03-27T14:43:40+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/scam-alert"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/scam-alert"/>
     <title>Scam Alert</title>
     <author>
       <name>laserpecker</name>

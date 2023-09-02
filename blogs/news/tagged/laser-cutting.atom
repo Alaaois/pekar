@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>/en-jp/blogs/news.atom</id>
-  <link rel="alternate" type="text/html" href="//blogs/news"/>
-  <link rel="self" type="application/atom+xml" href="//blogs/news/tagged/laser-cutting.atom"/>
+  <link rel="alternate" type="text/html" href="/blogs/news.html"/>
+  <link rel="self" type="application/atom+xml" href="/blogs/news.html/tagged/laser-cutting.atom"/>
   <title>laserpecker.net - News</title>
   <updated>2023-06-30T14:16:46+08:00</updated>
   <author>
@@ -12,7 +12,7 @@
     <id>/en-jp/blogs/news/laserpecker-2-vs-laserpecker-3-what-s-the-difference</id>
     <published>2023-06-03T10:58:04+08:00</published>
     <updated>2023-06-03T17:52:45+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/laserpecker-2-vs-laserpecker-3-what-s-the-difference"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/laserpecker-2-vs-laserpecker-3-what-s-the-difference"/>
     <title>LaserPecker 2 vs LaserPecker 3: What’s the Difference?</title>
     <author>
       <name>LaserPecker Team</name>
@@ -277,7 +277,7 @@
     <id>/en-jp/blogs/news/diode-co2-fiber-blue-and-infrared-lasers-whats-the-difference</id>
     <published>2023-05-29T14:54:14+08:00</published>
     <updated>2023-06-03T17:52:58+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/diode-co2-fiber-blue-and-infrared-lasers-whats-the-difference"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/diode-co2-fiber-blue-and-infrared-lasers-whats-the-difference"/>
     <title>Diode, CO2, Fiber, Blue and Infrared Lasers. What are the differences?</title>
     <author>
       <name>LaserPecker Team</name>
@@ -691,7 +691,7 @@
     <id>/en-jp/blogs/news/how-about-this-title-laser-engraving-and-cutting-acrylic-a-beginner-s-guide</id>
     <published>2023-05-12T18:26:48+08:00</published>
     <updated>2023-06-03T17:53:29+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/how-about-this-title-laser-engraving-and-cutting-acrylic-a-beginner-s-guide"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/how-about-this-title-laser-engraving-and-cutting-acrylic-a-beginner-s-guide"/>
     <title>Laser Engraving and Cutting Acrylic: A beginner’s guide</title>
     <author>
       <name>LaserPecker Team</name>
@@ -1029,7 +1029,7 @@
     <id>/en-jp/blogs/news/how-to-improve-accuracy-of-your-laser-cutting</id>
     <published>2023-04-14T16:22:38+08:00</published>
     <updated>2023-04-23T17:30:14+08:00</updated>
-    <link rel="alternate" type="text/html" href="//blogs/news/how-to-improve-accuracy-of-your-laser-cutting"/>
+    <link rel="alternate" type="text/html" href="/blogs/news.html/how-to-improve-accuracy-of-your-laser-cutting"/>
     <title>How to improve accuracy of your laser cutting?</title>
     <author>
       <name>laserpecker</name>
