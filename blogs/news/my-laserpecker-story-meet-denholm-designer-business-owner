@@ -1463,7 +1463,7 @@ for (var attr in meta) {
                             </li>
                             
                             <li class="navigation__item">
-                              <a class="navigation__link" data-type="page_link" href="/pages/software">
+                              <a class="navigation__link" data-type="page_link" href="/pages/software.html">
                                 
                                   Software Download
                                 
@@ -1931,7 +1931,7 @@ for (var attr in meta) {
                             </li>
                             
                             <li class="navigation__item">
-                              <a class="navigation__link" data-type="page_link" href="/pages/software">
+                              <a class="navigation__link" data-type="page_link" href="/pages/software.html">
                                 
                                   Software Download
                                 
