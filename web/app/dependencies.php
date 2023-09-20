@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 use App\Application\Settings\SettingsInterface;
 use DI\ContainerBuilder;
+use Illuminate\Database\Capsule\Manager;
 use Monolog\Handler\StreamHandler;
 use Monolog\Logger;
 use Monolog\Processor\UidProcessor;
@@ -25,6 +26,15 @@ return function (ContainerBuilder $containerBuilder) {
             $logger->pushHandler($handler);
 
             return $logger;
+        },
+        Manager::class => function (ContainerInterface $container) {
+            $capsule = new Manager;
+            $capsule->addConnection($container->get(SettingsInterface::class)->get('db'));
+
+            $capsule->setAsGlobal();
+            $capsule->bootEloquent();
+
+            return $capsule;
         },
     ]);
 };

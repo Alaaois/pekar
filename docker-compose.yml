@@ -1,35 +1,66 @@
 version: '3'
 services:
-  slim-app:
-    image: shinsenter/slim:latest
-    volumes:
-      - ./web:/var/www/html
-#      - ./ssl-certs:/etc/ssl/web
-    environment:
-      TZ: UTC
-      PUID: ${UID:-9999}
-      PGID: ${GID:-9999}
-      HTTP_AUTHORIZATION: true
-    ports:
-      - "8000:80"
-#      - "443:443"
-    links:
-      - db
-      - redis
 
-  ## OTHER CONTAINERS SUCH AS REDIS OR DATABASE ###################################
+  #PHP Service
+  app:
+    build:
+      context: .
+      dockerfile: php/Dockerfile
+    image: bitnami/php-fpm
+    container_name: app
+    restart: unless-stopped
+    tty: true
+    environment:
+      SERVICE_NAME: app
+      SERVICE_TAGS: dev
+    working_dir: /var/www
+    volumes:
+      - ./web:/var/www
+      - ./php/local.ini:/usr/local/etc/php/conf.d/local.ini
+      - ./php/environment.conf:/opt/bitnami/php/etc/environment.conf
+    networks:
+      - app-network
+
+  #Nginx Service
+  webserver:
+    image: nginx:alpine
+    container_name: webserver
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./web:/var/www
+      - ./nginx/conf.d/:/etc/nginx/conf.d/
+    networks:
+      - app-network
+
+  #MySQL Service
   db:
     image: mariadb:latest
+    container_name: db
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "3306:3306"
     environment:
       TZ: UTC
       MYSQL_ROOT_PASSWORD: mydb_p@ssw0rd
       MYSQL_DATABASE: my_database
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
     volumes:
-      - "./db/data:/var/lib/mysql"
-      - "./db/dump:/docker-entrypoint-initdb.d"
-    ports:
-      - "3306:3306"
-  redis:
-    image: redis:latest
-    ports:
-      - "6379:6379"
+      - ./db:/var/lib/mysql/
+      - ./mysql/my.cnf:/etc/mysql/my.cnf
+    networks:
+      - app-network
+
+#Docker Networks
+networks:
+  app-network:
+    driver: bridge
+#Volumes
+volumes:
+  dbdata:
+    driver: local

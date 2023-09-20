@@ -22,13 +22,13 @@ class InMemoryCartRepository implements CartRepository
     {
         $this->items = $items ?? [
             'mulof0lu50pn7midmcb1rgjrbl' => [
-                1 => new CartItem(1, 'bill.gates', 11),
-                2 => new CartItem(2, 'steve.jobs', 12),
-                3 => new CartItem(3, 'mark.zuckerberg', 13),
+                1 => new CartItem(1, 'bill.gates', 11, 1),
+                2 => new CartItem(2, 'steve.jobs', 12, 2),
+                3 => new CartItem(3, 'mark.zuckerberg', 13, 3),
             ],
             'ldk7c1ocvhveukngndivq6ena4' => [
-                4 => new CartItem(4, 'evan.spiegel', 14),
-                5 => new CartItem(5, 'jack.dorsey', 15),
+                4 => new CartItem(4, 'evan.spiegel', 14, 4),
+                5 => new CartItem(5, 'jack.dorsey', 15, 5),
             ]
         ];
     }
@@ -44,5 +44,13 @@ class InMemoryCartRepository implements CartRepository
         }
 
         return $this->items[$session];
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function add(string $session, CartItem $item): ?CartItem
+    {
+        return null;
     }
 }

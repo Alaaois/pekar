@@ -2,8 +2,11 @@
 
 declare(strict_types=1);
 
+use App\Application\Actions\Cart\AddCartAction;
+use App\Domain\Cart\CartItem;
+use Illuminate\Database\Capsule\Manager;
 use Slim\App;
-use App\Application\Actions\Cart\Cart;
+use App\Application\Actions\Cart\ListCartAction;
 use App\Application\Actions\User\ListUsersAction;
 use App\Application\Actions\User\ViewUserAction;
 use Psr\Http\Message\ResponseInterface as Response;
@@ -23,7 +26,15 @@ return function (App $app) {
         return $response;
     });
 
-    $app->get('/cart', Cart::class);
+    $app->group('/en-jp/cart', function (Group $group) {
+        $group->get('', ListCartAction::class);
+        $group->post('/add.js', AddCartAction::class);
+    });
+
+    $app->group('/cart', function (Group $group) {
+        $group->get('', ListCartAction::class);
+        $group->post('/add.js', AddCartAction::class);
+    });
 
     $app->group('/users', function (Group $group) {
         $group->get('', ListUsersAction::class);

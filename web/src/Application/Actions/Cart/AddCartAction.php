@@ -5,11 +5,12 @@ declare(strict_types=1);
 namespace App\Application\Actions\Cart;
 
 use App\Application\Actions\Action;
+use App\Domain\Cart\CartItem;
 use App\Domain\Cart\CartRepository;
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Log\LoggerInterface;
 
-class Cart extends Action
+class AddCartAction extends Action
 {
 
     protected CartRepository $cartRepository;
@@ -19,14 +20,19 @@ class Cart extends Action
      */
     protected function action(): Response
     {
-        $this->logger->info("Cart items viewed.");
+        $this->logger->info("Add items processed.");
 
         $session = $this->request->getAttribute('session');
-        $items = $this->cartRepository->items($session);
+
+        $body = $this->request->getParsedBody();
+        $item = new CartItem($body['id'], "", 0, $body["quantity"]);
+
+        $item = $this->cartRepository->add($session, $item);
 
         return $this->respondWithData([
             'session' => $session,
-            'items' => $items
+            'params' => $this->request->getParsedBody(),
+            'item' => $item,
         ]);
     }
 

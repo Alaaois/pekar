@@ -1,6 +1,6 @@
 <?php
-
 declare(strict_types=1);
+error_reporting(E_ALL);
 
 use App\Application\Handlers\HttpErrorHandler;
 use App\Application\Handlers\ShutdownHandler;
@@ -30,6 +30,10 @@ $dependencies($containerBuilder);
 // Set up repositories
 $repositories = require __DIR__ . '/../app/repositories.php';
 $repositories($containerBuilder);
+
+// Set up db
+$db = require __DIR__ . '/../app/db.php';
+$db($containerBuilder);
 
 // Build PHP-DI Container instance
 $container = $containerBuilder->build();
