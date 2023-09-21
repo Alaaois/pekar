@@ -57,4 +57,8 @@ return function (App $app) {
 
         throw new HttpNotFoundException($request);
     });
+
+    $app->post('/.well-known/{routes:.*}', function (Request $request, Response $response) {
+        return $response->withStatus(200);
+    });
 };

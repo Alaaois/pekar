@@ -9,11 +9,13 @@ use App\Domain\Cart\CartItem;
 use App\Domain\Cart\CartRepository;
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Log\LoggerInterface;
+use Slim\Views\PhpRenderer;
 
 class UpdateCartAction extends Action
 {
 
     protected CartRepository $cartRepository;
+    protected PhpRenderer $view;
 
     /**
      * {@inheritdoc}
@@ -28,16 +30,22 @@ class UpdateCartAction extends Action
 
         $items = $this->cartRepository->update($session, $body['updates']);
 
-        return $this->respondWithData([
-            'session' => $session,
-            'params' => $this->request->getParsedBody(),
-            'items' => $items,
-        ]);
+        $response = $this->view->render(
+            $this->response,
+            'cart_t.json',
+            [
+                'token' => $session,
+                'items' => $items,
+            ]
+        )->withHeader('Content-Type', 'application/json');
+
+        return $response;
     }
 
-    public function __construct(LoggerInterface $logger, CartRepository $cartRepository)
+    public function __construct(LoggerInterface $logger, CartRepository $cartRepository, PhpRenderer $view)
     {
         parent::__construct($logger);
         $this->cartRepository = $cartRepository;
+        $this->view = $view;
     }
 }

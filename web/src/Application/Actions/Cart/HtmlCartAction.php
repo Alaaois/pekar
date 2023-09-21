@@ -26,12 +26,18 @@ class HtmlCartAction extends Action
 
         $session = $this->request->getAttribute('session');
         $items = $this->cartRepository->items($session);
+
+        $f = function ($v) {
+           return $v->getQty() * $v->getPrice();
+        };
+
         $response = $this->view->render(
             $this->response,
             'cart.phtml',
             [
                 'token' => $session,
                 'items' => $items,
+                'subtotal' => array_sum(array_map($f, $items)),
             ]
         );
 
