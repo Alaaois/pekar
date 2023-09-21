@@ -8,7 +8,6 @@ services:
       dockerfile: php/Dockerfile
     image: bitnami/php-fpm
     container_name: app
-    restart: unless-stopped
     tty: true
     environment:
       SERVICE_NAME: app
@@ -25,7 +24,6 @@ services:
   webserver:
     image: nginx:alpine
     container_name: webserver
-    restart: unless-stopped
     tty: true
     ports:
       - "80:80"
@@ -40,7 +38,6 @@ services:
   db:
     image: mariadb:latest
     container_name: db
-    restart: unless-stopped
     tty: true
     ports:
       - "3306:3306"

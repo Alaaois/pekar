@@ -1,0 +1,82 @@
+{
+  "token": "<?=$token?>",
+  "note": "",
+  "attributes": {
+    "ot_fbc_fbp": "{\"fbc\":null,\"fbp\":\"fb.1.1695140076003.1695140124625\"}",
+    "obj_campaign": "{\"utm_source\":\"\",\"utm_campaign\":\"\",\"adset_name\":\"\",\"ad_name\":\"\"}",
+    "external_id": "OMbi6qikFZ"
+  },
+  "original_total_price": 296017,
+  "total_price": 296017,
+  "total_discount": 0,
+  "total_weight": 0.0,
+  "item_count": 2,
+  "items": [<?php foreach ($items as $item): ?>
+    {
+      "id": <?=$item->getId() ?>,
+      "properties": {},
+      "quantity": <?=$item->getQty() ?>,
+      "variant_id": 44797632217384,
+      "key": "44797632217384:04b83b25861d2d5df30fa152a309a53e",
+      "title": "LaserPecker LX1 - LX1 20W \/ US",
+      "price": 116117,
+      "original_price": 116117,
+      "discounted_price": 116117,
+      "line_price": 116117,
+      "original_line_price": 116117,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "LX1-20WUS",
+      "grams": 0,
+      "vendor": "laserpecker.net",
+      "taxable": true,
+      "product_id": 8148213924136,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 116117,
+      "final_line_price": 116117,
+      "url": "\/products\/laserpecker-lx1?variant=44797632217384",
+      "featured_image": {
+        "aspect_ratio": 1.0,
+        "alt": "LaserPecker LX1",
+        "height": 1000,
+        "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0572\/9465\/1439\/products\/LX1.png?v=1679477843",
+        "width": 1000
+      },
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0572\/9465\/1439\/products\/LX1.png?v=1679477843",//+
+      "handle": "laserpecker-lx1",
+      "requires_shipping": true,
+      "product_type": "machine",
+      "product_title": "LaserPecker LX1",
+      "product_description": "  \nFoldable Design The foldable frame requires no assembly, opens for instant use, and packs flush for easy storage. Just lift and turn and you're ready to start making. When your work is complete, simply fold and store the LX1 until you\u2019re next inspired to create. Cutting Ability The LX1 has remarkable cutting capability on a wide range of materials. With the 20W module, it can cut\u00a0from\u00a0paper and leather to 10 mm opaque acrylic and 15 mm solid wood to unleash your creativity. Working Area\u00a0\u0026 Engraving Accuracy The LX1\u2019s working area is 400 mm x 420 mm (15.75\u201d x 16.54\u201d) enabling full-page engraving and cutting of large shapes and parts.The engraving speed of the LX1 is incredibly high, with a maximum of 200mm\/S, while maintaining an unparalleled engraving accuracy of less than 0.01mm.The 10W \u0026 20W 450nm blue laser\u2019s laser spot is only 0,08mm, and the 2W 1064nm laser spot is 0.03mm to realize high engraving precision. Exchangeable Tool Modules The LX1 is configurable with four interchangeable modules; a 10W 450nm Blue Light Laser, a 20W 450nm Blue Light Laser, a 1064nm Wavelength Infrared Laser, and an Artist Module compatible with various pens and drawing implements. These tools realize the possibility to work with various materials, surfaces, and projects. Safe to Use LX1 comes with various protective measures: The emergency stop button can instantly stop the laser with a slight touch; The laser will automatically shut down if the internal temperature is over 50\u2103\uff1b Also, when the tilt is over 15\u00b0, the laser will start the tilt protection and shut down the laser.\n  ",
+      "variant_title": "LX1 20W \/ US",
+      "variant_options": [
+        "LX1 20W",
+        "US"
+      ],
+      "options_with_values": [
+        {
+          "name": "Laser Module",
+          "value": "LX1 20W"
+        },
+        {
+          "name": "Adapter",
+          "value": "US"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "has_components": false
+    },
+    <?php endforeach; ?>
+  ],
+  "requires_shipping": true,
+  "currency": "USD",
+  "items_subtotal_price": 296017,
+  "cart_level_discount_applications": []
+}

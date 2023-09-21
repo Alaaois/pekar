@@ -10,6 +10,7 @@ use Monolog\Logger;
 use Monolog\Processor\UidProcessor;
 use Psr\Container\ContainerInterface;
 use Psr\Log\LoggerInterface;
+use Slim\Views\PhpRenderer;
 
 return function (ContainerBuilder $containerBuilder) {
     $containerBuilder->addDefinitions([
@@ -35,6 +36,9 @@ return function (ContainerBuilder $containerBuilder) {
             $capsule->bootEloquent();
 
             return $capsule;
+        },
+        PhpRenderer::class => function (ContainerInterface $container) {
+            return new PhpRenderer('../templates/');
         },
     ]);
 };

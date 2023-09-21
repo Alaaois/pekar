@@ -53,4 +53,12 @@ class InMemoryCartRepository implements CartRepository
     {
         return null;
     }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function update(string $session, array $updates): array
+    {
+        return [];
+    }
 }

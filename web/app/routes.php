@@ -2,17 +2,18 @@
 
 declare(strict_types=1);
 
-use App\Application\Actions\Cart\AddCartAction;
-use App\Domain\Cart\CartItem;
-use Illuminate\Database\Capsule\Manager;
+use App\Application\Actions\Cart\CartAction;
+use App\Application\Actions\Cart\UpdateCartAction;
 use Slim\App;
+use Slim\Exception\HttpNotFoundException;
+use App\Application\Actions\Cart\CartJsAction;
+use App\Application\Actions\Cart\AddCartAction;
+use App\Application\Actions\User\ViewUserAction;
 use App\Application\Actions\Cart\ListCartAction;
 use App\Application\Actions\User\ListUsersAction;
-use App\Application\Actions\User\ViewUserAction;
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Slim\Interfaces\RouteCollectorProxyInterface as Group;
-use Slim\Exception\HttpNotFoundException;
 
 return function (App $app) {
     $app->options('/{routes:.*}', function (Request $request, Response $response) {
@@ -29,12 +30,17 @@ return function (App $app) {
     $app->group('/en-jp/cart', function (Group $group) {
         $group->get('', ListCartAction::class);
         $group->post('/add.js', AddCartAction::class);
+        $group->post('/update.js', UpdateCartAction::class);
     });
 
     $app->group('/cart', function (Group $group) {
         $group->get('', ListCartAction::class);
         $group->post('/add.js', AddCartAction::class);
+        $group->post('/update.js', UpdateCartAction::class);
     });
+
+    $app->get('/cart.js', CartJsAction::class);
+    $app->get('/cart.html', CartAction::class);
 
     $app->group('/users', function (Group $group) {
         $group->get('', ListUsersAction::class);
