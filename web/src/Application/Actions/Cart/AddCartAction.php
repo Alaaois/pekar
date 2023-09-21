@@ -20,12 +20,12 @@ class AddCartAction extends Action
      */
     protected function action(): Response
     {
-        $this->logger->info("Add items processed.");
+        $this->logger->info('Add items processed.');
 
         $session = $this->request->getAttribute('session');
 
         $body = $this->request->getParsedBody();
-        $item = new CartItem($body['id'], "", 0, $body["quantity"]);
+        $item = new CartItem($body['id'], '', 0, $body['quantity'], '');
 
         $item = $this->cartRepository->add($session, $item);
 

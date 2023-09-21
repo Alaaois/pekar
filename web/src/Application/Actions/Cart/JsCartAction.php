@@ -22,7 +22,7 @@ class JsCartAction extends Action
      */
     protected function action(): Response
     {
-        $this->logger->info("Cart js viewed.");
+        $this->logger->info('Cart js viewed.');
 
         $session = $this->request->getAttribute('session');
         $items = $this->cartRepository->items($session);
@@ -33,7 +33,7 @@ class JsCartAction extends Action
                 'token' => $session,
                 'items' => $items,
             ]
-        );
+        )->withHeader('Content-Type', 'application/json');
 
         return $response;
     }

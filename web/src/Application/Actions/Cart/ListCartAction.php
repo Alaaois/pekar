@@ -20,7 +20,7 @@ class ListCartAction extends Action
      */
     protected function action(): Response
     {
-        $this->logger->info("Cart items viewed.");
+        $this->logger->info('Cart items viewed.');
 
         $session = $this->request->getAttribute('session');
         $items = $this->cartRepository->items($session);

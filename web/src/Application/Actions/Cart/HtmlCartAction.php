@@ -22,7 +22,7 @@ class HtmlCartAction extends Action
      */
     protected function action(): Response
     {
-        $this->logger->info("Cart js viewed.");
+        $this->logger->info('Cart js viewed.');
 
         $session = $this->request->getAttribute('session');
         $items = $this->cartRepository->items($session);

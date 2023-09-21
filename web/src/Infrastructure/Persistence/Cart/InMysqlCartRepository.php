@@ -12,6 +12,7 @@ use PDO;
 class InMysqlCartRepository implements CartRepository
 {
     private PDO $db;
+
     public function __construct(PDO $db)
     {
         $this->db = $db;
@@ -24,11 +25,26 @@ class InMysqlCartRepository implements CartRepository
     {
         $items = [];
 
-        $stmt = $this->db->prepare("SELECT * FROM cart_items WHERE session = ? AND qty > 0 ORDER BY id");
+        $stmt = $this->db->prepare("SELECT 
+            a.*, 
+            b.name, 
+            b.cover_image,
+            b.price
+        FROM cart_items a
+        LEFT JOIN products b USING(item_id)
+        WHERE 
+            a.session = ? AND a.qty > 0 
+        ORDER BY a.id");
         $stmt->execute([$session]);
 
         while ($row = $stmt->fetch()) {
-            $items[] = new CartItem($row["item_id"], $row["item_id"], $row["item_id"], $row["qty"]);
+            $items[] = new CartItem(
+                $row["item_id"],
+                $row["name"],
+                $row["price"],
+                $row["qty"],
+                $row["cover_image"],
+            );
         }
 
         return $items;

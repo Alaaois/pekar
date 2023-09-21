@@ -20,13 +20,13 @@ class UpdateCartAction extends Action
      */
     protected function action(): Response
     {
-        $this->logger->info("Update items processed.");
+        $this->logger->info('Update items processed.');
 
         $session = $this->request->getAttribute('session');
 
         $body = $this->request->getParsedBody();
 
-        $items = $this->cartRepository->update($session, $body["updates"]);
+        $items = $this->cartRepository->update($session, $body['updates']);
 
         return $this->respondWithData([
             'session' => $session,
