@@ -11,7 +11,7 @@ use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Log\LoggerInterface;
 use Slim\Views\PhpRenderer;
 
-class CartAction extends Action
+class HtmlCartAction extends Action
 {
 
     protected CartRepository $cartRepository;

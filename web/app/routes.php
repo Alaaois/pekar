@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-use App\Application\Actions\Cart\CartAction;
+use App\Application\Actions\Cart\HtmlCartAction;
 use App\Application\Actions\Cart\UpdateCartAction;
 use Slim\App;
 use Slim\Exception\HttpNotFoundException;
-use App\Application\Actions\Cart\CartJsAction;
+use App\Application\Actions\Cart\JsCartAction;
 use App\Application\Actions\Cart\AddCartAction;
 use App\Application\Actions\User\ViewUserAction;
 use App\Application\Actions\Cart\ListCartAction;
@@ -39,8 +39,8 @@ return function (App $app) {
         $group->post('/update.js', UpdateCartAction::class);
     });
 
-    $app->get('/cart.js', CartJsAction::class);
-    $app->get('/cart.html', CartAction::class);
+    $app->get('/cart.js', JsCartAction::class);
+    $app->get('/cart.html', HtmlCartAction::class);
 
     $app->group('/users', function (Group $group) {
         $group->get('', ListUsersAction::class);
