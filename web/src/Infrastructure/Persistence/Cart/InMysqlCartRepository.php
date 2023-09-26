@@ -25,13 +25,17 @@ class InMysqlCartRepository implements CartRepository
     {
         $items = [];
 
+        /*TODO много вариантов, один продукт*/
         $stmt = $this->db->prepare("SELECT 
-            a.*, 
+            a.qty, 
             b.name, 
             b.cover_image,
-            b.price
+            b.price,
+            b.link,
+            COALESCE(c.item_id, a.item_id) AS item_id
         FROM cart_items a
         LEFT JOIN products b USING(item_id)
+        LEFT JOIN variants c ON b.item_id = c.product_id
         WHERE 
             a.session = ? AND a.qty > 0 
         ORDER BY a.id");
@@ -44,6 +48,7 @@ class InMysqlCartRepository implements CartRepository
                 $row["price"],
                 $row["qty"],
                 $row["cover_image"],
+                $row['link']
             );
         }
 

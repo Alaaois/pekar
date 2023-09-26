@@ -3783,13 +3783,13 @@
                                          data-merge-cache="44797632217384:04b83b25861d2d5df30fa152a309a53e|1|116117|">
                                         <div class="cart-item product-laserpecker-lx1" data-cc-animate>
                                             <div class="cart-item__column cart-item__image">
-                                                <a href="/products/laserpecker-lx1?variant=44797632217384">
+                                                <a href="<?= $item->getLink() ?>?variant=<?= $item->getId() ?>">
                                                     <div class="rimage-outer-wrapper" style="max-width: 100px">
                                                         <div class="rimage-wrapper lazyload--placeholder"
                                                              style="padding-top:100.0%">
                                                             <!-- data-src="/cdn/shop/products/LX1_{width}x.png?v=1679477843"-->
                                                             <img class="rimage__image lazyload fade-in "
-                                                                 data-src="<?= $item->getCoverImage() ?>"
+                                                                 data-src="http://<?= $item->getCoverImage() ?>"
                                                                  data-widths="[180, 220, 300, 360, 460, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
                                                                  data-aspectratio="1.0"
                                                                  data-sizes="auto"
@@ -3798,7 +3798,7 @@
 
                                                             <noscript>
                                                                 <img class="rimage__image"
-                                                                     src="<?= $item->getCoverImage() ?>"
+                                                                     src="http://<?= $item->getCoverImage() ?>"
                                                                      alt="">
                                                             </noscript>
                                                         </div>
@@ -3812,7 +3812,7 @@
                                                     <div class="lightly-spaced-row">
                                                         <div class="cart-item__title">
                                                             <a class="inh-col"
-                                                               href="/products/laserpecker-lx1?variant=44797632217384"><?= $item->getName() ?></a>
+                                                               href="<?= $item->getLink() ?>?variant=<?= $item->getId() ?>"><?= $item->getName() ?></a>
                                                         </div>
                                                         <div class="small-text">
                                                             <div class="cart-item__variant">
@@ -3842,7 +3842,7 @@
                                                 </div>
                                                 <div class="cart-item__column cart-item__price">
                                                 <span class="theme-money cart-item__selling-price">
-                                                    <span class="etrans-money"><?= $item->getPrice() ?> руб.</span>
+                                                    <span class="etrans-money"><?= $item->getPrice()/100 ?> руб.</span>
                                                 </span>
                                                     <span class="struck-out-price small-text">
                                                         <!--<span class="theme-money">
@@ -3895,7 +3895,7 @@
                                                 </div>
                                                 <div class="cart-item__column cart-item__total" data-line="1">
                                                     <span class="theme-money cart-item__selling-total">
-                                                        <span class="etrans-money"><?= $item->getQty() * $item->getPrice() ?> руб.</span>
+                                                        <span class="etrans-money"><?= ($item->getQty() * $item->getPrice())/100 ?> руб.</span>
                                                     </span>
                                                     <!--<div class="theme-money struck-out-price small-text">
                                                         <span class="etrans-money">$1,399.00</span>
@@ -3927,7 +3927,7 @@
                                         <div data-merge="total"><h2 class="subtotal h2-style">
                                                 Итого:
                                                 <span class="theme-money"><span
-                                                            class="etrans-money"><?= $subtotal ?> руб.</span></span>
+                                                            class="etrans-money"><?= $subtotal/100 ?> руб.</span></span>
                                             </h2></div>
 
 

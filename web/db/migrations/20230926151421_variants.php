@@ -2,7 +2,7 @@
 
 use Phinx\Migration\AbstractMigration;
 
-class CartItemsCangeItemId extends AbstractMigration
+class Variants extends AbstractMigration
 {
     /**
      * Change Method.
@@ -31,6 +31,17 @@ class CartItemsCangeItemId extends AbstractMigration
      */
     public function change()
     {
-        $this->query('alter table cart_items modify item_id bigint not null;');
+        $table = $this->table('variants');
+
+        $table->addColumn('name', 'string')
+            ->addColumn('product_id', 'integer')
+            ->addColumn('cover_image', 'string')
+            ->addColumn('price', 'decimal')
+            ->addColumn("link", "string")
+            ->addTimestamps();
+
+        $table->create();
+
+        $this->query('alter table variants modify product_id bigint not null;');
     }
 }

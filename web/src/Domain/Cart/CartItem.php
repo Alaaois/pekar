@@ -11,6 +11,15 @@ class CartItem implements JsonSerializable
     private string $cover_image;
     private float $price;
     private int $qty;
+    private string $link;
+
+    /**
+     * @return string
+     */
+    public function getLink(): string
+    {
+        return $this->link;
+    }
 
     /**
      * @return string
@@ -28,13 +37,14 @@ class CartItem implements JsonSerializable
         return $this->qty;
     }
 
-    public function __construct($id, $name, $price, $qty, $cover_image)
+    public function __construct($id, $name, $price, $qty, $cover_image, $link)
     {
         $this->id = $id;
         $this->qty = $qty;
         $this->name = $name;
         $this->price = $price;
         $this->cover_image = $cover_image;
+        $this->link = $link;
     }
 
     /**
@@ -71,6 +81,7 @@ class CartItem implements JsonSerializable
             'name' => $this->name,
             'price' => $this->price,
             'cover_image' => $this->cover_image,
+            'link' => $this->link,
         ];
     }
 }

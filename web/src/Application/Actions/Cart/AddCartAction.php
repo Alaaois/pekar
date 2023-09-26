@@ -25,7 +25,7 @@ class AddCartAction extends Action
         $session = $this->request->getAttribute('session');
 
         $body = $this->request->getParsedBody();
-        $item = new CartItem($body['id'], '', 0, $body['quantity'], '');
+        $item = new CartItem($body['id'], '', 0, $body['quantity'], '', '');
 
         $item = $this->cartRepository->add($session, $item);
 
