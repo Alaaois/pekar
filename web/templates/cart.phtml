@@ -3842,7 +3842,7 @@
                                                 </div>
                                                 <div class="cart-item__column cart-item__price">
                                                 <span class="theme-money cart-item__selling-price">
-                                                    <span class="etrans-money"><?= $item->getPrice()/100 ?> руб.</span>
+                                                    <span class="etrans-money"><?= $item->getPrice() ?> руб.</span>
                                                 </span>
                                                     <span class="struck-out-price small-text">
                                                         <!--<span class="theme-money">
@@ -3895,7 +3895,7 @@
                                                 </div>
                                                 <div class="cart-item__column cart-item__total" data-line="1">
                                                     <span class="theme-money cart-item__selling-total">
-                                                        <span class="etrans-money"><?= ($item->getQty() * $item->getPrice())/100 ?> руб.</span>
+                                                        <span class="etrans-money"><?= ($item->getQty() * $item->getPrice()) ?> руб.</span>
                                                     </span>
                                                     <!--<div class="theme-money struck-out-price small-text">
                                                         <span class="etrans-money">$1,399.00</span>
@@ -3927,7 +3927,7 @@
                                         <div data-merge="total"><h2 class="subtotal h2-style">
                                                 Итого:
                                                 <span class="theme-money"><span
-                                                            class="etrans-money"><?= $subtotal/100 ?> руб.</span></span>
+                                                            class="etrans-money"><?= $subtotal ?> руб.</span></span>
                                             </h2></div>
 
 
