@@ -32,16 +32,19 @@ class InMysqlCartRepository implements CartRepository
             b.cover_image,
             b.price,
             b.link,
-            COALESCE(c.item_id, a.item_id) AS item_id
+            c.item_id
         FROM cart_items a
-        LEFT JOIN products b USING(item_id)
-        LEFT JOIN variants c ON b.item_id = c.product_id
+        LEFT JOIN variants c ON a.item_id = c.item_id
+        LEFT JOIN products b ON c.product_id = b.item_id
         WHERE 
             a.session = ? AND a.qty > 0 
         ORDER BY a.id");
         $stmt->execute([$session]);
 
         while ($row = $stmt->fetch()) {
+            if (empty($row["name"])) {
+                continue;
+            }
             $items[] = new CartItem(
                 $row["item_id"],
                 $row["name"],
