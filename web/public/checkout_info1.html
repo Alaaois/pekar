@@ -1,0 +1,1225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Оформление заказа</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <style>
+        h1 {
+            color: black;
+        }
+        .btn-primary {
+            background-color: rgb(254, 217, 36);
+            color: black;
+            border: none
+        }
+        .btn-primary:hover {
+            color: black;
+            background-color: rgb(222, 189, 30);
+            border: none
+        }
+        .form-label {
+            color: black;
+        }
+        .price {
+            float: right;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+<!--<div class="shopify-section section-header" id="shopify-section-header">
+    <style data-shopify="">
+        .logo img {
+            width: 170px;
+        }
+
+        .logo-area__middle&#45;&#45;logo-image {
+            max-width: 170px;
+        }
+
+        @media (max-width: 767.98px) {
+            .logo img {
+                width: 150px;
+            }
+        }
+
+        .section-header {
+            position: -webkit-sticky;
+            position: sticky;
+        }
+
+        .section-header.no-sticky {
+            position: relative;
+        }
+    </style>
+    <div data-cc-animate="" data-section-type="header">
+        <div class="pageheader pageheader&#45;&#45;layout-inline-menu-center pageheader&#45;&#45;sticky" id="pageheader">
+            <div class="logo-area container container&#45;&#45;no-max">
+                <div class="logo-area__left">
+                    <div class="logo-area__left__inner">
+                        <button aria-controls="main-nav" aria-label="Toggle menu" class="button notabutton mobile-nav-toggle">
+                            <svg aria-hidden="true" class="feather feather-menu" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                <line x1="3" x2="21" y1="12" y2="12">
+                                </line>
+                                <line x1="3" x2="21" y1="6" y2="6">
+                                </line>
+                                <line x1="3" x2="21" y1="18" y2="18">
+                                </line>
+                            </svg>
+                        </button>
+                        <div aria-label="Primary navigation" class="navigation navigation&#45;&#45;left" role="navigation">
+                            <div class="navigation__tier-1-container">
+                                <ul class="navigation__tier-1">
+                                    <li class="navigation__item navigation__item&#45;&#45;with-children navigation__item&#45;&#45;with-mega-menu">
+                                        <a aria-controls="NavigationTier2-1" aria-expanded="false" aria-haspopup="true" class="navigation__link" href="/collections/all.html">
+                                            Магазин
+                                        </a>
+                                    </li>
+                                    &lt;!&ndash; &ndash;&gt;
+                                    <li class="navigation__item navigation__item&#45;&#45;with-children navigation__item&#45;&#45;with-mega-menu">
+                                        <a aria-controls="NavigationTier2-4" aria-expanded="false" aria-haspopup="true" class="navigation__link" href="/">
+                                            Поддержка
+                                        </a>
+                                    </li>
+                                    <li class="navigation__item navigation__item&#45;&#45;with-children navigation__item&#45;&#45;with-mega-menu">
+                                        <a aria-controls="NavigationTier2-5" aria-expanded="false" aria-haspopup="true" class="navigation__link" href="/">
+                                            Участник LP
+                                        </a>
+                                    </li>
+                                    <li class="navigation__item">
+                                        <a class="navigation__link" href="/pages/about-us.html">
+                                            О нас
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="logo-area__middle logo-area__middle&#45;&#45;logo-image">
+                    <div class="logo-area__middle__inner">
+                        <div class="logo">
+                            <a class="logo__link" href="/" title="laserpecker.net">
+                                <img alt="laserpecker.net" class="logo__image" height="188" itemprop="logo" src="/cdn/shop/files/eced8e78ccee719261189f6041fc643_340x.png?v=1660654476" width="1000"/>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="logo-area__right">
+                    <div class="logo-area__right__inner">
+                        <a class="cart-link" href="//cart">
+         <span class="cart-link__label">
+          Корзина
+         </span>
+                            <span class="cart-link__icon">
+          <svg aria-hidden="true" height="24px" viewbox="0 0 24 24" width="24px">
+           <g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+            <path d="M3.5,2.75 C4.87766445,2.75 5.56649668,2.75 5.56649668,2.75 C5.56649668,2.75 6.03257795,7.25 6.96474049,16.25 L19.5,16.25" stroke="currentColor" stroke-linecap="square" stroke-width="1.5">
+            </path>
+            <path d="M6.22627526,6.67553191 C14.8659742,6.67553191 19.1858237,6.67553191 19.1858237,6.67553191 C19.1858237,6.67553191 18.9160351,8.71453901 18.376458,12.7925532 L7.62925996,13.9095745" stroke="currentColor" stroke-linecap="square" stroke-width="1.5">
+            </path>
+            <circle cx="8.875" cy="20.005" r="1.375" stroke="currentColor" stroke-width="1.25">
+            </circle>
+            <circle cx="17.375" cy="20.005" r="1.375" stroke="currentColor" stroke-width="1.25">
+            </circle>
+           </g>
+          </svg>
+         </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="main-search" data-live-search="true" data-live-search-meta="false" data-live-search-price="false" data-live-search-vendor="false" data-per-row-mob="2" id="main-search">
+                <div class="main-search__container container">
+                    <button aria-label="Close" class="main-search__close button notabutton">
+                        <svg aria-hidden="true" class="feather feather-x" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                            <line x1="18" x2="6" y1="6" y2="18">
+                            </line>
+                            <line x1="6" x2="18" y1="6" y2="18">
+                            </line>
+                        </svg>
+                    </button>
+                    <form action="//search" autocomplete="off" class="main-search__form" method="get">
+                        <input name="type" type="hidden" value="product,article,page"/>
+                        <input name="options[prefix]" type="hidden" value="last"/>
+                        <div class="main-search__input-container">
+                            <input aria-label="Search Store" autocomplete="off" class="main-search__input" name="q" placeholder="Search..." type="text"/>
+                        </div>
+                        <button aria-label="Submit" class="main-search__button button notabutton" type="submit">
+                            <svg aria-hidden="true" height="24px" viewbox="0 0 24 24" width="24px">
+                                <g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-width="1.5" transform="translate(3.000000, 3.000000)">
+                                    <circle cx="7.82352941" cy="7.82352941" r="7.82352941">
+                                    </circle>
+                                    <line stroke-linecap="square" x1="13.9705882" x2="18.4411765" y1="13.9705882" y2="18.4411765">
+                                    </line>
+                                </g>
+                            </svg>
+                        </button>
+                    </form>
+                    <div class="main-search__results">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="desktop-only" id="main-nav">
+            <div aria-label="Primary navigation" class="navigation navigation&#45;&#45;main" role="navigation">
+                <div class="navigation__tier-1-container">
+                    <ul class="navigation__tier-1">
+                        <li class="navigation__item navigation__item&#45;&#45;with-children navigation__item&#45;&#45;with-mega-menu">
+                            <a aria-controls="NavigationTier2-1" aria-expanded="false" aria-haspopup="true" class="navigation__link" href="/">
+                                Магазин
+                            </a>
+                            <a class="navigation__children-toggle" href="#">
+                                <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                    <title>
+                                        Переключать меню
+                                    </title>
+                                    <polyline points="6 9 12 15 18 9">
+                                    </polyline>
+                                </svg>
+                            </a>
+                            <div class="navigation__tier-2-container navigation__child-tier" id="NavigationTier2-1">
+                                <div class="container">
+                                    <ul class="navigation__tier-2 navigation__columns navigation__columns&#45;&#45;count-4">
+                                        <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                            <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/collections/engraving-machine.html">
+                                                Серия LP
+                                            </a>
+                                            <a class="navigation__children-toggle" href="#">
+                                                <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                    <title>
+                                                        Переключить меню
+                                                    </title>
+                                                    <polyline points="6 9 12 15 18 9">
+                                                    </polyline>
+                                                </svg>
+                                            </a>
+                                            <div class="navigation__tier-3-container navigation__child-tier">
+                                                <ul class="navigation__tier-3">
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="product_link" href="/products/laserpecker-4.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/files/SKU-_2_8c2969a8-eda1-444c-b1df-530eff8c6ea9_100x.jpg?v=1691459508"/>
+                                                            <span class="navigation__link_span">
+                  LP4
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="product_link" href="/products/laserpecker-3-metal-laser-engraver.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/LaserPecker-3-Basic-Metal-Plastic-Handheld-Laser-Engraver_100x.jpg?v=1667977216"/>
+                                                            <span class="navigation__link_span">
+                  LP3
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="product_link" href="/products/laserpecker-2-basic-super-fast-handheld-laser-engraver-cutter.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/files/LP2Basic_100x.jpg?v=1685106424"/>
+                                                            <span class="navigation__link_span">
+                  LP2
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="product_link" href="/products/l1-pro-basic-the-most-compact-safe-easy-to-use-laser-engraver.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/LaserPecker-Pro-Basic-The-Most-Advanced-Portable-Laser-Engraver-Not-Ship-to-EU_100x.jpg?v=1667976763"/>
+                                                            <span class="navigation__link_span">
+                  ЛП1 Про
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="product_link" href="/products/l1-the-most-useful-mini-handheld-laser-engraver.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/1_eea72d98-5a3f-4698-9334-e48625993a99_100x.jpg?v=1677570299"/>
+                                                            <span class="navigation__link_span">
+                  LP1
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                            <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/collections/laserpecker-lx.html">
+                                                Серия LX
+                                            </a>
+                                            <a class="navigation__children-toggle" href="#">
+                                                <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                    <title>
+                                                        Переключить меню
+                                                    </title>
+                                                    <polyline points="6 9 12 15 18 9">
+                                                    </polyline>
+                                                </svg>
+                                            </a>
+                                            <div class="navigation__tier-3-container navigation__child-tier">
+                                                <ul class="navigation__tier-3">
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="product_link" href="/products/laserpecker-lx1.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/LX1_100x.png?v=1679477843"/>
+                                                            <span class="navigation__link_span">
+                  LX1
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="product_link" href="/products/laserpecker-lx1-max.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/LX1Max_100x.png?v=1679477866"/>
+                                                            <span class="navigation__link_span">
+                  LX1 Макс.
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                            <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/collections/engraving-accessories.html">
+                                                Аксессуары
+                                            </a>
+                                            <a class="navigation__children-toggle" href="#">
+                                                <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                    <title>
+                                                        Переключить меню
+                                                    </title>
+                                                    <polyline points="6 9 12 15 18 9">
+                                                    </polyline>
+                                                </svg>
+                                            </a>
+                                            <div class="navigation__tier-3-container navigation__child-tier">
+                                                <ul class="navigation__tier-3">
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="collection_link" href="/collections/for-laserpecker-4.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/files/LP4Bag-1_100x.jpg?v=1691807494"/>
+                                                            <span class="navigation__link_span">
+                  Для LP4
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="collection_link" href="/collections/laserpecker-3-set.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/laserpecker-3-set-laserpecker-net_100x.jpg?v=1665220208"/>
+                                                            <span class="navigation__link_span">
+                  Для LP3
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="collection_link" href="/collections/laserpecker-2-accesories-set.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/laserpecker-2-accessories-set-laserpecker-net_100x.jpg?v=1665220208"/>
+                                                            <span class="navigation__link_span">
+                  Для LP2
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="collection_link" href="/collections/laserpecker-pro-set.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/laserpecker-pro-set-laserpecker-net_100x.png?v=1665220208"/>
+                                                            <span class="navigation__link_span">
+                  Для LP1 Pro
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="collection_link" href="/collections/laserpecker1set.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/laserpecker-1-assesories-set-laserpecker-net_100x.jpg?v=1665220208"/>
+                                                            <span class="navigation__link_span">
+                  Для LP1 Mini
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="collection_link" href="//collections/lx-accessories">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/files/04_100x.jpg?v=1690800928"/>
+                                                            <span class="navigation__link_span">
+                  Для серии LX
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                            <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="collections/engraving-material.html">
+                                                Материалы
+                                            </a>
+                                            <a class="navigation__children-toggle" href="#">
+                                                <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                    <title>
+                                                        Переключить меню
+                                                    </title>
+                                                    <polyline points="6 9 12 15 18 9">
+                                                    </polyline>
+                                                </svg>
+                                            </a>
+                                            <div class="navigation__tier-3-container navigation__child-tier">
+                                                <ul class="navigation__tier-3">
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="collection_link" href="/collections/mental.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/metal-laserpecker-net_100x.jpg?v=1665220208"/>
+                                                            <span class="navigation__link_span">
+                  Металл
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="collection_link" href="/collections/wood.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/wood-laserpecker-net_100x.jpg?v=1665220208"/>
+                                                            <span class="navigation__link_span">
+                  Древесина
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="collection_link" href="/collections/leather.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/files/LeatherPhoneMagneticCardHolderForiPhone-green_100x.jpg?v=1685701289"/>
+                                                            <span class="navigation__link_span">
+                  Кожа
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="collection_link" href="/collections/paper.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/8ebf00add8d91d49_456x572_be215602-365b-439a-8080-f65eeed04832_100x.webp?v=1665197410"/>
+                                                            <span class="navigation__link_span">
+                  Бумага
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="collection_link" href="/collections/new-material-package.html">
+                                                            <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/LaserPecker-2-Materials_100x.jpg?v=1667977556"/>
+                                                            <span class="navigation__link_span">
+                  Пакет материалов
+                 </span>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        &lt;!&ndash;<li class="navigation__item">
+                         <a class="navigation__link" href="/pages/back-to-school-sale">
+                          Назад Распродажа в школу🔥
+                         </a>
+                        </li>
+                        <li class="navigation__item">
+                         <a class="navigation__link" href="/products/laserpecker-4.html">
+                          Новый Прибытие🎉
+                         </a>
+                        </li>&ndash;&gt;
+                        <li class="navigation__item navigation__item&#45;&#45;with-children navigation__item&#45;&#45;with-mega-menu">
+                            <a aria-controls="NavigationTier2-4" aria-expanded="false" aria-haspopup="true" class="navigation__link" href="/">
+                                Поддержка
+                            </a>
+                            <a class="navigation__children-toggle" href="#">
+                                <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                    <title>
+                                        Переключать меню
+                                    </title>
+                                    <polyline points="6 9 12 15 18 9">
+                                    </polyline>
+                                </svg>
+                            </a>
+                            <div class="navigation__tier-2-container navigation__child-tier" id="NavigationTier2-4">
+                                <div class="container">
+                                    <ul class="navigation__tier-2 navigation__columns navigation__columns&#45;&#45;count-3">
+                                        <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                            <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/">
+                                                Перед продажей
+                                            </a>
+                                            <a class="navigation__children-toggle" href="#">
+                                                <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                    <title>
+                                                        Переключить меню
+                                                    </title>
+                                                    <polyline points="6 9 12 15 18 9">
+                                                    </polyline>
+                                                </svg>
+                                            </a>
+                                            <div class="navigation__tier-3-container navigation__child-tier">
+                                                <ul class="navigation__tier-3">
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="page_link" href="/pages/faq.html">
+                                                            FAQ
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="http_link" href="/pages/machine-comparison.html">
+                                                            Сравнение машин
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                            <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/">
+                                                Послепродажное обслуживание
+                                            </a>
+                                            <a class="navigation__children-toggle" href="#">
+                                                <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                    <title>
+                                                        Переключить меню
+                                                    </title>
+                                                    <polyline points="6 9 12 15 18 9">
+                                                    </polyline>
+                                                </svg>
+                                            </a>
+                                            <div class="navigation__tier-3-container navigation__child-tier">
+                                                <ul class="navigation__tier-3">
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="page_link" href="/pages/software.html">
+                                                            Загрузка программного обеспечения
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="http_link" href="/pages/manual.html">
+                                                            Руководство пользователя
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                            <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="//pages/contact-laserpecker">
+                                                Свяжитесь с нами
+                                            </a>
+                                            <a class="navigation__children-toggle" href="#">
+                                                <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                    <title>
+                                                        Переключить меню
+                                                    </title>
+                                                    <polyline points="6 9 12 15 18 9">
+                                                    </polyline>
+                                                </svg>
+                                            </a>
+                                            <div class="navigation__tier-3-container navigation__child-tier">
+                                                <ul class="navigation__tier-3">
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="page_link" href="//pages/contact-laserpecker">
+                                                            Служба поддержки клиентов
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="page_link" href="//pages/contact-laserpecker">
+                                                            Электронная почта: Services@laserpecker.com
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="page_link" href="//pages/contact-laserpecker">
+                                                            Живой чат: Пн-Пт с 9:00 до 21:00 (PDT)
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="page_link" href="//pages/contact-laserpecker">
+                                                            Оптовый запрос
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="page_link" href="//pages/contact-laserpecker">
+                                                            Электронная почта: sales@laserpecker.com (минимальный заказ 5 шт.)
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="navigation__item navigation__item&#45;&#45;with-children navigation__item&#45;&#45;with-mega-menu">
+                            <a aria-controls="NavigationTier2-5" aria-expanded="false" aria-haspopup="true" class="navigation__link" href="/">
+                                Участник LP
+                            </a>
+                            <a class="navigation__children-toggle" href="#">
+                                <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                    <title>
+                                        Переключать меню
+                                    </title>
+                                    <polyline points="6 9 12 15 18 9">
+                                    </polyline>
+                                </svg>
+                            </a>
+                            <div class="navigation__tier-2-container navigation__child-tier" id="NavigationTier2-5">
+                                <div class="container">
+                                    <ul class="navigation__tier-2 navigation__columns navigation__columns&#45;&#45;count-2">
+                                        <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                            <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/">
+                                                Сообщество
+                                            </a>
+                                            <a class="navigation__children-toggle" href="#">
+                                                <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                    <title>
+                                                        Переключить меню
+                                                    </title>
+                                                    <polyline points="6 9 12 15 18 9">
+                                                    </polyline>
+                                                </svg>
+                                            </a>
+                                            <div class="navigation__tier-3-container navigation__child-tier">
+                                                <ul class="navigation__tier-3">
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="blog_link" href="/blogs/news.html">
+                                                            Блог
+                                                        </a>
+                                                    </li>
+                                                    <li class="navigation__item">
+                                                        <a class="navigation__link" data-type="http_link" href="/collections/engraving-material.html">
+                                                            Галерея
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="navigation__item">
+                            <a class="navigation__link" href="/pages/about-us.html">
+                                О нас
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <script class="mobile-navigation-drawer-template" type="text/template">
+            <div class="mobile-navigation-drawer" data-mobile-expand-with-entire-link="true">
+                <div aria-label="Primary navigation" class="navigation navigation&#45;&#45;main" role="navigation">
+                    <div class="navigation__tier-1-container">
+                        <div class="navigation__mobile-header">
+                            <a aria-label="Back" class="mobile-nav-back ltr-icon" href="#">
+                                <svg class="feather feather-chevron-left" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                    <title>
+                                        Левый
+                                    </title>
+                                    <polyline points="15 18 9 12 15 6">
+                                    </polyline>
+                                </svg>
+                            </a>
+                            <span class="mobile-nav-title">
+    </span>
+                            <a aria-label="Close" class="mobile-nav-toggle" href="#">
+                                <svg aria-hidden="true" class="feather feather-x" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                    <line x1="18" x2="6" y1="6" y2="18">
+                                    </line>
+                                    <line x1="6" x2="18" y1="6" y2="18">
+                                    </line>
+                                </svg>
+                            </a>
+                        </div>
+                        <ul class="navigation__tier-1">
+                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__item&#45;&#45;with-mega-menu">
+                                <a aria-controls="NavigationTier2-1-mob" aria-expanded="false" aria-haspopup="true" class="navigation__link" href="/">
+                                    Магазин
+                                </a>
+                                <a class="navigation__children-toggle" href="#">
+                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                        <title>
+                                            Переключить меню
+                                        </title>
+                                        <polyline points="6 9 12 15 18 9">
+                                        </polyline>
+                                    </svg>
+                                </a>
+                                <div class="navigation__tier-2-container navigation__child-tier" id="NavigationTier2-1-mob">
+                                    <div class="container">
+                                        <ul class="navigation__tier-2 navigation__columns navigation__columns&#45;&#45;count-4">
+                                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                                <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/collections/engraving-machine.html">
+                                                    Серия LP
+                                                </a>
+                                                <a class="navigation__children-toggle" href="#">
+                                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                        <title>
+                                                            Переключить меню
+                                                        </title>
+                                                        <polyline points="6 9 12 15 18 9">
+                                                        </polyline>
+                                                    </svg>
+                                                </a>
+                                                <div class="navigation__tier-3-container navigation__child-tier">
+                                                    <ul class="navigation__tier-3">
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="product_link" href="/products/laserpecker-4.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/files/SKU-_2_8c2969a8-eda1-444c-b1df-530eff8c6ea9_100x.jpg?v=1691459508"/>
+                                                                <span class="navigation__link_span">
+              LP4
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="product_link" href="/products/laserpecker-3-metal-laser-engraver.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/LaserPecker-3-Basic-Metal-Plastic-Handheld-Laser-Engraver_100x.jpg?v=1667977216"/>
+                                                                <span class="navigation__link_span">
+              LP3
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="product_link" href="/products/laserpecker-2-basic-super-fast-handheld-laser-engraver-cutter.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/files/LP2Basic_100x.jpg?v=1685106424"/>
+                                                                <span class="navigation__link_span">
+              LP2
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="product_link" href="/products/l1-pro-basic-the-most-compact-safe-easy-to-use-laser-engraver.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/LaserPecker-Pro-Basic-The-Most-Advanced-Portable-Laser-Engraver-Not-Ship-to-EU_100x.jpg?v=1667976763"/>
+                                                                <span class="navigation__link_span">
+              ЛП1 Про
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="product_link" href="/products/l1-the-most-useful-mini-handheld-laser-engraver.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/1_eea72d98-5a3f-4698-9334-e48625993a99_100x.jpg?v=1677570299"/>
+                                                                <span class="navigation__link_span">
+              LP1
+             </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                                <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/collections/laserpecker-lx.html">
+                                                    Серия LX
+                                                </a>
+                                                <a class="navigation__children-toggle" href="#">
+                                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                        <title>
+                                                            Переключить меню
+                                                        </title>
+                                                        <polyline points="6 9 12 15 18 9">
+                                                        </polyline>
+                                                    </svg>
+                                                </a>
+                                                <div class="navigation__tier-3-container navigation__child-tier">
+                                                    <ul class="navigation__tier-3">
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="product_link" href="/products/laserpecker-lx1.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/LX1_100x.png?v=1679477843"/>
+                                                                <span class="navigation__link_span">
+              LX1
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="product_link" href="/products/laserpecker-lx1-max.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/LX1Max_100x.png?v=1679477866"/>
+                                                                <span class="navigation__link_span">
+              LX1 Макс.
+             </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                                <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/collections/engraving-accessories.html">
+                                                    Аксессуары
+                                                </a>
+                                                <a class="navigation__children-toggle" href="#">
+                                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                        <title>
+                                                            Переключить меню
+                                                        </title>
+                                                        <polyline points="6 9 12 15 18 9">
+                                                        </polyline>
+                                                    </svg>
+                                                </a>
+                                                <div class="navigation__tier-3-container navigation__child-tier">
+                                                    <ul class="navigation__tier-3">
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="collection_link" href="/collections/for-laserpecker-4.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/files/LP4Bag-1_100x.jpg?v=1691807494"/>
+                                                                <span class="navigation__link_span">
+              Для LP4
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="collection_link" href="/collections/laserpecker-3-set.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/laserpecker-3-set-laserpecker-net_100x.jpg?v=1665220208"/>
+                                                                <span class="navigation__link_span">
+              Для LP3
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="collection_link" href="/collections/laserpecker-2-accesories-set.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/laserpecker-2-accessories-set-laserpecker-net_100x.jpg?v=1665220208"/>
+                                                                <span class="navigation__link_span">
+              Для LP2
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="collection_link" href="/collections/laserpecker-pro-set.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/laserpecker-pro-set-laserpecker-net_100x.png?v=1665220208"/>
+                                                                <span class="navigation__link_span">
+              Для LP1 Pro
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="collection_link" href="/collections/laserpecker1set.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/laserpecker-1-assesories-set-laserpecker-net_100x.jpg?v=1665220208"/>
+                                                                <span class="navigation__link_span">
+              Для LP1 Mini
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="collection_link" href="//collections/lx-accessories">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/files/04_100x.jpg?v=1690800928"/>
+                                                                <span class="navigation__link_span">
+              Для серии LX
+             </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                                <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="collections/engraving-material.html">
+                                                    Материалы
+                                                </a>
+                                                <a class="navigation__children-toggle" href="#">
+                                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                        <title>
+                                                            Переключить меню
+                                                        </title>
+                                                        <polyline points="6 9 12 15 18 9">
+                                                        </polyline>
+                                                    </svg>
+                                                </a>
+                                                <div class="navigation__tier-3-container navigation__child-tier">
+                                                    <ul class="navigation__tier-3">
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="collection_link" href="/collections/mental.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/metal-laserpecker-net_100x.jpg?v=1665220208"/>
+                                                                <span class="navigation__link_span">
+              Металл
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="collection_link" href="/collections/wood.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/wood-laserpecker-net_100x.jpg?v=1665220208"/>
+                                                                <span class="navigation__link_span">
+              Древесина
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="collection_link" href="/collections/leather.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/files/LeatherPhoneMagneticCardHolderForiPhone-green_100x.jpg?v=1685701289"/>
+                                                                <span class="navigation__link_span">
+              Кожа
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="collection_link" href="/collections/paper.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/collections/8ebf00add8d91d49_456x572_be215602-365b-439a-8080-f65eeed04832_100x.webp?v=1665197410"/>
+                                                                <span class="navigation__link_span">
+              Бумага
+             </span>
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="collection_link" href="/collections/new-material-package.html">
+                                                                <img alt="" class="lazyload navigation__link_img" data-src="/cdn/shop/products/LaserPecker-2-Materials_100x.jpg?v=1667977556"/>
+                                                                <span class="navigation__link_span">
+              Пакет материалов
+             </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="navigation__item">
+                            </li>
+                            <li class="navigation__item">
+                            </li>
+                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__item&#45;&#45;with-mega-menu">
+                                <a aria-controls="NavigationTier2-4-mob" aria-expanded="false" aria-haspopup="true" class="navigation__link" href="/">
+                                    Поддержка
+                                </a>
+                                <a class="navigation__children-toggle" href="#">
+                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                        <title>
+                                            Переключить меню
+                                        </title>
+                                        <polyline points="6 9 12 15 18 9">
+                                        </polyline>
+                                    </svg>
+                                </a>
+                                <div class="navigation__tier-2-container navigation__child-tier" id="NavigationTier2-4-mob">
+                                    <div class="container">
+                                        <ul class="navigation__tier-2 navigation__columns navigation__columns&#45;&#45;count-3">
+                                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                                <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/">
+                                                    Перед продажей
+                                                </a>
+                                                <a class="navigation__children-toggle" href="#">
+                                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                        <title>
+                                                            Переключить меню
+                                                        </title>
+                                                        <polyline points="6 9 12 15 18 9">
+                                                        </polyline>
+                                                    </svg>
+                                                </a>
+                                                <div class="navigation__tier-3-container navigation__child-tier">
+                                                    <ul class="navigation__tier-3">
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="page_link" href="/pages/faq.html">
+                                                                FAQ
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="http_link" href="/pages/machine-comparison.html">
+                                                                Сравнение машин
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                                <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/">
+                                                    Послепродажное обслуживание
+                                                </a>
+                                                <a class="navigation__children-toggle" href="#">
+                                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                        <title>
+                                                            Переключить меню
+                                                        </title>
+                                                        <polyline points="6 9 12 15 18 9">
+                                                        </polyline>
+                                                    </svg>
+                                                </a>
+                                                <div class="navigation__tier-3-container navigation__child-tier">
+                                                    <ul class="navigation__tier-3">
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="http_link" href="https://support.laserpecker.net/hc/en-us">
+                                                                Справочный центр
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="page_link" href="/pages/software.html">
+                                                                Загрузка программного обеспечения
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="http_link" href="/pages/manual.html">
+                                                                Руководство пользователя
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                                <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="//pages/contact-laserpecker">
+                                                    Свяжитесь с нами
+                                                </a>
+                                                <a class="navigation__children-toggle" href="#">
+                                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                        <title>
+                                                            Переключить меню
+                                                        </title>
+                                                        <polyline points="6 9 12 15 18 9">
+                                                        </polyline>
+                                                    </svg>
+                                                </a>
+                                                <div class="navigation__tier-3-container navigation__child-tier">
+                                                    <ul class="navigation__tier-3">
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="page_link" href="//pages/contact-laserpecker">
+                                                                Служба поддержки клиентов
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="page_link" href="//pages/contact-laserpecker">
+                                                                Электронная почта: Services@laserpecker.com
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="page_link" href="//pages/contact-laserpecker">
+                                                                Живой чат: Пн-Пт с 9:00 до 21:00 (PDT)
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="page_link" href="//pages/contact-laserpecker">
+                                                                Оптовый запрос
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="page_link" href="//pages/contact-laserpecker">
+                                                                Электронная почта: sales@laserpecker.com (минимальный заказ 5 шт.)
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__item&#45;&#45;with-mega-menu">
+                                <a aria-controls="NavigationTier2-5-mob" aria-expanded="false" aria-haspopup="true" class="navigation__link" href="/">
+                                    Участник LP
+                                </a>
+                                <a class="navigation__children-toggle" href="#">
+                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                        <title>
+                                            Переключить меню
+                                        </title>
+                                        <polyline points="6 9 12 15 18 9">
+                                        </polyline>
+                                    </svg>
+                                </a>
+                                <div class="navigation__tier-2-container navigation__child-tier" id="NavigationTier2-5-mob">
+                                    <div class="container">
+                                        <ul class="navigation__tier-2 navigation__columns navigation__columns&#45;&#45;count-2">
+                                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                                <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/">
+                                                    Сообщество
+                                                </a>
+                                                <a class="navigation__children-toggle" href="#">
+                                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                        <title>
+                                                            Переключить меню
+                                                        </title>
+                                                        <polyline points="6 9 12 15 18 9">
+                                                        </polyline>
+                                                    </svg>
+                                                </a>
+                                                <div class="navigation__tier-3-container navigation__child-tier">
+                                                    <ul class="navigation__tier-3">
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="blog_link" href="/blogs/news.html">
+                                                                Блог
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="http_link" href="/collections/engraving-material.html">
+                                                                Галерея
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="navigation__item navigation__item&#45;&#45;with-children navigation__column">
+                                                <a aria-expanded="false" aria-haspopup="true" class="navigation__link navigation__column-title" href="/">
+                                                    Награда
+                                                </a>
+                                                <a class="navigation__children-toggle" href="#">
+                                                    <svg class="feather feather-chevron-down" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                                        <title>
+                                                            Переключить меню
+                                                        </title>
+                                                        <polyline points="6 9 12 15 18 9">
+                                                        </polyline>
+                                                    </svg>
+                                                </a>
+                                                <div class="navigation__tier-3-container navigation__child-tier">
+                                                    <ul class="navigation__tier-3">
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="http_link" href="/pages/rewards-program">
+                                                                Программа вознаграждений
+                                                            </a>
+                                                        </li>
+                                                        <li class="navigation__item">
+                                                            <a class="navigation__link" data-type="page_link" href="//pages/affiliate">
+                                                                Партнерская программа
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="navigation__item">
+                                <a class="navigation__link" href="/pages/about-us.html">
+                                    О нас
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </script>
+        <a aria-label="general.navigation_menu.toggle_aria_label" class="header-shade mobile-nav-toggle" href="#">
+        </a>
+    </div>
+    <script id="InlineNavigationCheckScript">
+        theme.inlineNavigationCheck = function () {
+            var pageHeader = document.querySelector('.pageheader'),
+                inlineNavContainer = pageHeader.querySelector('.logo-area__left__inner'),
+                inlineNav = inlineNavContainer.querySelector('.navigation&#45;&#45;left');
+            if (inlineNav && getComputedStyle(inlineNav).display != 'none') {
+                var inlineMenuCentered = document.querySelector('.pageheader&#45;&#45;layout-inline-menu-center'),
+                    logoContainer = document.querySelector('.logo-area__middle__inner');
+                if (inlineMenuCentered) {
+                    var rightWidth = document.querySelector('.logo-area__right__inner').clientWidth,
+                        middleWidth = logoContainer.clientWidth,
+                        logoArea = document.querySelector('.logo-area'),
+                        computedLogoAreaStyle = getComputedStyle(logoArea),
+                        logoAreaInnerWidth = logoArea.clientWidth - Math.ceil(parseFloat(computedLogoAreaStyle.paddingLeft)) - Math.ceil(parseFloat(computedLogoAreaStyle.paddingRight)),
+                        availableNavWidth = logoAreaInnerWidth - Math.max(rightWidth, middleWidth) * 2 - 40;
+                    inlineNavContainer.style.maxWidth = availableNavWidth + 'px';
+                }
+
+                var firstInlineNavLink = inlineNav.querySelector('.navigation__item:first-child'),
+                    lastInlineNavLink = inlineNav.querySelector('.navigation__item:last-child');
+                if (lastInlineNavLink) {
+                    var inlineNavWidth = null;
+                    if (document.querySelector('html[dir=rtl]')) {
+                        inlineNavWidth = firstInlineNavLink.offsetLeft - lastInlineNavLink.offsetLeft + firstInlineNavLink.offsetWidth;
+                    } else {
+                        inlineNavWidth = lastInlineNavLink.offsetLeft - firstInlineNavLink.offsetLeft + lastInlineNavLink.offsetWidth;
+                    }
+                    if (inlineNavContainer.offsetWidth >= inlineNavWidth) {
+                        pageHeader.classList.add('pageheader&#45;&#45;layout-inline-permitted');
+                        var tallLogo = logoContainer.clientHeight > lastInlineNavLink.clientHeight + 20;
+                        if (tallLogo) {
+                            inlineNav.classList.add('navigation&#45;&#45;tight-underline');
+                        } else {
+                            inlineNav.classList.remove('navigation&#45;&#45;tight-underline');
+                        }
+                    } else {
+                        pageHeader.classList.remove('pageheader&#45;&#45;layout-inline-permitted');
+                    }
+                }
+            }
+        }
+        theme.inlineNavigationCheck();
+
+        theme.setInitialHeaderHeightProperty = () => {
+            let headerHeight = 0,
+                section = document.querySelector('.section-header');
+            if (section) {
+                headerHeight = Math.ceil(section.clientHeight);
+                document.documentElement.style.setProperty('&#45;&#45;theme-header-height', headerHeight + 'px');
+            }
+        };
+        setTimeout(theme.setInitialHeaderHeightProperty, 0);
+    </script>
+</div>-->
+<div class="container">
+    <!-- Карточки товаров с использованием Bootstrap -->
+    <div class="card mb-3">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <img src="product1.jpg" alt="Товар 1" class="img-fluid">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">Товар 1</h5>
+                    <p class="card-text">Описание товара 1</p>
+                    <div class="price">$50</div>
+                    <p class="card-text">
+                        <small class="text-muted">Количество: 5</small>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card mb-3">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <img src="product2.jpg" alt="Товар 2" class="img-fluid">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">Товар 2</h5>
+                    <p class="card-text">Описание товара 2</p>
+                    <div class="price">$30</div>
+                    <p class="card-text">
+                        <small class="text-muted">Количество: 3</small>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Конец карточек товаров -->
+    <h1 class="mt-5">Оформление заказа</h1>
+    <form>
+        <div class="mb-3">
+            <label for="phone" class="form-label">Номер телефона (РФ)</label>
+            <input type="tel" class="form-control" id="phone" placeholder="+7 (___) ___-__-__" required>
+            <small class="form-text text-muted">Введите номер телефона в формате "+7 (000) 000-00-00".</small>
+        </div>
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label for="firstName" class="form-label">Имя</label>
+                <input type="text" class="form-control" id="firstName" placeholder="Введите ваше имя" required>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label for="lastName" class="form-label">Фамилия</label>
+                <input type="text" class="form-control" id="lastName" placeholder="Введите вашу фамилию" required>
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="address" class="form-label">Адрес</label>
+            <input type="text" class="form-control" id="address" placeholder="Введите ваш адрес" required>
+        </div>
+        <div class="mb-3">
+            <label for="city" class="form-label">Город</label>
+            <input type="text" class="form-control" id="city" placeholder="Введите ваш город" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Отправить заказ</button>
+    </form>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
+<script>
+    document.getElementById('phone').addEventListener('input', function () {
+        if (event.inputType === 'deleteContentBackward') {
+            return;
+        }
+        let phoneNumber = this.value.replace('+7', '');
+        phoneNumber = phoneNumber.replace(/\D/g, '');
+        const standard = '+7';
+        let formattedPhoneNumber = '';
+        formattedPhoneNumber = '(' + phoneNumber.substring(0, 3) + ') ';
+        if (phoneNumber.length > 0) {
+            if (phoneNumber.length >= 3) {
+                formattedPhoneNumber += phoneNumber.substring(3, 6) + '-';
+            }
+            if (phoneNumber.length >= 6) {
+                formattedPhoneNumber += phoneNumber.substring(6, 8) + '-';
+            }
+            if (phoneNumber.length >= 8 && phoneNumber.length <= 10) {
+                formattedPhoneNumber += phoneNumber.substring(8, 10);
+            }
+        }
+        this.value = standard.concat(formattedPhoneNumber);
+    });
+</script>
+</body>
+</html>
