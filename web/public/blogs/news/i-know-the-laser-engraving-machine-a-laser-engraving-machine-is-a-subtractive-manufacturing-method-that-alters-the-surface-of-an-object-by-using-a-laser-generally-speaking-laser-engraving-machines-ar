@@ -398,7 +398,7 @@ Shopify.routes.root = "../../index.html";</script>
             buddhaMegaMenuShop = "laserpecker-net.myshopify.com",
             mmWireframeCompression = "0",
             mmExtensionAssetUrl = "https://cdn.shopify.com/extensions/db87361b-aee9-40f3-951d-9f8338aad95b/buddha-mega-menu-navigation-12/assets/";var bestSellersHTML = '';var newestProductsHTML = '';/* get link lists api */
-        var linkLists={"main-menu" : {"title":"Main Menu", "items":["/collections/engraving-machine.html","/collections/engraving-accessories.html","collections/engraving-material.html","/#","/blogs/news.html",]},"footer" : {"title":"Footer menu", "items":["//search","//policies/terms-of-service","//policies/refund-policy","//pages/intellectual-property-rights",]},"product" : {"title":"Shop", "items":["//collections/all-product","/collections/engraving-machine.html","/collections/engraving-accessories.html","collections/engraving-material.html","/pages/machine-comparison.html",]},"about" : {"title":"About", "items":["/pages/about-us.html","/pages/affiliate","//pages/rewards-program","/collections/engraving-material.html","/blogs/news.html",]},"support" : {"title":"Support", "items":["/pages/faq.html","//pages/payment-methods","//apps/tracking","https://order.laserpecker.net/","//pages/laserpecker-alert","//pages/contact-laserpecker",]},"policy" : {"title":"Policy", "items":["/pages/shipping","//pages/warranty-policy","//pages/return-refund-policy","//pages/privacy-policy","//pages/terms-and-conditions-1","//pages/cookie-policy","//pages/disclaimer","//pages/intellectual-property-rights",]},"home" : {"title":"home", "items":["/","/pages/back-to-school-sale","/products/laserpecker-4.html","/","/","/pages/about-us.html",]},};/*ENDPARSE*/
+        var linkLists={"main-menu" : {"title":"Main Menu", "items":["/collections/engraving-machine.html","/collections/engraving-accessories.html","collections/engraving-material.html","/#","/blogs/news.html",]},"footer" : {"title":"Footer menu", "items":["/search.html","//policies/terms-of-service","//policies/refund-policy","//pages/intellectual-property-rights",]},"product" : {"title":"Shop", "items":["//collections/all-product","/collections/engraving-machine.html","/collections/engraving-accessories.html","collections/engraving-material.html","/pages/machine-comparison.html",]},"about" : {"title":"About", "items":["/pages/about-us.html","/pages/affiliate","//pages/rewards-program","/collections/engraving-material.html","/blogs/news.html",]},"support" : {"title":"Support", "items":["/pages/faq.html","//pages/payment-methods","//apps/tracking","https://order.laserpecker.net/","//pages/laserpecker-alert","//pages/contact-laserpecker",]},"policy" : {"title":"Policy", "items":["/pages/shipping","//pages/warranty-policy","//pages/return-refund-policy","//pages/privacy-policy","//pages/terms-and-conditions-1","//pages/cookie-policy","//pages/disclaimer","//pages/intellectual-property-rights",]},"home" : {"title":"home", "items":["/","/pages/back-to-school-sale","/products/laserpecker-4.html","/","/","/pages/about-us.html",]},};/*ENDPARSE*/
 
         
 
@@ -829,7 +829,7 @@ for (var attr in meta) {
       }
     </script><a class="skip-link visually-hidden" href="#content">Skip to content</a>
 
-  <div id="shopify-section-cart-drawer" class="shopify-section section-cart-drawer"><div data-section-id="cart-drawer" data-section-type="cart-drawer" data-form-action="//cart" data-form-method="post">
+  <div id="shopify-section-cart-drawer" class="shopify-section section-cart-drawer"><div data-section-id="cart-drawer" data-section-type="cart-drawer" data-form-action="/cart.html" data-form-method="post">
   <div class="cart-drawer-modal cc-popup cc-popup--right" aria-hidden="true" data-freeze-scroll="true">
     <div class="cc-popup-background"></div>
     <div class="cc-popup-modal" role="dialog" aria-modal="true" aria-labelledby="CartDrawerModal-Title">
@@ -1123,7 +1123,7 @@ for (var attr in meta) {
         <div class="main-search__container container">
           <button class="main-search__close button notabutton" aria-label="Close"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg></button>
 
-          <form class="main-search__form" action="//search" method="get" autocomplete="off">
+          <form class="main-search__form" action="/search.html" method="get" autocomplete="off">
             <input type="hidden" name="type" value="product,article,page" />
             <input type="hidden" name="options[prefix]" value="last" />
             <div class="main-search__input-container">

@@ -43,6 +43,11 @@ return function (App $app) {
     $app->get('/cart.js', JsCartAction::class);
     $app->get('/cart.html', HtmlCartAction::class);
     $app->get('/checkout.html', HtmlCheckoutAction::class);
+    $app->get('/checkout', function (Request $request, Response $response) {
+        return $response
+            ->withHeader('Location', '/checkout.html')
+            ->withStatus(302);
+    });
 
     $app->group('/users', function (Group $group) {
         $group->get('', ListUsersAction::class);

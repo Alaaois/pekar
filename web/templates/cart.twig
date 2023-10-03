@@ -1,6 +1,32 @@
 {% extends "layout.html" %}
 
+{% block title %}Ваша корзина покупок – laserpecker.net{% endblock %}
 {% block content %}
+    {% if items|length == 0 %}
+        <div class="align-center">
+            <div class="lightly-spaced-row">
+                            <span class="icon--large">
+                             <svg aria-hidden="true" height="24px" viewBox="0 0 24 24" width="24px">
+                              <g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+                               <polygon points="2 9.25 22 9.25 18 21.25 6 21.25" stroke="currentColor" stroke-width="1.5">
+                               </polygon>
+                               <line stroke="currentColor" stroke-linecap="square" stroke-width="1.5" x1="12" x2="12" y1="9" y2="3">
+                               </line>
+                              </g>
+                             </svg>
+                            </span>
+            </div>
+            <div class="majortitle h1-style">
+                Ваша корзина пуста
+            </div>
+            <div class="button-row">
+                <a class="btn btn--primary button-row__button" href="/collections/all.html">
+                    Начать покупки
+                </a>
+            </div>
+        </div>
+    {% endif %}
+    {% if items|length > 0 %}
     <cart-form data-section-id="template--19320061788456__main" data-ajax-update="true">
 
         <div data-cc-animate data-merge="page-heading">
@@ -11,10 +37,9 @@
 
         <div class="slim-container align-center" data-cc-animate>
         </div>
-        <form action="/cart" method="post" id="cartform" class="cart-form">
+        <form action="/checkout.html" method="post" id="cartform" class="cart-form">
             <div class="cart-item-list" data-merge-list="cart-items">
                 <div class="cart-item-list__body">
-
                     <div data-merge-list-item="item-key:head">
                         <div class="cart-item-list__head" aria-hidden="true" data-cc-animate>
                             <div class="cart-item-list-heading cart-item-list-heading--product">
@@ -32,132 +57,132 @@
                         </div>
                     </div>
                     {% for item in items %}
-                    <div data-merge-list-item="item-key:44797632217384:04b83b25861d2d5df30fa152a309a53e|116117"
-                         data-merge-cache="44797632217384:04b83b25861d2d5df30fa152a309a53e|1|116117|">
-                        <div class="cart-item product-laserpecker-lx1" data-cc-animate>
-                            <div class="cart-item__column cart-item__image">
+                        <div data-merge-list-item="item-key:44797632217384:04b83b25861d2d5df30fa152a309a53e|116117"
+                             data-merge-cache="44797632217384:04b83b25861d2d5df30fa152a309a53e|1|116117|">
+                            <div class="cart-item product-laserpecker-lx1" data-cc-animate>
+                                <div class="cart-item__column cart-item__image">
 
-                                <a href="{{ item.link }}?variant={{ item.id }}">
-                                    <div class="rimage-outer-wrapper" style="max-width: 100px">
-                                        <div class="rimage-wrapper lazyload--placeholder"
-                                             style="padding-top:100.0%">
-                                            <!-- data-src="/cdn/shop/products/LX1_{width}x.png?v=1679477843"-->
-                                            <img class="rimage__image lazyload fade-in "
-                                                 data-src="http://{{ item.getCoverImage }}"
-                                                 data-widths="[180, 220, 300, 360, 460, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
-                                                 data-aspectratio="1.0"
-                                                 data-sizes="auto"
-                                                 alt=""
-                                            >
+                                    <a href="{{ item.link }}?variant={{ item.id }}">
+                                        <div class="rimage-outer-wrapper" style="max-width: 100px">
+                                            <div class="rimage-wrapper lazyload--placeholder"
+                                                 style="padding-top:100.0%">
+                                                <!-- data-src="/cdn/shop/products/LX1_{width}x.png?v=1679477843"-->
+                                                <img class="rimage__image lazyload fade-in "
+                                                     data-src="http://{{ item.getCoverImage }}"
+                                                     data-widths="[180, 220, 300, 360, 460, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
+                                                     data-aspectratio="1.0"
+                                                     data-sizes="auto"
+                                                     alt=""
+                                                >
 
-                                            <noscript>
-                                                <img class="rimage__image"
-                                                     src="http://{{ item.getCoverImage }}"
-                                                     alt="">
-                                            </noscript>
-                                        </div>
-                                    </div>
-
-                                </a>
-                            </div>
-
-                            <div class="cart-item__not-image">
-                                <div class="cart-item__column cart-item__description">
-                                    <div class="lightly-spaced-row">
-                                        <div class="cart-item__title">
-                                            <a class="inh-col"
-                                               href="{{ item.getLink }}?variant={{ item.geid }}">{{ item.getName }}</a>
-                                        </div>
-                                        <div class="small-text">
-                                            <div class="cart-item__variant">
-                                                <span class="cart-item__variant-label">Laser Module:</span>
-                                                <span class="cart-item__variant-value">LX1 20W</span>
+                                                <noscript>
+                                                    <img class="rimage__image"
+                                                         src="http://{{ item.getCoverImage }}"
+                                                         alt="">
+                                                </noscript>
                                             </div>
+                                        </div>
+
+                                    </a>
+                                </div>
+
+                                <div class="cart-item__not-image">
+                                    <div class="cart-item__column cart-item__description">
+                                        <div class="lightly-spaced-row">
+                                            <div class="cart-item__title">
+                                                <a class="inh-col"
+                                                   href="{{ item.getLink }}?variant={{ item.geid }}">{{ item.getName }}</a>
+                                            </div>
+                                            <div class="small-text">
+                                                <div class="cart-item__variant">
+                                                    <span class="cart-item__variant-label">Laser Module:</span>
+                                                    <span class="cart-item__variant-value">LX1 20W</span>
+                                                </div>
 
 
-                                            <div class="backorder hidden">
-                                                <p>
+                                                <div class="backorder hidden">
+                                                    <p>
                                                                     <span class="backorder__variant">
                                                                         LaserPecker LX1- LX1 20W / US
                                                                     </span>
-                                                    is backordered and will ship as soon as it is back
-                                                    in
-                                                    stock.
-                                                </p>
+                                                        is backordered and will ship as soon as it is back
+                                                        in
+                                                        stock.
+                                                    </p>
 
+                                                </div>
+                                            </div>
+                                            <div class="very-lightly-spaced-row">
+                                                <!--<div class="product-info-block product-inventory-notice product-inventory-notice--small product-inventory-notice--low">
+                                                    7 in stock
+                                                </div>-->
                                             </div>
                                         </div>
-                                        <div class="very-lightly-spaced-row">
-                                            <!--<div class="product-info-block product-inventory-notice product-inventory-notice--small product-inventory-notice--low">
-                                                7 in stock
-                                            </div>-->
-                                        </div>
                                     </div>
-                                </div>
-                                <div class="cart-item__column cart-item__price">
+                                    <div class="cart-item__column cart-item__price">
                                                 <span class="theme-money cart-item__selling-price">
                                                     <span class="etrans-money">{{ item.getPrice }} руб.</span>
                                                 </span>
-                                    <span class="struck-out-price small-text">
+                                        <span class="struck-out-price small-text">
                                                         <!--<span class="theme-money">
                                                             <span class="etrans-money">$1,399.00</span>
                                                         </span>-->
                                                     </span>
-                                </div>
-                                <div class="cart-item__column cart-item__quantity">
-                                    <div class="quantity buttoned-input">
-                                        <a id="updates_dec_1" class="notabutton quantity-down"
-                                           href="/cart/change?id=44797632217384:04b83b25861d2d5df30fa152a309a53e&quantity=0"
-                                           aria-label="Decrease">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="24"
-                                                 height="24"
-                                                 viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                                                 stroke-width="1" stroke-linecap="round"
-                                                 stroke-linejoin="round" class="feather feather-minus">
-                                                <title>Minus</title>
-                                                <line x1="5" y1="12" x2="19" y2="12"></line>
-                                            </svg>
-                                        </a>
-                                        <input
-                                                class="cart-item__quantity-input"
-                                                type="number"
-                                                size="2"
-                                                id="updates_1"
-                                                name="updates[]"
-                                                data-initial-value="1"
-                                                data-line="1"
-                                                max="999999"
-                                                value="{{ item.getQty }}"
-                                                aria-label="Quantity"
-                                        />
-                                        <a id="updates_inc_1" class="notabutton quantity-up "
-                                           href="/cart/change?id=44797632217384:04b83b25861d2d5df30fa152a309a53e&quantity=2"
-                                           aria-label="Increase">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="24"
-                                                 height="24"
-                                                 viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                                                 stroke-width="1" stroke-linecap="round"
-                                                 stroke-linejoin="round" class="feather feather-plus">
-                                                <title>Plus</title>
-                                                <line x1="12" y1="5" x2="12" y2="19"></line>
-                                                <line x1="5" y1="12" x2="19" y2="12"></line>
-                                            </svg>
-                                        </a>
                                     </div>
-                                    <a class="cart-item__remove small-text underline"
-                                       href="/cart/change?id=44797632217384:04b83b25861d2d5df30fa152a309a53e&quantity=0">Удалить</a>
-                                </div>
-                                <div class="cart-item__column cart-item__total" data-line="1">
+                                    <div class="cart-item__column cart-item__quantity">
+                                        <div class="quantity buttoned-input">
+                                            <a id="updates_dec_1" class="notabutton quantity-down"
+                                               href="/cart/change?id=44797632217384:04b83b25861d2d5df30fa152a309a53e&quantity=0"
+                                               aria-label="Decrease">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24"
+                                                     height="24"
+                                                     viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                                     stroke-width="1" stroke-linecap="round"
+                                                     stroke-linejoin="round" class="feather feather-minus">
+                                                    <title>Minus</title>
+                                                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                                                </svg>
+                                            </a>
+                                            <input
+                                                    class="cart-item__quantity-input"
+                                                    type="number"
+                                                    size="2"
+                                                    id="updates_1"
+                                                    name="updates[]"
+                                                    data-initial-value="1"
+                                                    data-line="1"
+                                                    max="999999"
+                                                    value="{{ item.getQty }}"
+                                                    aria-label="Quantity"
+                                            />
+                                            <a id="updates_inc_1" class="notabutton quantity-up "
+                                               href="/cart/change?id=44797632217384:04b83b25861d2d5df30fa152a309a53e&quantity=2"
+                                               aria-label="Increase">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24"
+                                                     height="24"
+                                                     viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                                     stroke-width="1" stroke-linecap="round"
+                                                     stroke-linejoin="round" class="feather feather-plus">
+                                                    <title>Plus</title>
+                                                    <line x1="12" y1="5" x2="12" y2="19"></line>
+                                                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                        <a class="cart-item__remove small-text underline"
+                                           href="/cart/change?id=44797632217384:04b83b25861d2d5df30fa152a309a53e&quantity=0">Удалить</a>
+                                    </div>
+                                    <div class="cart-item__column cart-item__total" data-line="1">
                                                     <span class="theme-money cart-item__selling-total">
                                                         <span class="etrans-money">{{ item.getQty * item.getPrice }} руб.</span>
                                                     </span>
-                                    <!--<div class="theme-money struck-out-price small-text">
-                                        <span class="etrans-money">$1,399.00</span>
-                                    </div>-->
+                                        <!--<div class="theme-money struck-out-price small-text">
+                                            <span class="etrans-money">$1,399.00</span>
+                                        </div>-->
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
                     {% endfor %}
                 </div>
             </div>
@@ -211,4 +236,5 @@
             </div>
         </form>
     </cart-form>
+    {% endif %}
 {% endblock %}
