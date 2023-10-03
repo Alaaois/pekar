@@ -31,6 +31,7 @@
         "slim/php-view": "^3.2",
         "slim/psr7": "^1.5",
         "slim/slim": "^4.10",
+        "slim/twig-view": "2.5.0",
         "vlucas/phpdotenv": "^5.5"
     },
     "require-dev": {

@@ -11,6 +11,7 @@ use Monolog\Processor\UidProcessor;
 use Psr\Container\ContainerInterface;
 use Psr\Log\LoggerInterface;
 use Slim\Views\PhpRenderer;
+use Slim\Views\Twig;
 
 return function (ContainerBuilder $containerBuilder) {
     $containerBuilder->addDefinitions([
@@ -39,6 +40,9 @@ return function (ContainerBuilder $containerBuilder) {
         },
         PhpRenderer::class => function (ContainerInterface $container) {
             return new PhpRenderer('../templates/');
+        },
+        Twig::class => function (ContainerInterface $container) {
+            return new Twig('../templates/', []);
         },
     ]);
 };

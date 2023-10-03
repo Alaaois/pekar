@@ -14,6 +14,7 @@ use App\Application\Actions\User\ListUsersAction;
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Slim\Interfaces\RouteCollectorProxyInterface as Group;
+use App\Application\Actions\Checkout\HtmlCheckoutAction;
 
 return function (App $app) {
     $app->options('/{routes:.*}', function (Request $request, Response $response) {
@@ -41,6 +42,7 @@ return function (App $app) {
 
     $app->get('/cart.js', JsCartAction::class);
     $app->get('/cart.html', HtmlCartAction::class);
+    $app->get('/checkout.html', HtmlCheckoutAction::class);
 
     $app->group('/users', function (Group $group) {
         $group->get('', ListUsersAction::class);

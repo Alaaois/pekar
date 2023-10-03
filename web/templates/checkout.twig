@@ -1,0 +1,67 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    <!-- Карточки товаров с использованием Bootstrap -->
+    {% for item in items %}
+        <div class="card mb-3">
+            <div class="row g-0">
+                <div class="col-md-4">
+                    <div class="rimage-wrapper lazyload--placeholder"
+                         style="padding-top:100.0%">
+                        <img class="rimage__image lazyload fade-in "
+                             data-src="http://{{ item.getCoverImage }}"
+                             data-widths="[180, 220, 300, 360, 460, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
+                             data-aspectratio="1.0"
+                             data-sizes="auto"
+                             alt=""
+                        >
+
+                        <noscript>
+                            <img class="rimage__image"
+                                 src="http://{{ item.getCoverImage }}"
+                                 alt="">
+                        </noscript>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">&nbsp;</h5>
+                        <p class="card-text">{{ item.getName }}</p>
+                        <div class="price">{{ item.getQty * item.getPrice }} руб.</div>
+                        <p class="card-text">
+                            <small class="text-muted">Количество: {{ item.getQty }}</small>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+    <!-- Конец карточек товаров -->
+    <h1 class="mt-5">Оформление заказа</h1>
+    <form>
+        <div class="mb-3">
+            <label for="phone" class="form-label">Номер телефона (РФ)</label>
+            <input type="tel" class="form-control" id="phone" placeholder="+7 (___) ___-__-__" required>
+            <small class="form-text text-muted">Введите номер телефона в формате "+7 (000) 000-00-00".</small>
+        </div>
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label for="firstName" class="form-label">Имя</label>
+                <input type="text" class="form-control" id="firstName" placeholder="Введите ваше имя" required>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label for="lastName" class="form-label">Фамилия</label>
+                <input type="text" class="form-control" id="lastName" placeholder="Введите вашу фамилию" required>
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="address" class="form-label">Адрес</label>
+            <input type="text" class="form-control" id="address" placeholder="Введите ваш адрес" required>
+        </div>
+        <div class="mb-3">
+            <label for="city" class="form-label">Город</label>
+            <input type="text" class="form-control" id="city" placeholder="Введите ваш город" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Отправить заказ</button>
+    </form>
+{% endblock %}
