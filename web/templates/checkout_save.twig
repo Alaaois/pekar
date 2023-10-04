@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+
+{% block title %}Оформление заказа – laserpecker.net{% endblock %}
+{% block content %}
+    <h2 class="mt-5">Спасибо мы получили информацию о вашем заказе:</h2>
+    <div class="container">
+        <div class="row align-items-start">
+            <div class="col">
+                <div class="mb-3">
+                    <label for="phone" class="form-label">Номер телефона (РФ):</label>
+                    <b>{{ body.phone|e }}</b>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label for="firstName" class="form-label">Имя:</label>
+                    <b>{{ body.firstName|e }}</b>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label for="lastName" class="form-label">Фамилия:</label>
+                    <b>{{ body.lastName|e }}</b>
+                </div>
+                <div class="mb-3">
+                    <label for="city" class="form-label">Город:</label>
+                    <b>{{ body.city|e }}</b>
+                </div>
+                <div class="mb-3">
+                    <label for="address" class="form-label">Адрес:</label>
+                    <b>{{ body.address|e }}</b>
+                </div>
+                <div class="mb-3">
+                    <label for="note" class="form-label">Комментарий:</label>
+                    <b>{{ body.note|e }}</b>
+                </div>
+                <div class="mb-3">
+                    Сумма заказа:
+                    <b>{{ subtotal }} руб.</b>
+                </div>
+                <div class="mb-3">
+                    <h4 class="mt-5">В билжайшее время менеджер свяжется с вами для уточнения деталей оплаты и доставки
+                        товаров.</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

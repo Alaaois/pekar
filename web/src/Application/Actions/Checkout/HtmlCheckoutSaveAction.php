@@ -8,7 +8,7 @@ use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Log\LoggerInterface;
 use Slim\Views\Twig;
 
-class HtmlCheckoutAction extends Action
+class HtmlCheckoutSaveAction extends Action
 {
 
     private CartRepository $cartRepository;
@@ -35,12 +35,15 @@ class HtmlCheckoutAction extends Action
         $f = function ($v) {
             return $v->getQty() * $v->getPrice();
         };
+
+        $body = $this->request->getParsedBody();
         return $this->view->render(
             $this->response,
-            'checkout.twig',
+            'checkout_save.twig',
             [
                 'token' => $session,
                 'items' => $items,
+                'body' => $body,
                 'subtotal' => array_sum(array_map($f, $items)),
             ]
         );

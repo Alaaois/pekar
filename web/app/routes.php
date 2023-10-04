@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 use App\Application\Actions\Cart\HtmlCartAction;
 use App\Application\Actions\Cart\UpdateCartAction;
+use App\Application\Actions\Checkout\HtmlCheckoutSaveAction;
 use Slim\App;
 use Slim\Exception\HttpNotFoundException;
 use App\Application\Actions\Cart\JsCartAction;
@@ -43,6 +44,7 @@ return function (App $app) {
     $app->get('/cart.js', JsCartAction::class);
     $app->get('/cart.html', HtmlCartAction::class);
     $app->get('/checkout.html', HtmlCheckoutAction::class);
+    $app->post('/checkout.html', HtmlCheckoutSaveAction::class);
     $app->get('/checkout', function (Request $request, Response $response) {
         return $response
             ->withHeader('Location', '/checkout.html')
