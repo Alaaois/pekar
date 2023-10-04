@@ -69,6 +69,35 @@ VALUES(?, ?, ?)
 ON DUPLICATE KEY UPDATE updated_at = current_timestamp(), qty = VALUES(qty)");
         $stmt->execute([$session, $item->getId(), $item->getQty()]);
 
+
+        $stmt = $this->db->prepare("SELECT 
+            a.qty, 
+            b.name, 
+            b.cover_image,
+            b.price,
+            b.link,
+            c.item_id
+        FROM cart_items a
+        LEFT JOIN variants c ON a.item_id = c.item_id
+        LEFT JOIN products b ON c.product_id = b.item_id
+        WHERE 
+            a.session = ? AND c.item_id = ?
+        LIMIT 1");
+        $stmt->execute([$session, $item->getId()]);
+
+        $row = $stmt->fetch();
+
+        if ($row) {
+            $item = new CartItem(
+                $row["item_id"],
+                $row["name"],
+                $row["price"],
+                $row["qty"],
+                $row["cover_image"],
+                $row['link']
+            );
+        }
+
         return $item;
     }
 

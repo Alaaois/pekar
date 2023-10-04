@@ -2,9 +2,7 @@
 
 declare(strict_types=1);
 
-use App\Application\Actions\Cart\HtmlCartAction;
-use App\Application\Actions\Cart\UpdateCartAction;
-use App\Application\Actions\Checkout\HtmlCheckoutSaveAction;
+use App\Application\Actions\Recommendations\ProductsAction;
 use Slim\App;
 use Slim\Exception\HttpNotFoundException;
 use App\Application\Actions\Cart\JsCartAction;
@@ -16,6 +14,10 @@ use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Slim\Interfaces\RouteCollectorProxyInterface as Group;
 use App\Application\Actions\Checkout\HtmlCheckoutAction;
+use App\Application\Actions\Cart\HtmlCartAction;
+use App\Application\Actions\Cart\UpdateCartAction;
+use App\Application\Actions\Checkout\HtmlCheckoutSaveAction;
+use App\Application\Actions\Variants\VariantsAction;
 
 return function (App $app) {
     $app->options('/{routes:.*}', function (Request $request, Response $response) {
@@ -42,6 +44,8 @@ return function (App $app) {
     });
 
     $app->get('/cart.js', JsCartAction::class);
+    $app->get('/variants{routes:.*}', VariantsAction::class);
+    $app->get('/recommendations/products', ProductsAction::class);
     $app->get('/cart.html', HtmlCartAction::class);
     $app->get('/checkout.html', HtmlCheckoutAction::class);
     $app->post('/checkout.html', HtmlCheckoutSaveAction::class);
