@@ -11,7 +11,8 @@
   "total_discount": 0,
   "total_weight": 0.0,
   "item_count": 2,
-  "items": [<?php foreach ($items as $item): ?>
+  "items": [<?php foreach ($items as $key => $item): ?>
+    <?php if ($key > 0):?>,<?php endif;?>
     {
       "id": <?=$item->getId() ?>,
       "properties": {},
@@ -72,7 +73,7 @@
         "increment": 1
       },
       "has_components": false
-    },
+    }
     <?php endforeach; ?>
   ],
   "requires_shipping": true,

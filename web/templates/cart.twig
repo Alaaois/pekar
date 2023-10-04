@@ -232,5 +232,21 @@
                 </div>
             </form>
         </cart-form>
+        <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script>
+            function refresh() {
+                setTimeout(function () {
+                    location.reload();
+                }, 1000);
+            }
+            $(function () {
+                $('div.cart-item-list__body').on('click', '.cart-item__remove, .quantity-up, .quantity-down', function () {
+                    refresh();
+                });
+                $('div.cart-item-list__body').on('change', '.cart-item__quantity-input', function () {
+                    refresh();
+                });
+            });
+        </script>
     {% endif %}
 {% endblock %}
