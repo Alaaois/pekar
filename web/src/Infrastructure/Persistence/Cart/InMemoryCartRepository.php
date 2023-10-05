@@ -61,4 +61,12 @@ class InMemoryCartRepository implements CartRepository
     {
         return [];
     }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function clear(string $session)
+    {
+        // TODO: Implement clear() method.
+    }
 }

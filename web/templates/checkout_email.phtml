@@ -1,0 +1,65 @@
+<h2 class="mt-5">Привет на вашем сайте оформлен заказ:</h2>
+<style>
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+</style>
+<div class="container">
+    <div class="row align-items-start">
+        <div class="col">
+            <div class="mb-3">
+                <label for="phone" class="form-label">Номер телефона (РФ):</label>
+                <b><?= $body['phone'] ?></b>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label for="firstName" class="form-label">Имя:</label>
+                <b><?= $body['firstName'] ?></b>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label for="lastName" class="form-label">Фамилия:</label>
+                <b><?= $body['lastName'] ?></b>
+            </div>
+            <div class="mb-3">
+                <label for="city" class="form-label">Город:</label>
+                <b><?= $body['city'] ?></b>
+            </div>
+            <div class="mb-3">
+                <label for="address" class="form-label">Адрес:</label>
+                <b><?= $body['address'] ?></b>
+            </div>
+            <div class="mb-3">
+                <label for="note" class="form-label">Комментарий:</label>
+                <b><?= $body['note'] ?></b>
+            </div>
+            <br class="mb-3">
+                Сумма заказа:
+                <b><?= $subtotal ?> руб.</b>
+            </div>
+            <!-- Карточки товаров с использованием Bootstrap -->
+            <div class="mb-3">
+                <br/>
+                <table cellspacing="2" border="1" cellpadding="5" style="border-spacing:0;">
+                    <tr>
+                        <th>Id</th>
+                        <th>Наименование</th>
+                        <th>Количество</th>
+                        <th>Цена</th>
+                        <th>Стоимость</th>
+                    </tr>
+                    <?php foreach ($items as $item): ?>
+                        <tr>
+                            <td><?= $item->getId() ?></td>
+                            <td><?= $item->getName() ?></td>
+                            <td><?= $item->getQty() ?></td>
+                            <td><?= $item->getPrice() ?> руб.</td>
+                            <td><?= $item->getQty() * $item->getPrice() ?> руб.</td>
+                        </tr>
+                    <?php endforeach; ?>
+                </table>
+            </div>
+            <!-- Конец карточек товаров -->
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,72 @@
+<h2 class="mt-5">Привет на вашем сате оформлен заказ:</h2>
+<div class="container">
+    <div class="row align-items-start">
+        <div class="col">
+            <div class="mb-3">
+                <label for="phone" class="form-label">Номер телефона (РФ):</label>
+                <b>{{ body.phone|e }}</b>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label for="firstName" class="form-label">Имя:</label>
+                <b>{{ body.firstName|e }}</b>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label for="lastName" class="form-label">Фамилия:</label>
+                <b>{{ body.lastName|e }}</b>
+            </div>
+            <div class="mb-3">
+                <label for="city" class="form-label">Город:</label>
+                <b>{{ body.city|e }}</b>
+            </div>
+            <div class="mb-3">
+                <label for="address" class="form-label">Адрес:</label>
+                <b>{{ body.address|e }}</b>
+            </div>
+            <div class="mb-3">
+                <label for="note" class="form-label">Комментарий:</label>
+                <b>{{ body.note|e }}</b>
+            </div>
+            <div class="mb-3">
+                Сумма заказа:
+                <b>{{ subtotal }} руб.</b>
+            </div>
+            <!-- Карточки товаров с использованием Bootstrap -->
+            {% for item in items %}
+                <div class="card mb-3">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <div class="rimage-wrapper lazyload--placeholder"
+                                 style="padding-top:100.0%">
+                                <img class="rimage__image lazyload fade-in "
+                                     data-src="http://{{ item.getCoverImage }}"
+                                     data-widths="[180, 220, 300, 360, 460, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
+                                     data-aspectratio="1.0"
+                                     data-sizes="auto"
+                                     alt=""
+                                >
+
+                                <noscript>
+                                    <img class="rimage__image"
+                                         src="http://{{ item.getCoverImage }}"
+                                         alt="">
+                                </noscript>
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">&nbsp;</h5>
+                                <p class="card-text">{{ item.getName }}</p>
+                                <div class="price">{{ item.getQty * item.getPrice }} руб.</div>
+                                <p class="card-text">
+                                    <small class="text-muted">Количество: {{ item.getQty }}</small>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+            <!-- Конец карточек товаров -->
+        </div>
+    </div>
+</div>
+

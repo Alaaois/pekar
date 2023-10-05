@@ -8,6 +8,7 @@ use Illuminate\Database\Capsule\Manager;
 use Monolog\Handler\StreamHandler;
 use Monolog\Logger;
 use Monolog\Processor\UidProcessor;
+use PHPMailer\PHPMailer\PHPMailer;
 use Psr\Container\ContainerInterface;
 use Psr\Log\LoggerInterface;
 use Slim\Views\PhpRenderer;
@@ -43,6 +44,23 @@ return function (ContainerBuilder $containerBuilder) {
         },
         Twig::class => function (ContainerInterface $container) {
             return new Twig('../templates/', []);
+        },
+        PHPMailer::class => function (ContainerInterface $container) {
+            $mail = new PHPMailer();
+
+            // Settings
+            $mail->IsSMTP();
+            $mail->CharSet = 'UTF-8';
+
+            $s = $container->get(SettingsInterface::class)->get('email');
+            $mail->Host = $s['host'];                  // SMTP server example
+            $mail->SMTPDebug = 0;                      // enables SMTP debug information (for testing)
+            $mail->SMTPAutoTLS = true;                 // enable TLS encryption
+            $mail->SMTPAuth = true;                    // enable SMTP authentication
+            $mail->Port = $s['port'];                  // set the SMTP port for the GMAIL server
+            $mail->Username = $s['host_user'];         // SMTP account username example
+            $mail->Password = $s['host_password'];     // SMTP account password example
+            return $mail;
         },
     ]);
 };

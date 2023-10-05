@@ -14,8 +14,8 @@ return function (ContainerBuilder $containerBuilder) {
         SettingsInterface::class => function () {
             return new Settings([
                 'displayErrorDetails' => true, // Should be set to false in production
-                'logError'            => false,
-                'logErrorDetails'     => false,
+                'logError' => false,
+                'logErrorDetails' => false,
                 'logger' => [
                     'name' => 'slim-app',
                     'path' => isset($_ENV['docker']) ? 'php://stdout' : __DIR__ . '/../logs/app.log',
@@ -27,9 +27,15 @@ return function (ContainerBuilder $containerBuilder) {
                     'database' => $_ENV['DB_DATABASE'],
                     'username' => $_ENV['DB_USERNAME'],
                     'password' => $_ENV['DB_PASSWORD'],
-                    'charset'   => 'utf8',
+                    'charset' => 'utf8',
                     'collation' => 'utf8',
-                    'prefix'    => '',
+                    'prefix' => '',
+                ],
+                'email' => [
+                    'host' => $_ENV['EMAIL_HOST'],
+                    'port' => $_ENV['EMAIL_PORT'],
+                    'host_user' => $_ENV['EMAIL_HOST_USER'],
+                    'host_password' => $_ENV['EMAIL_HOST_PASSWORD'],
                 ]
             ]);
         }

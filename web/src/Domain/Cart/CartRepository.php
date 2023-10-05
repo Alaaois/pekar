@@ -10,6 +10,7 @@ interface CartRepository
      * @return CartItem[]
      */
     public function items(string $session): array;
+    public function clear(string $session);
 
     /**
      * @return CartItem

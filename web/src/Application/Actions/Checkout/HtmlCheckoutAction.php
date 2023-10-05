@@ -27,10 +27,18 @@ class HtmlCheckoutAction extends Action
      */
     protected function action(): Response
     {
-        $this->logger->info('Cart viewed.');
+        $this->logger->info('Checkout viewed.');
 
         $session = $this->request->getAttribute('session');
         $items = $this->cartRepository->items($session);
+
+        if (empty($items)) {
+            $response = $this->response
+                ->withHeader('Location', '/cart.html')
+                ->withStatus(302);
+
+            return $response;
+        }
 
         $f = function ($v) {
             return $v->getQty() * $v->getPrice();

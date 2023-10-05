@@ -6,7 +6,7 @@ services:
     build:
       context: .
       dockerfile: php/Dockerfile
-    image: bitnami/php-fpm
+    image: bitnami/php-fpm:7.4.33
     container_name: app
     tty: true
     environment:

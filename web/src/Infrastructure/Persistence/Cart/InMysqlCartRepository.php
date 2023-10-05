@@ -127,4 +127,13 @@ ON DUPLICATE KEY UPDATE updated_at = current_timestamp(), qty = VALUES(qty)");
 
         return $this->items($session);
     }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function clear(string $session)
+    {
+        $stmt = $this->db->prepare("delete from cart_items where session = ?");
+        $stmt->execute([$session]);
+    }
 }
