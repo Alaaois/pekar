@@ -25,12 +25,11 @@ class InMysqlCartRepository implements CartRepository
     {
         $items = [];
 
-        /*TODO много вариантов, один продукт*/
         $stmt = $this->db->prepare("SELECT 
             a.qty, 
-            b.name, 
+            c.name, 
             b.cover_image,
-            b.price,
+            IF(c.price != 0, c.price, b.price) AS price,
             b.link,
             c.item_id
         FROM cart_items a
@@ -72,9 +71,9 @@ ON DUPLICATE KEY UPDATE updated_at = current_timestamp(), qty = VALUES(qty)");
 
         $stmt = $this->db->prepare("SELECT 
             a.qty, 
-            b.name, 
+            c.name, 
             b.cover_image,
-            b.price,
+            IF(c.price != 0, c.price, b.price) AS price,
             b.link,
             c.item_id
         FROM cart_items a
