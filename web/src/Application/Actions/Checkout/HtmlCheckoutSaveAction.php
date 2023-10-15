@@ -69,7 +69,7 @@ class HtmlCheckoutSaveAction extends Action
         ];
 
         $this->sendEmail(
-            'Оформление заказа – laserpecker.net',
+            'Оформление заказа',
             $this->php_view->fetch('checkout_email.phtml', $data),
         );
 
