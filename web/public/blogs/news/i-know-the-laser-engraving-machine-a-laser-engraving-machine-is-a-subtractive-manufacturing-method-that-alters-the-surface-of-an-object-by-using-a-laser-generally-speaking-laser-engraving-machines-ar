@@ -979,7 +979,7 @@ for (var attr in meta) {
       <div class="announcement-bar__middle"><div class="announcement-bar__announcements"><div class="announcement" >
                 <div class="announcement__text"><p><a href="/pages/back-to-school-sale" title="/pages/back-to-school-sale">Back to school sale</a> - Up to 30% OFF</p></div>
               </div><div class="announcement announcement--inactive" >
-                <div class="announcement__text"><p>New Arrivals - <a href="../../products/laserpecker-4.html" target="_blank" title="Preorder-LaserPecker 4 - The World's First Portable Dual-Laser for Almost All Materials!">LaserPecker 4</a></p></div>
+                <div class="announcement__text"><p>New Arrivals - <a href="../../products/laserpecker-4.html" target="_blank" title="LaserPecker 4 - The World's First Portable Dual-Laser for Almost All Materials!">LaserPecker 4</a></p></div>
               </div><div class="announcement announcement--inactive" >
                 <div class="announcement__text"><p>Fast Free Shipping from US/ EU</p></div>
               </div><div class="announcement announcement--inactive" >
