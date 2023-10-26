@@ -85,8 +85,8 @@ class HtmlCheckoutSaveAction extends Action
         $mail = $this->mail;
 
         // Content
-//        $mail->setFrom('lifeair@gmail.com');
-        $mail->addAddress('laserpecker.io@gmail.com');
+        $mail->setFrom('laserpecker.io@gmail.com');
+        $mail->addAddress('laserpecker.io@yandex.ru');
         $mail->addAddress('lifeair@gmail.com');
 
         $mail->isHTML(true);                 // Set email format to HTML
