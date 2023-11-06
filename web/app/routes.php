@@ -14,6 +14,7 @@ use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
 use Slim\Interfaces\RouteCollectorProxyInterface as Group;
 use App\Application\Actions\Checkout\HtmlCheckoutAction;
+use App\Application\Actions\Page\PageAction;
 use App\Application\Actions\Cart\HtmlCartAction;
 use App\Application\Actions\Cart\UpdateCartAction;
 use App\Application\Actions\Checkout\HtmlCheckoutSaveAction;
@@ -54,6 +55,7 @@ return function (App $app) {
             ->withHeader('Location', '/checkout.html')
             ->withStatus(302);
     });
+    $app->get('/pages/machine-comparison.html', PageAction::class);
 
     $app->group('/users', function (Group $group) {
         $group->get('', ListUsersAction::class);
